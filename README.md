@@ -26,7 +26,7 @@ The code requires the following packages:
 - pandas
 - unidecode
 
-To install run `conda install -r requirements.txt` in the `changing-rooms` folder.
+To install run `pip install -r requirements.txt` in the `changing-rooms` folder.
 
 ## squadmates.py
 
