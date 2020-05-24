@@ -28,7 +28,7 @@ The code requires the following packages:
 
 To install run `conda install -r requirements.txt` in the `changing-rooms` folder.
 
-### 4. Basic Code Example
+## squadmates.py
 
 Type `python squadmates.py -p <player_name>` into your terminal. Default player is the Fulham legend `Steed Malbranque`.
 
@@ -43,9 +43,40 @@ The CSV file will have the following headers:
 - season (the season, e.g. 2000-2001)
 - type (club or nation)
 
-## Provided Examples
+### Provided Examples
 
 See `/examples` for CSV files for a number of world famous players including Steed Malbranque.
+
+## matches.py
+
+`matches.py` finds all the matches between two players (you need to run `squadmates.py` on both players first).
+
+Type `python matches.py -f <folder> -p1 <player_name> -p2 <player_name> -t <type>` where `<folder>` is the folder path for the player CSVs and `<type>` is either both (default), club or nation.
+
+For example, for Lionel Messi and Cristiano Ronaldo for `type` both, the common players are:
+
+- Paulo Dybala
+- Facundo Quiroga
+- Fernando Gago
+- Gonzalo Higuain
+- Nelson Semedo
+- Deco
+- Gabriel Heinze
+- Edgar Ie
+- Andre Gomes
+- Pique
+- Martin Caceres
+- Santamaria
+- Neto
+- Ezequiel Garay
+- Angel Di Maria
+- Carlos Tevez
+
+If we use `type` club, the common players are:
+
+- Pique
+- Santamaria
+- Martin Caceres
 
 ## Rules
 
