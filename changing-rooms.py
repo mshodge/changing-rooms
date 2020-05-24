@@ -36,8 +36,9 @@ def player_club_history(args):
 
 	try:
 		current_team = soup.findAll("td", {"width": "60%"})[0].findAll("a")
-		teams.append(str(current_team[0].string))
-		teams_url.append(current_team[0].attrs.get('href'))
+		if current_team[0].string[0] != '1' and current_team[0].string[0] != '2':
+			teams.append(str(current_team[0].string))
+			teams_url.append(current_team[0].attrs.get('href'))
 	except IndexError:
 		None
 
@@ -78,8 +79,8 @@ def find_club_mates(args, teams, teams_url, years_start, years_end):
 	for team in teams:
 		idx = teams.index(team)
 		players_tmp = []
-		for i in range(years_start[idx], years_end[idx]):
-			print(f'Getting squad mates for {args.player} for {teams[idx]} during {i}')
+		for i in range(years_start[idx] + 1, years_end[idx] + 1):
+			print(f'Getting squad mates for {args.player} for {teams[idx]} during the {i-1}-{i} season')
 			squad_url = f'https://www.worldfootball.net{teams_url[idx]}{i}/2/'
 			page = requests.get(squad_url)
 			soup = BeautifulSoup(page.content, 'html.parser')
@@ -91,17 +92,17 @@ def find_club_mates(args, teams, teams_url, years_start, years_end):
 						player_found = unidecode.unidecode(player_found)
 						player.append(player_found)
 						club.append(team)
-						season.append(f'{i}-{i+1}')
+						season.append(f'{i-1}-{i}')
 				except TypeError:
 					continue
 
 	return player, club, season
 
 def print_summary(args, player, team, season):
-	print(f' \n{args.player} has:\n '
-		  f'Played for {len(set(team))} teams \n'
-		  f'Had {len(set(player))} squad mates \n'
-		  f'Across {len(set(season))} seasons \n')
+	print(f' \n{args.player}:\n\n '
+		  f'- Has played for {len(set(team))} clubs \n'
+		  f' - Has had {len(set(player))} different squad mates \n'
+		  f' - Has played across {len(set(season))} seasons \n')
 
 def save_results(args, player, team, season):
 	df = pd.DataFrame({'player': player, 'team': team, 'season': season})

@@ -15,7 +15,7 @@ Type `python changing-rooms.py -p <player_name>` into your terminal. Default pla
 
 ### Examples
 
-See `/examples` for CSV files for Cristiano Ronaldo, Lionel Messi, Roberto Carlos and of course, Steed Malbranque (see table example below).
+See `/examples` for CSV files for a number of world famous players including Steed Malbranque (see table example below).
 
 |player|team                         |season|
 |------|-----------------------------|------|
