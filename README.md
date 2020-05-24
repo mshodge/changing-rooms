@@ -30,7 +30,7 @@ To install run `conda install -r requirements.txt` in the `changing-rooms` folde
 
 ### 4. Basic Code Example
 
-Type `python changing-rooms.py -p <player_name>` into your terminal. Default player is the Fulham legend `Steed Malbranque`.
+Type `python squadmates.py -p <player_name>` into your terminal. Default player is the Fulham legend `Steed Malbranque`.
 
 As it runs it will print some information to the command line.
 
