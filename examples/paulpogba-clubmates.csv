@@ -1,0 +1,790 @@
+player,team,season,type
+Michele Fornasier,None,2009-2010,club
+Marnick Vermijl,None,2009-2010,club
+Charni Ekangamene,None,2009-2010,club
+Raheem Hanley,None,2009-2010,club
+Jesse Lingard,None,2009-2010,club
+Louis Rowley,None,2010-2011,club
+Tom Thorpe,None,2010-2011,club
+Marnick Vermijl,None,2010-2011,club
+Charni Ekangamene,None,2010-2011,club
+Jesse Lingard,None,2010-2011,club
+Mats Moller Daehli,None,2010-2011,club
+John Cofie,None,2010-2011,club
+Ben Amos,Manchester United,2011-2012,club
+De Gea,Manchester United,2011-2012,club
+Sam Johnstone,Manchester United,2011-2012,club
+Anders Lindegaard,Manchester United,2011-2012,club
+Jonny Evans,Manchester United,2011-2012,club
+Patrice Evra,Manchester United,2011-2012,club
+Fabio,Manchester United,2011-2012,club
+Rio Ferdinand,Manchester United,2011-2012,club
+Ezekiel Fryers,Manchester United,2011-2012,club
+Phil Jones,Manchester United,2011-2012,club
+Michael Keane,Manchester United,2011-2012,club
+Rafael,Manchester United,2011-2012,club
+Chris Smalling,Manchester United,2011-2012,club
+Marnick Vermijl,Manchester United,2011-2012,club
+Nemanja Vidic,Manchester United,2011-2012,club
+Anderson,Manchester United,2011-2012,club
+Michael Carrick,Manchester United,2011-2012,club
+Tom Cleverley,Manchester United,2011-2012,club
+Darren Fletcher,Manchester United,2011-2012,club
+Ryan Giggs,Manchester United,2011-2012,club
+Jesse Lingard,Manchester United,2011-2012,club
+Ji-Sung Park,Manchester United,2011-2012,club
+Paul Scholes,Manchester United,2011-2012,club
+Antonio Valencia,Manchester United,2011-2012,club
+Ashley Young,Manchester United,2011-2012,club
+Dimitar Berbatov,Manchester United,2011-2012,club
+Javier Hernandez,Manchester United,2011-2012,club
+Will Keane,Manchester United,2011-2012,club
+Nani,Manchester United,2011-2012,club
+Michael Owen,Manchester United,2011-2012,club
+Wayne Rooney,Manchester United,2011-2012,club
+Danny Welbeck,Manchester United,2011-2012,club
+Alex Ferguson,Manchester United,2011-2012,club
+Rene Meulensteen,Manchester United,2011-2012,club
+Mike Phelan,Manchester United,2011-2012,club
+Eric Steele,Manchester United,2011-2012,club
+Laurentiu Branescu,Juventus,2012-2013,club
+Gianluigi Buffon,Juventus,2012-2013,club
+Federico Gagliardini,Juventus,2012-2013,club
+Rubinho,Juventus,2012-2013,club
+Marco Storari,Juventus,2012-2013,club
+Andrea Barzagli,Juventus,2012-2013,club
+Leonardo Bonucci,Juventus,2012-2013,club
+Martin Caceres,Juventus,2012-2013,club
+Carlos Garcia,Juventus,2012-2013,club
+Giorgio Chiellini,Juventus,2012-2013,club
+Paolo De Ceglie,Juventus,2012-2013,club
+Mauricio Isla,Juventus,2012-2013,club
+Stephan Lichtsteiner,Juventus,2012-2013,club
+Federico Peluso,Juventus,2012-2013,club
+Pol Garcia,Juventus,2012-2013,club
+Daniele Rugani,Juventus,2012-2013,club
+Kwadwo Asamoah,Juventus,2012-2013,club
+Jose Cevallos Jr.,Juventus,2012-2013,club
+Elvis Kabashi,Juventus,2012-2013,club
+Claudio Marchisio,Juventus,2012-2013,club
+Luca Marrone,Juventus,2012-2013,club
+Simone Padoin,Juventus,2012-2013,club
+Simone Pepe,Juventus,2012-2013,club
+Andrea Pirlo,Juventus,2012-2013,club
+Andrea Schiavone,Juventus,2012-2013,club
+Arturo Vidal,Juventus,2012-2013,club
+Nicolas Anelka,Juventus,2012-2013,club
+Stefano Beltrame,Juventus,2012-2013,club
+Nicklas Bendtner,Juventus,2012-2013,club
+Emanuele Giaccherini,Juventus,2012-2013,club
+Sebastian Giovinco,Juventus,2012-2013,club
+Alessandro Matri,Juventus,2012-2013,club
+Fabio Quagliarella,Juventus,2012-2013,club
+Mirko Vucinic,Juventus,2012-2013,club
+Antonio Conte,Juventus,2012-2013,club
+Massimo Carrera,Juventus,2012-2013,club
+Claudio Filippi,Juventus,2012-2013,club
+Gianluigi Buffon,Juventus,2013-2014,club
+Leonardo Citti,Juventus,2013-2014,club
+Rubinho,Juventus,2013-2014,club
+Marco Storari,Juventus,2013-2014,club
+Gianmarco Vannucchi,Juventus,2013-2014,club
+Andrea Barzagli,Juventus,2013-2014,club
+Leonardo Bonucci,Juventus,2013-2014,club
+Martin Caceres,Juventus,2013-2014,club
+Giorgio Chiellini,Juventus,2013-2014,club
+Edoardo Goldaniga,Juventus,2013-2014,club
+Mauricio Isla,Juventus,2013-2014,club
+Stephan Lichtsteiner,Juventus,2013-2014,club
+Angelo Ogbonna,Juventus,2013-2014,club
+Federico Peluso,Juventus,2013-2014,club
+Filippo Penna,Juventus,2013-2014,club
+Filippo Romagna,Juventus,2013-2014,club
+Kwadwo Asamoah,Juventus,2013-2014,club
+Matteo Gerbaudo,Juventus,2013-2014,club
+Elvis Kabashi,Juventus,2013-2014,club
+Claudio Marchisio,Juventus,2013-2014,club
+Federico Mattiello,Juventus,2013-2014,club
+Simone Padoin,Juventus,2013-2014,club
+Simone Pepe,Juventus,2013-2014,club
+Andrea Pirlo,Juventus,2013-2014,club
+Arturo Vidal,Juventus,2013-2014,club
+Sebastian Giovinco,Juventus,2013-2014,club
+Llorente,Juventus,2013-2014,club
+Fabio Quagliarella,Juventus,2013-2014,club
+Carlos Tevez,Juventus,2013-2014,club
+Mirko Vucinic,Juventus,2013-2014,club
+Antonio Conte,Juventus,2013-2014,club
+Claudio Filippi,Juventus,2013-2014,club
+Emil Audero,Juventus,2014-2015,club
+Gianluigi Buffon,Juventus,2014-2015,club
+Mattia Del Favero,Juventus,2014-2015,club
+Rubinho,Juventus,2014-2015,club
+Marco Storari,Juventus,2014-2015,club
+Andrea Barzagli,Juventus,2014-2015,club
+Leonardo Bonucci,Juventus,2014-2015,club
+Martin Caceres,Juventus,2014-2015,club
+Giorgio Chiellini,Juventus,2014-2015,club
+Paolo De Ceglie,Juventus,2014-2015,club
+Patrice Evra,Juventus,2014-2015,club
+Stephan Lichtsteiner,Juventus,2014-2015,club
+Angelo Ogbonna,Juventus,2014-2015,club
+Filippo Romagna,Juventus,2014-2015,club
+Romulo,Juventus,2014-2015,club
+Kwadwo Asamoah,Juventus,2014-2015,club
+Claudio Marchisio,Juventus,2014-2015,club
+Luca Marrone,Juventus,2014-2015,club
+Simone Padoin,Juventus,2014-2015,club
+Simone Pepe,Juventus,2014-2015,club
+Roberto Pereyra,Juventus,2014-2015,club
+Andrea Pirlo,Juventus,2014-2015,club
+Stefano Sturaro,Juventus,2014-2015,club
+Arturo Vidal,Juventus,2014-2015,club
+Mattia Vitale,Juventus,2014-2015,club
+Kingsley Coman,Juventus,2014-2015,club
+Llorente,Juventus,2014-2015,club
+Alessandro Matri,Juventus,2014-2015,club
+Alvaro Morata,Juventus,2014-2015,club
+Carlos Tevez,Juventus,2014-2015,club
+Massimiliano Allegri,Juventus,2014-2015,club
+Marco Landucci,Juventus,2014-2015,club
+Claudio Filippi,Juventus,2014-2015,club
+Emil Audero,Juventus,2015-2016,club
+Gianluigi Buffon,Juventus,2015-2016,club
+Mattia Del Favero,Juventus,2015-2016,club
+Neto,Juventus,2015-2016,club
+Rubinho,Juventus,2015-2016,club
+Alex Sandro,Juventus,2015-2016,club
+Andrea Barzagli,Juventus,2015-2016,club
+Leonardo Bonucci,Juventus,2015-2016,club
+Martin Caceres,Juventus,2015-2016,club
+Giorgio Chiellini,Juventus,2015-2016,club
+Patrice Evra,Juventus,2015-2016,club
+Stephan Lichtsteiner,Juventus,2015-2016,club
+Giulio Parodi,Juventus,2015-2016,club
+Filippo Romagna,Juventus,2015-2016,club
+Daniele Rugani,Juventus,2015-2016,club
+Kwadwo Asamoah,Juventus,2015-2016,club
+Juan Cuadrado,Juventus,2015-2016,club
+Hernanes,Juventus,2015-2016,club
+Sami Khedira,Juventus,2015-2016,club
+Mario Lemina,Juventus,2015-2016,club
+Claudio Marchisio,Juventus,2015-2016,club
+Simone Padoin,Juventus,2015-2016,club
+Stefano Pellini,Juventus,2015-2016,club
+Roberto Pereyra,Juventus,2015-2016,club
+Stefano Sturaro,Juventus,2015-2016,club
+Francesco Cassata,Juventus,2015-2016,club
+Paulo Dybala,Juventus,2015-2016,club
+Andrea Favilli,Juventus,2015-2016,club
+Mario Mandzukic,Juventus,2015-2016,club
+Alvaro Morata,Juventus,2015-2016,club
+Fabio Morselli,Juventus,2015-2016,club
+Simone Zaza,Juventus,2015-2016,club
+Massimiliano Allegri,Juventus,2015-2016,club
+Marco Landucci,Juventus,2015-2016,club
+Claudio Filippi,Juventus,2015-2016,club
+De Gea,Manchester United,2016-2017,club
+Dean Henderson,Manchester United,2016-2017,club
+Joel Pereira,Manchester United,2016-2017,club
+Kieran O'Hara,Manchester United,2016-2017,club
+Sergio Romero,Manchester United,2016-2017,club
+Eric Bailly,Manchester United,2016-2017,club
+Daley Blind,Manchester United,2016-2017,club
+Matteo Darmian,Manchester United,2016-2017,club
+Timothy Fosu-Mensah,Manchester United,2016-2017,club
+Phil Jones,Manchester United,2016-2017,club
+Demetri Mitchell,Manchester United,2016-2017,club
+Marcos Rojo,Manchester United,2016-2017,club
+Luke Shaw,Manchester United,2016-2017,club
+Chris Smalling,Manchester United,2016-2017,club
+Antonio Valencia,Manchester United,2016-2017,club
+Ander Herrera,Manchester United,2016-2017,club
+Michael Carrick,Manchester United,2016-2017,club
+Marouane Fellaini,Manchester United,2016-2017,club
+Angel Gomes,Manchester United,2016-2017,club
+Josh Harrop,Manchester United,2016-2017,club
+Jesse Lingard,Manchester United,2016-2017,club
+Mata,Manchester United,2016-2017,club
+Scott McTominay,Manchester United,2016-2017,club
+Henrikh Mkhitaryan,Manchester United,2016-2017,club
+Axel Tuanzebe,Manchester United,2016-2017,club
+Matty Willock,Manchester United,2016-2017,club
+Ashley Young,Manchester United,2016-2017,club
+Zachary Dearnley,Manchester United,2016-2017,club
+Zlatan Ibrahimovic,Manchester United,2016-2017,club
+Anthony Martial,Manchester United,2016-2017,club
+Marcus Rashford,Manchester United,2016-2017,club
+Wayne Rooney,Manchester United,2016-2017,club
+Jose Mourinho,Manchester United,2016-2017,club
+Rui Faria,Manchester United,2016-2017,club
+Silvino,Manchester United,2016-2017,club
+Emilio Alvarez,Manchester United,2016-2017,club
+De Gea,Manchester United,2017-2018,club
+Joel Pereira,Manchester United,2017-2018,club
+Sergio Romero,Manchester United,2017-2018,club
+Eric Bailly,Manchester United,2017-2018,club
+Daley Blind,Manchester United,2017-2018,club
+Cameron Borthwick-Jackson,Manchester United,2017-2018,club
+Matteo Darmian,Manchester United,2017-2018,club
+Phil Jones,Manchester United,2017-2018,club
+Victor Lindelof,Manchester United,2017-2018,club
+Marcos Rojo,Manchester United,2017-2018,club
+Luke Shaw,Manchester United,2017-2018,club
+Chris Smalling,Manchester United,2017-2018,club
+Antonio Valencia,Manchester United,2017-2018,club
+Ashley Young,Manchester United,2017-2018,club
+Ander Herrera,Manchester United,2017-2018,club
+Michael Carrick,Manchester United,2017-2018,club
+Marouane Fellaini,Manchester United,2017-2018,club
+Angel Gomes,Manchester United,2017-2018,club
+Ethan Hamilton,Manchester United,2017-2018,club
+Jesse Lingard,Manchester United,2017-2018,club
+Mata,Manchester United,2017-2018,club
+Nemanja Matic,Manchester United,2017-2018,club
+Scott McTominay,Manchester United,2017-2018,club
+Romelu Lukaku,Manchester United,2017-2018,club
+Anthony Martial,Manchester United,2017-2018,club
+Marcus Rashford,Manchester United,2017-2018,club
+Alexis Sanchez,Manchester United,2017-2018,club
+James Wilson,Manchester United,2017-2018,club
+Jose Mourinho,Manchester United,2017-2018,club
+Rui Faria,Manchester United,2017-2018,club
+Silvino,Manchester United,2017-2018,club
+Emilio Alvarez,Manchester United,2017-2018,club
+De Gea,Manchester United,2018-2019,club
+Lee Grant,Manchester United,2018-2019,club
+Sergio Romero,Manchester United,2018-2019,club
+Eric Bailly,Manchester United,2018-2019,club
+Matteo Darmian,Manchester United,2018-2019,club
+Diogo Dalot,Manchester United,2018-2019,club
+Phil Jones,Manchester United,2018-2019,club
+Victor Lindelof,Manchester United,2018-2019,club
+Marcos Rojo,Manchester United,2018-2019,club
+Luke Shaw,Manchester United,2018-2019,club
+Chris Smalling,Manchester United,2018-2019,club
+Antonio Valencia,Manchester United,2018-2019,club
+Ashley Young,Manchester United,2018-2019,club
+Ander Herrera,Manchester United,2018-2019,club
+Andreas Pereira,Manchester United,2018-2019,club
+Fred,Manchester United,2018-2019,club
+James Garner,Manchester United,2018-2019,club
+Angel Gomes,Manchester United,2018-2019,club
+Jesse Lingard,Manchester United,2018-2019,club
+Mata,Manchester United,2018-2019,club
+Nemanja Matic,Manchester United,2018-2019,club
+Scott McTominay,Manchester United,2018-2019,club
+Tahith Chong,Manchester United,2018-2019,club
+Mason Greenwood,Manchester United,2018-2019,club
+Romelu Lukaku,Manchester United,2018-2019,club
+Anthony Martial,Manchester United,2018-2019,club
+Marcus Rashford,Manchester United,2018-2019,club
+Alexis Sanchez,Manchester United,2018-2019,club
+Ole Gunnar Solskjaer,Manchester United,2018-2019,club
+Michael Carrick,Manchester United,2018-2019,club
+Kieran McKenna,Manchester United,2018-2019,club
+Mike Phelan,Manchester United,2018-2019,club
+Emilio Alvarez,Manchester United,2018-2019,club
+De Gea,Manchester United,2019-2020,club
+Lee Grant,Manchester United,2019-2020,club
+Matej Kovar,Manchester United,2019-2020,club
+Sergio Romero,Manchester United,2019-2020,club
+Eric Bailly,Manchester United,2019-2020,club
+Di'Shon Bernard,Manchester United,2019-2020,club
+Diogo Dalot,Manchester United,2019-2020,club
+Timothy Fosu-Mensah,Manchester United,2019-2020,club
+Phil Jones,Manchester United,2019-2020,club
+Ethan Laird,Manchester United,2019-2020,club
+Victor Lindelof,Manchester United,2019-2020,club
+Harry Maguire,Manchester United,2019-2020,club
+Teden Mengi,Manchester United,2019-2020,club
+Luke Shaw,Manchester United,2019-2020,club
+Axel Tuanzebe,Manchester United,2019-2020,club
+Aaron Wan-Bissaka,Manchester United,2019-2020,club
+Brandon Williams,Manchester United,2019-2020,club
+Andreas Pereira,Manchester United,2019-2020,club
+Arnau Puigmal,Manchester United,2019-2020,club
+Bruno Fernandes,Manchester United,2019-2020,club
+Fred,Manchester United,2019-2020,club
+Ethan Galbraith,Manchester United,2019-2020,club
+James Garner,Manchester United,2019-2020,club
+Angel Gomes,Manchester United,2019-2020,club
+Daniel James,Manchester United,2019-2020,club
+Dylan Levitt,Manchester United,2019-2020,club
+Jesse Lingard,Manchester United,2019-2020,club
+Mata,Manchester United,2019-2020,club
+Nemanja Matic,Manchester United,2019-2020,club
+Scott McTominay,Manchester United,2019-2020,club
+D'Mani Bughail-Mellor,Manchester United,2019-2020,club
+Tahith Chong,Manchester United,2019-2020,club
+Mason Greenwood,Manchester United,2019-2020,club
+Odion Ighalo,Manchester United,2019-2020,club
+Anthony Martial,Manchester United,2019-2020,club
+Largie Ramazani,Manchester United,2019-2020,club
+Marcus Rashford,Manchester United,2019-2020,club
+Ole Gunnar Solskjaer,Manchester United,2019-2020,club
+Michael Carrick,Manchester United,2019-2020,club
+Mark Dempsey,Manchester United,2019-2020,club
+Kieran McKenna,Manchester United,2019-2020,club
+Mike Phelan,Manchester United,2019-2020,club
+Emilio Alvarez,Manchester United,2019-2020,club
+Gregory Coupet,France,2007-2008,nation
+Sebastien Frey,France,2007-2008,nation
+Mickael Landreau,France,2007-2008,nation
+Hugo Lloris,France,2007-2008,nation
+Steve Mandanda,France,2007-2008,nation
+Eric Abidal,France,2007-2008,nation
+Jean-Alain Boumsong,France,2007-2008,nation
+Francois Clerc,France,2007-2008,nation
+Gael Clichy,France,2007-2008,nation
+Matthieu Delpierre,France,2007-2008,nation
+Julien Escude,France,2007-2008,nation
+Patrice Evra,France,2007-2008,nation
+Rod Fanni,France,2007-2008,nation
+William Gallas,France,2007-2008,nation
+Philippe Mexes,France,2007-2008,nation
+Bacary Sagna,France,2007-2008,nation
+Willy Sagnol,France,2007-2008,nation
+Sebastien Squillaci,France,2007-2008,nation
+Lilian Thuram,France,2007-2008,nation
+Hatem Ben Arfa,France,2007-2008,nation
+Alou Diarra,France,2007-2008,nation
+Lassana Diarra,France,2007-2008,nation
+Mathieu Flamini,France,2007-2008,nation
+Yoann Gourcuff,France,2007-2008,nation
+Claude Makelele,France,2007-2008,nation
+Florent Malouda,France,2007-2008,nation
+Samir Nasri,France,2007-2008,nation
+Franck Ribery,France,2007-2008,nation
+Jeremy Toulalan,France,2007-2008,nation
+Patrick Vieira,France,2007-2008,nation
+Nicolas Anelka,France,2007-2008,nation
+Karim Benzema,France,2007-2008,nation
+Jimmy Briand,France,2007-2008,nation
+Djibril Cisse,France,2007-2008,nation
+Bafetimbi Gomis,France,2007-2008,nation
+Sidney Govou,France,2007-2008,nation
+Thierry Henry,France,2007-2008,nation
+Steve Savidan,France,2007-2008,nation
+Florent Sinama-Pongolle,France,2007-2008,nation
+David Trezeguet,France,2007-2008,nation
+Raymond Domenech,France,2007-2008,nation
+Robert Duverne,France,2007-2008,nation
+Cedric Carrasso,France,2008-2009,nation
+Hugo Lloris,France,2008-2009,nation
+Steve Mandanda,France,2008-2009,nation
+Eric Abidal,France,2008-2009,nation
+Jean-Alain Boumsong,France,2008-2009,nation
+Gael Clichy,France,2008-2009,nation
+Julien Escude,France,2008-2009,nation
+Patrice Evra,France,2008-2009,nation
+Rod Fanni,France,2008-2009,nation
+William Gallas,France,2008-2009,nation
+Philippe Mexes,France,2008-2009,nation
+Bacary Sagna,France,2008-2009,nation
+Sebastien Squillaci,France,2008-2009,nation
+Alou Diarra,France,2008-2009,nation
+Lassana Diarra,France,2008-2009,nation
+Yoann Gourcuff,France,2008-2009,nation
+Florent Malouda,France,2008-2009,nation
+Samir Nasri,France,2008-2009,nation
+Franck Ribery,France,2008-2009,nation
+Jeremy Toulalan,France,2008-2009,nation
+Patrick Vieira,France,2008-2009,nation
+Nicolas Anelka,France,2008-2009,nation
+Karim Benzema,France,2008-2009,nation
+Jimmy Briand,France,2008-2009,nation
+Andre-Pierre Gignac,France,2008-2009,nation
+Sidney Govou,France,2008-2009,nation
+Thierry Henry,France,2008-2009,nation
+Loic Remy,France,2008-2009,nation
+Raymond Domenech,France,2008-2009,nation
+Robert Duverne,France,2008-2009,nation
+Cedric Carrasso,France,2009-2010,nation
+Nicolas Douchez,France,2009-2010,nation
+Hugo Lloris,France,2009-2010,nation
+Steve Mandanda,France,2009-2010,nation
+Stephane Ruffier,France,2009-2010,nation
+Eric Abidal,France,2009-2010,nation
+Jean-Alain Boumsong,France,2009-2010,nation
+Michael Ciani,France,2009-2010,nation
+Aly Cissokho,France,2009-2010,nation
+Gael Clichy,France,2009-2010,nation
+Mathieu Debuchy,France,2009-2010,nation
+Julien Escude,France,2009-2010,nation
+Patrice Evra,France,2009-2010,nation
+Rod Fanni,France,2009-2010,nation
+William Gallas,France,2009-2010,nation
+Younes Kaboul,France,2009-2010,nation
+Philippe Mexes,France,2009-2010,nation
+Marc Planus,France,2009-2010,nation
+Adil Rami,France,2009-2010,nation
+Anthony Reveillere,France,2009-2010,nation
+Bacary Sagna,France,2009-2010,nation
+Mamadou Sakho,France,2009-2010,nation
+Sebastien Squillaci,France,2009-2010,nation
+Benoit Tremoulinas,France,2009-2010,nation
+Hatem Ben Arfa,France,2009-2010,nation
+Yohan Cabaye,France,2009-2010,nation
+Benoit Cheyrou,France,2009-2010,nation
+Abou Diaby,France,2009-2010,nation
+Alou Diarra,France,2009-2010,nation
+Lassana Diarra,France,2009-2010,nation
+Yoann Gourcuff,France,2009-2010,nation
+Yann M'Vila,France,2009-2010,nation
+Florent Malouda,France,2009-2010,nation
+Blaise Matuidi,France,2009-2010,nation
+Charles N'Zogbia,France,2009-2010,nation
+Samir Nasri,France,2009-2010,nation
+Franck Ribery,France,2009-2010,nation
+Moussa Sissoko,France,2009-2010,nation
+Jeremy Toulalan,France,2009-2010,nation
+Mathieu Valbuena,France,2009-2010,nation
+Nicolas Anelka,France,2009-2010,nation
+Karim Benzema,France,2009-2010,nation
+Jimmy Briand,France,2009-2010,nation
+Djibril Cisse,France,2009-2010,nation
+Kevin Gameiro,France,2009-2010,nation
+Andre-Pierre Gignac,France,2009-2010,nation
+Sidney Govou,France,2009-2010,nation
+Thierry Henry,France,2009-2010,nation
+Guillaume Hoarau,France,2009-2010,nation
+Jeremy Menez,France,2009-2010,nation
+Dimitri Payet,France,2009-2010,nation
+Loic Remy,France,2009-2010,nation
+Laurent Blanc,France,2009-2010,nation
+Raymond Domenech,France,2009-2010,nation
+Robert Duverne,France,2009-2010,nation
+Cedric Carrasso,France,2010-2011,nation
+Hugo Lloris,France,2010-2011,nation
+Steve Mandanda,France,2010-2011,nation
+Eric Abidal,France,2010-2011,nation
+Gael Clichy,France,2010-2011,nation
+Mathieu Debuchy,France,2010-2011,nation
+Patrice Evra,France,2010-2011,nation
+Younes Kaboul,France,2010-2011,nation
+Laurent Koscielny,France,2010-2011,nation
+Jeremy Mathieu,France,2010-2011,nation
+Philippe Mexes,France,2010-2011,nation
+Adil Rami,France,2010-2011,nation
+Anthony Reveillere,France,2010-2011,nation
+Bacary Sagna,France,2010-2011,nation
+Mamadou Sakho,France,2010-2011,nation
+Yohan Cabaye,France,2010-2011,nation
+Abou Diaby,France,2010-2011,nation
+Alou Diarra,France,2010-2011,nation
+Maxime Gonalons,France,2010-2011,nation
+Yoann Gourcuff,France,2010-2011,nation
+Yann M'Vila,France,2010-2011,nation
+Florent Malouda,France,2010-2011,nation
+Marvin Martin,France,2010-2011,nation
+Blaise Matuidi,France,2010-2011,nation
+Charles N'Zogbia,France,2010-2011,nation
+Samir Nasri,France,2010-2011,nation
+Franck Ribery,France,2010-2011,nation
+Mathieu Valbuena,France,2010-2011,nation
+Karim Benzema,France,2010-2011,nation
+Kevin Gameiro,France,2010-2011,nation
+Olivier Giroud,France,2010-2011,nation
+Guillaume Hoarau,France,2010-2011,nation
+Jeremy Menez,France,2010-2011,nation
+Loic Remy,France,2010-2011,nation
+Laurent Blanc,France,2010-2011,nation
+Cedric Carrasso,France,2011-2012,nation
+Mickael Landreau,France,2011-2012,nation
+Hugo Lloris,France,2011-2012,nation
+Steve Mandanda,France,2011-2012,nation
+Eric Abidal,France,2011-2012,nation
+Gael Clichy,France,2011-2012,nation
+Mathieu Debuchy,France,2011-2012,nation
+Patrice Evra,France,2011-2012,nation
+Christophe Jallet,France,2011-2012,nation
+Laurent Koscielny,France,2011-2012,nation
+Philippe Mexes,France,2011-2012,nation
+Adil Rami,France,2011-2012,nation
+Anthony Reveillere,France,2011-2012,nation
+Mamadou Sakho,France,2011-2012,nation
+Benoit Tremoulinas,France,2011-2012,nation
+Raphael Varane,France,2011-2012,nation
+Mapou Yanga-Mbiwa,France,2011-2012,nation
+Morgan Amalfitano,France,2011-2012,nation
+Hatem Ben Arfa,France,2011-2012,nation
+Yohan Cabaye,France,2011-2012,nation
+Etienne Capoue,France,2011-2012,nation
+Clement Chantome,France,2011-2012,nation
+Alou Diarra,France,2011-2012,nation
+Maxime Gonalons,France,2011-2012,nation
+Yoann Gourcuff,France,2011-2012,nation
+Yann M'Vila,France,2011-2012,nation
+Florent Malouda,France,2011-2012,nation
+Marvin Martin,France,2011-2012,nation
+Blaise Matuidi,France,2011-2012,nation
+Rio Mavuba,France,2011-2012,nation
+Samir Nasri,France,2011-2012,nation
+Franck Ribery,France,2011-2012,nation
+Moussa Sissoko,France,2011-2012,nation
+Mathieu Valbuena,France,2011-2012,nation
+Karim Benzema,France,2011-2012,nation
+Jimmy Briand,France,2011-2012,nation
+Kevin Gameiro,France,2011-2012,nation
+Olivier Giroud,France,2011-2012,nation
+Bafetimbi Gomis,France,2011-2012,nation
+Jeremy Menez,France,2011-2012,nation
+Dimitri Payet,France,2011-2012,nation
+Loic Remy,France,2011-2012,nation
+Louis Saha,France,2011-2012,nation
+Didier Deschamps,France,2011-2012,nation
+Laurent Blanc,France,2011-2012,nation
+Mickael Landreau,France,2012-2013,nation
+Hugo Lloris,France,2012-2013,nation
+Steve Mandanda,France,2012-2013,nation
+Stephane Ruffier,France,2012-2013,nation
+Eric Abidal,France,2012-2013,nation
+Gael Clichy,France,2012-2013,nation
+Mathieu Debuchy,France,2012-2013,nation
+Patrice Evra,France,2012-2013,nation
+Rod Fanni,France,2012-2013,nation
+Laurent Koscielny,France,2012-2013,nation
+Jeremy Mathieu,France,2012-2013,nation
+Adil Rami,France,2012-2013,nation
+Bacary Sagna,France,2012-2013,nation
+Mamadou Sakho,France,2012-2013,nation
+Benoit Tremoulinas,France,2012-2013,nation
+Raphael Varane,France,2012-2013,nation
+Mapou Yanga-Mbiwa,France,2012-2013,nation
+Kurt Zouma,France,2012-2013,nation
+Romain Alessandrini,France,2012-2013,nation
+Yohan Cabaye,France,2012-2013,nation
+Etienne Capoue,France,2012-2013,nation
+Maxime Gonalons,France,2012-2013,nation
+Yoann Gourcuff,France,2012-2013,nation
+Clement Grenier,France,2012-2013,nation
+Josuha Guilavogui,France,2012-2013,nation
+Geoffrey Kondogbia,France,2012-2013,nation
+Eliaquim Mangala,France,2012-2013,nation
+Blaise Matuidi,France,2012-2013,nation
+Rio Mavuba,France,2012-2013,nation
+Samir Nasri,France,2012-2013,nation
+Franck Ribery,France,2012-2013,nation
+Moussa Sissoko,France,2012-2013,nation
+Mathieu Valbuena,France,2012-2013,nation
+Karim Benzema,France,2012-2013,nation
+Olivier Giroud,France,2012-2013,nation
+Bafetimbi Gomis,France,2012-2013,nation
+Alexandre Lacazette,France,2012-2013,nation
+Jeremy Menez,France,2012-2013,nation
+Dimitri Payet,France,2012-2013,nation
+Loic Remy,France,2012-2013,nation
+Didier Deschamps,France,2012-2013,nation
+Benoit Costil,France,2013-2014,nation
+Mickael Landreau,France,2013-2014,nation
+Hugo Lloris,France,2013-2014,nation
+Steve Mandanda,France,2013-2014,nation
+Stephane Ruffier,France,2013-2014,nation
+Mathieu Debuchy,France,2013-2014,nation
+Lucas Digne,France,2013-2014,nation
+Patrice Evra,France,2013-2014,nation
+Christophe Jallet,France,2013-2014,nation
+Laurent Koscielny,France,2013-2014,nation
+Layvin Kurzawa,France,2013-2014,nation
+Eliaquim Mangala,France,2013-2014,nation
+Jeremy Mathieu,France,2013-2014,nation
+Bacary Sagna,France,2013-2014,nation
+Mamadou Sakho,France,2013-2014,nation
+Raphael Varane,France,2013-2014,nation
+Mapou Yanga-Mbiwa,France,2013-2014,nation
+Kurt Zouma,France,2013-2014,nation
+Yohan Cabaye,France,2013-2014,nation
+Remy Cabella,France,2013-2014,nation
+Maxime Gonalons,France,2013-2014,nation
+Clement Grenier,France,2013-2014,nation
+Josuha Guilavogui,France,2013-2014,nation
+Blaise Matuidi,France,2013-2014,nation
+Rio Mavuba,France,2013-2014,nation
+Loic Perrin,France,2013-2014,nation
+Franck Ribery,France,2013-2014,nation
+Morgan Schneiderlin,France,2013-2014,nation
+Moussa Sissoko,France,2013-2014,nation
+Mathieu Valbuena,France,2013-2014,nation
+Karim Benzema,France,2013-2014,nation
+Andre-Pierre Gignac,France,2013-2014,nation
+Olivier Giroud,France,2013-2014,nation
+Antoine Griezmann,France,2013-2014,nation
+Alexandre Lacazette,France,2013-2014,nation
+Dimitri Payet,France,2013-2014,nation
+Loic Remy,France,2013-2014,nation
+Didier Deschamps,France,2013-2014,nation
+Alphonse Areola,France,2014-2015,nation
+Benoit Costil,France,2014-2015,nation
+Hugo Lloris,France,2014-2015,nation
+Steve Mandanda,France,2014-2015,nation
+Stephane Ruffier,France,2014-2015,nation
+Mathieu Debuchy,France,2014-2015,nation
+Lucas Digne,France,2014-2015,nation
+Patrice Evra,France,2014-2015,nation
+Christophe Jallet,France,2014-2015,nation
+Laurent Koscielny,France,2014-2015,nation
+Eliaquim Mangala,France,2014-2015,nation
+Bacary Sagna,France,2014-2015,nation
+Mamadou Sakho,France,2014-2015,nation
+Benoit Tremoulinas,France,2014-2015,nation
+Raphael Varane,France,2014-2015,nation
+Kurt Zouma,France,2014-2015,nation
+Hatem Ben Arfa,France,2014-2015,nation
+Yohan Cabaye,France,2014-2015,nation
+Kingsley Coman,France,2014-2015,nation
+Lassana Diarra,France,2014-2015,nation
+Nabil Fekir,France,2014-2015,nation
+Maxime Gonalons,France,2014-2015,nation
+Josuha Guilavogui,France,2014-2015,nation
+Geoffrey Kondogbia,France,2014-2015,nation
+Blaise Matuidi,France,2014-2015,nation
+Paul-Georges Ntep,France,2014-2015,nation
+Loic Perrin,France,2014-2015,nation
+Morgan Schneiderlin,France,2014-2015,nation
+Moussa Sissoko,France,2014-2015,nation
+Mathieu Valbuena,France,2014-2015,nation
+Karim Benzema,France,2014-2015,nation
+Andre-Pierre Gignac,France,2014-2015,nation
+Olivier Giroud,France,2014-2015,nation
+Antoine Griezmann,France,2014-2015,nation
+Alexandre Lacazette,France,2014-2015,nation
+Anthony Martial,France,2014-2015,nation
+Dimitri Payet,France,2014-2015,nation
+Didier Deschamps,France,2014-2015,nation
+Alphonse Areola,France,2015-2016,nation
+Benoit Costil,France,2015-2016,nation
+Hugo Lloris,France,2015-2016,nation
+Steve Mandanda,France,2015-2016,nation
+Sebastien Corchia,France,2015-2016,nation
+Lucas Digne,France,2015-2016,nation
+Patrice Evra,France,2015-2016,nation
+Christophe Jallet,France,2015-2016,nation
+Laurent Koscielny,France,2015-2016,nation
+Layvin Kurzawa,France,2015-2016,nation
+Eliaquim Mangala,France,2015-2016,nation
+Jeremy Mathieu,France,2015-2016,nation
+Adil Rami,France,2015-2016,nation
+Bacary Sagna,France,2015-2016,nation
+Mamadou Sakho,France,2015-2016,nation
+Djibril Sidibe,France,2015-2016,nation
+Samuel Umtiti,France,2015-2016,nation
+Raphael Varane,France,2015-2016,nation
+Yohan Cabaye,France,2015-2016,nation
+Ousmane Dembele,France,2015-2016,nation
+Lassana Diarra,France,2015-2016,nation
+N'Golo Kante,France,2015-2016,nation
+Geoffrey Kondogbia,France,2015-2016,nation
+Blaise Matuidi,France,2015-2016,nation
+Adrien Rabiot,France,2015-2016,nation
+Moussa Sissoko,France,2015-2016,nation
+Kingsley Coman,France,2015-2016,nation
+Nabil Fekir,France,2015-2016,nation
+Kevin Gameiro,France,2015-2016,nation
+Andre-Pierre Gignac,France,2015-2016,nation
+Olivier Giroud,France,2015-2016,nation
+Antoine Griezmann,France,2015-2016,nation
+Thomas Lemar,France,2015-2016,nation
+Anthony Martial,France,2015-2016,nation
+Dimitri Payet,France,2015-2016,nation
+Didier Deschamps,France,2015-2016,nation
+Guy Stephan,France,2015-2016,nation
+Franck Raviot,France,2015-2016,nation
+Alphonse Areola,France,2016-2017,nation
+Benoit Costil,France,2016-2017,nation
+Hugo Lloris,France,2016-2017,nation
+Steve Mandanda,France,2016-2017,nation
+Sebastien Corchia,France,2016-2017,nation
+Lucas Digne,France,2016-2017,nation
+Christophe Jallet,France,2016-2017,nation
+Presnel Kimpembe,France,2016-2017,nation
+Laurent Koscielny,France,2016-2017,nation
+Layvin Kurzawa,France,2016-2017,nation
+Aymeric Laporte,France,2016-2017,nation
+Benjamin Mendy,France,2016-2017,nation
+Benjamin Pavard,France,2016-2017,nation
+Adil Rami,France,2016-2017,nation
+Bacary Sagna,France,2016-2017,nation
+Djibril Sidibe,France,2016-2017,nation
+Samuel Umtiti,France,2016-2017,nation
+Raphael Varane,France,2016-2017,nation
+Kurt Zouma,France,2016-2017,nation
+Tiemoue Bakayoko,France,2016-2017,nation
+Kingsley Coman,France,2016-2017,nation
+Ousmane Dembele,France,2016-2017,nation
+N'Golo Kante,France,2016-2017,nation
+Blaise Matuidi,France,2016-2017,nation
+Steven N'Zonzi,France,2016-2017,nation
+Dimitri Payet,France,2016-2017,nation
+Adrien Rabiot,France,2016-2017,nation
+Moussa Sissoko,France,2016-2017,nation
+Corentin Tolisso,France,2016-2017,nation
+Nabil Fekir,France,2016-2017,nation
+Kevin Gameiro,France,2016-2017,nation
+Olivier Giroud,France,2016-2017,nation
+Antoine Griezmann,France,2016-2017,nation
+Alexandre Lacazette,France,2016-2017,nation
+Thomas Lemar,France,2016-2017,nation
+Anthony Martial,France,2016-2017,nation
+Kylian Mbappe,France,2016-2017,nation
+Florian Thauvin,France,2016-2017,nation
+Didier Deschamps,France,2016-2017,nation
+Alphonse Areola,France,2017-2018,nation
+Hugo Lloris,France,2017-2018,nation
+Steve Mandanda,France,2017-2018,nation
+Lucas Digne,France,2017-2018,nation
+Lucas Hernandez,France,2017-2018,nation
+Presnel Kimpembe,France,2017-2018,nation
+Laurent Koscielny,France,2017-2018,nation
+Benjamin Mendy,France,2017-2018,nation
+Ferland Mendy,France,2017-2018,nation
+Benjamin Pavard,France,2017-2018,nation
+Adil Rami,France,2017-2018,nation
+Mamadou Sakho,France,2017-2018,nation
+Djibril Sidibe,France,2017-2018,nation
+Samuel Umtiti,France,2017-2018,nation
+Raphael Varane,France,2017-2018,nation
+Kurt Zouma,France,2017-2018,nation
+Nabil Fekir,France,2017-2018,nation
+N'Golo Kante,France,2017-2018,nation
+Blaise Matuidi,France,2017-2018,nation
+Steven N'Zonzi,France,2017-2018,nation
+Tanguy NDombele,France,2017-2018,nation
+Dimitri Payet,France,2017-2018,nation
+Adrien Rabiot,France,2017-2018,nation
+Moussa Sissoko,France,2017-2018,nation
+Corentin Tolisso,France,2017-2018,nation
+Wissam Ben Yedder,France,2017-2018,nation
+Ousmane Dembele,France,2017-2018,nation
+Olivier Giroud,France,2017-2018,nation
+Antoine Griezmann,France,2017-2018,nation
+Thomas Lemar,France,2017-2018,nation
+Anthony Martial,France,2017-2018,nation
+Kylian Mbappe,France,2017-2018,nation
+Alassane Plea,France,2017-2018,nation
+Florian Thauvin,France,2017-2018,nation
+Didier Deschamps,France,2017-2018,nation
+Alphonse Areola,France,2018-2019,nation
+Benjamin Lecomte,France,2018-2019,nation
+Hugo Lloris,France,2018-2019,nation
+Mike Maignan,France,2018-2019,nation
+Lucas Digne,France,2018-2019,nation
+Leo Dubois,France,2018-2019,nation
+Clement Lenglet,France,2018-2019,nation
+Ferland Mendy,France,2018-2019,nation
+Benjamin Pavard,France,2018-2019,nation
+Samuel Umtiti,France,2018-2019,nation
+Raphael Varane,France,2018-2019,nation
+Kurt Zouma,France,2018-2019,nation
+Kingsley Coman,France,2018-2019,nation
+N'Golo Kante,France,2018-2019,nation
+Blaise Matuidi,France,2018-2019,nation
+Tanguy NDombele,France,2018-2019,nation
+Moussa Sissoko,France,2018-2019,nation
+Florian Thauvin,France,2018-2019,nation
+Wissam Ben Yedder,France,2018-2019,nation
+Olivier Giroud,France,2018-2019,nation
+Antoine Griezmann,France,2018-2019,nation
+Thomas Lemar,France,2018-2019,nation
+Kylian Mbappe,France,2018-2019,nation
+Didier Deschamps,France,2018-2019,nation

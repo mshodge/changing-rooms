@@ -1,0 +1,963 @@
+player,team,season,type
+Coutinho,None,2008-2009,club
+Luca Castellazzi,Inter,2010-2011,club
+Alberto Gallinetta,Inter,2010-2011,club
+Julio Cesar,Inter,2010-2011,club
+Paolo Orlandoni,Inter,2010-2011,club
+Simone Benedetti,Inter,2010-2011,club
+Cristiano Biraghi,Inter,2010-2011,club
+Cristian Chivu,Inter,2010-2011,club
+Ivan Cordoba,Inter,2010-2011,club
+Davide Faraoni,Inter,2010-2011,club
+Lucio,Inter,2010-2011,club
+Maicon,Inter,2010-2011,club
+Marco Materazzi,Inter,2010-2011,club
+Yuto Nagatomo,Inter,2010-2011,club
+Felice Natalino,Inter,2010-2011,club
+Andrea Ranocchia,Inter,2010-2011,club
+Walter Samuel,Inter,2010-2011,club
+Javier Zanetti,Inter,2010-2011,club
+Esteban Cambiasso,Inter,2010-2011,club
+Coutinho,Inter,2010-2011,club
+Lorenzo Crisetig,Inter,2010-2011,club
+Kerlon,Inter,2010-2011,club
+Houssine Kharja,Inter,2010-2011,club
+MacDonald Mariga,Inter,2010-2011,club
+Joel Obi,Inter,2010-2011,club
+Wesley Sneijder,Inter,2010-2011,club
+Dejan Stankovic,Inter,2010-2011,club
+Thiago Motta,Inter,2010-2011,club
+Denis Alibec,Inter,2010-2011,club
+Simone Dell'Agnello,Inter,2010-2011,club
+Samuel Eto'o,Inter,2010-2011,club
+Diego Milito,Inter,2010-2011,club
+Goran Pandev,Inter,2010-2011,club
+Giampaolo Pazzini,Inter,2010-2011,club
+David Suazo,Inter,2010-2011,club
+Leonardo,Inter,2010-2011,club
+Luca Castellazzi,Inter,2011-2012,club
+Julio Cesar,Inter,2011-2012,club
+Riccardo Melgrati,Inter,2011-2012,club
+Paolo Orlandoni,Inter,2011-2012,club
+Matteo Bianchetti,Inter,2011-2012,club
+Cristian Chivu,Inter,2011-2012,club
+Ivan Cordoba,Inter,2011-2012,club
+Davide Faraoni,Inter,2011-2012,club
+Juan Jesus,Inter,2011-2012,club
+Lucio,Inter,2011-2012,club
+Maicon,Inter,2011-2012,club
+Yuto Nagatomo,Inter,2011-2012,club
+Andrea Ranocchia,Inter,2011-2012,club
+Walter Samuel,Inter,2011-2012,club
+Javier Zanetti,Inter,2011-2012,club
+Ricardo Alvarez,Inter,2011-2012,club
+Esteban Cambiasso,Inter,2011-2012,club
+Lorenzo Crisetig,Inter,2011-2012,club
+Alfred Duncan,Inter,2011-2012,club
+Fredy Guarin,Inter,2011-2012,club
+Kerlon,Inter,2011-2012,club
+Isaac Ntow,Inter,2011-2012,club
+Joel Obi,Inter,2011-2012,club
+Angelo Palombo,Inter,2011-2012,club
+Andrea Poli,Inter,2011-2012,club
+Andrea Romano,Inter,2011-2012,club
+Wesley Sneijder,Inter,2011-2012,club
+Dejan Stankovic,Inter,2011-2012,club
+Luc Castaignos,Inter,2011-2012,club
+Diego Forlan,Inter,2011-2012,club
+Marko Livaja,Inter,2011-2012,club
+Samuele Longo,Inter,2011-2012,club
+Diego Milito,Inter,2011-2012,club
+Giampaolo Pazzini,Inter,2011-2012,club
+Mauro Zarate,Inter,2011-2012,club
+Andrea Stramaccioni,Inter,2011-2012,club
+Vid Belec,Inter,2012-2013,club
+Juan Carrizo,Inter,2012-2013,club
+Luca Castellazzi,Inter,2012-2013,club
+Raffaele Di Gennaro,Inter,2012-2013,club
+Samir Handanovic,Inter,2012-2013,club
+Andrea Bandini,Inter,2012-2013,club
+Cristian Chivu,Inter,2012-2013,club
+Isaac Donkor,Inter,2012-2013,club
+Marco Ferrara,Inter,2012-2013,club
+Jonathan,Inter,2012-2013,club
+Juan Jesus,Inter,2012-2013,club
+Ibrahima M'Baye,Inter,2012-2013,club
+Yuto Nagatomo,Inter,2012-2013,club
+Andrea Ranocchia,Inter,2012-2013,club
+Walter Samuel,Inter,2012-2013,club
+Matias Silvestre,Inter,2012-2013,club
+Lukas Spendlhofer,Inter,2012-2013,club
+Javier Zanetti,Inter,2012-2013,club
+Ricardo Alvarez,Inter,2012-2013,club
+Marco Benassi,Inter,2012-2013,club
+Esteban Cambiasso,Inter,2012-2013,club
+Yago Del Piero,Inter,2012-2013,club
+Walter Gargano,Inter,2012-2013,club
+Fredy Guarin,Inter,2012-2013,club
+Mateo Kovacic,Inter,2012-2013,club
+Zdravko Kuzmanovic,Inter,2012-2013,club
+Gaby Mudingayi,Inter,2012-2013,club
+Joel Obi,Inter,2012-2013,club
+Patrick Olsen,Inter,2012-2013,club
+Simone Pasa,Inter,2012-2013,club
+Alvaro Pereira,Inter,2012-2013,club
+Ezequiel Schelotto,Inter,2012-2013,club
+Dejan Stankovic,Inter,2012-2013,club
+Niccolo Belloni,Inter,2012-2013,club
+Antonio Cassano,Inter,2012-2013,club
+Matteo Colombi,Inter,2012-2013,club
+Francesco Forte,Inter,2012-2013,club
+Luca Garritano,Inter,2012-2013,club
+Diego Milito,Inter,2012-2013,club
+Rodrigo Palacio,Inter,2012-2013,club
+Tommaso Rocchi,Inter,2012-2013,club
+Giovanni Terrani,Inter,2012-2013,club
+Nunzio Papale,Inter,2012-2013,club
+Brad Jones,Liverpool FC,2013-2014,club
+Simon Mignolet,Liverpool FC,2013-2014,club
+Danny Ward,Liverpool FC,2013-2014,club
+Daniel Agger,Liverpool FC,2013-2014,club
+Aly Cissokho,Liverpool FC,2013-2014,club
+Jon Flanagan,Liverpool FC,2013-2014,club
+Glen Johnson,Liverpool FC,2013-2014,club
+Lloyd Jones,Liverpool FC,2013-2014,club
+Jose Enrique,Liverpool FC,2013-2014,club
+Martin Kelly,Liverpool FC,2013-2014,club
+Mamadou Sakho,Liverpool FC,2013-2014,club
+Stephen Sama,Liverpool FC,2013-2014,club
+Martin Skrtel,Liverpool FC,2013-2014,club
+Brad Smith,Liverpool FC,2013-2014,club
+Kolo Toure,Liverpool FC,2013-2014,club
+Joe Allen,Liverpool FC,2013-2014,club
+Cameron Brannagan,Liverpool FC,2013-2014,club
+Coutinho,Liverpool FC,2013-2014,club
+Steven Gerrard,Liverpool FC,2013-2014,club
+Jordan Henderson,Liverpool FC,2013-2014,club
+Joao Carlos Teixeira,Liverpool FC,2013-2014,club
+Lucas Leiva,Liverpool FC,2013-2014,club
+Luis Alberto,Liverpool FC,2013-2014,club
+Jordan Rossiter,Liverpool FC,2013-2014,club
+Iago Aspas,Liverpool FC,2013-2014,club
+Victor Moses,Liverpool FC,2013-2014,club
+Jerome Sinclair,Liverpool FC,2013-2014,club
+Raheem Sterling,Liverpool FC,2013-2014,club
+Daniel Sturridge,Liverpool FC,2013-2014,club
+Luis Suarez,Liverpool FC,2013-2014,club
+Samed Yesil,Liverpool FC,2013-2014,club
+Brendan Rodgers,Liverpool FC,2013-2014,club
+Mike Marsh,Liverpool FC,2013-2014,club
+Colin Pascoe,Liverpool FC,2013-2014,club
+John Achterberg,Liverpool FC,2013-2014,club
+Brad Jones,Liverpool FC,2014-2015,club
+Simon Mignolet,Liverpool FC,2014-2015,club
+Danny Ward,Liverpool FC,2014-2015,club
+Alberto Moreno,Liverpool FC,2014-2015,club
+Jon Flanagan,Liverpool FC,2014-2015,club
+Glen Johnson,Liverpool FC,2014-2015,club
+Lloyd Jones,Liverpool FC,2014-2015,club
+Jose Enrique,Liverpool FC,2014-2015,club
+Dejan Lovren,Liverpool FC,2014-2015,club
+Manquillo,Liverpool FC,2014-2015,club
+Mamadou Sakho,Liverpool FC,2014-2015,club
+Martin Skrtel,Liverpool FC,2014-2015,club
+Brad Smith,Liverpool FC,2014-2015,club
+Kolo Toure,Liverpool FC,2014-2015,club
+Joe Allen,Liverpool FC,2014-2015,club
+Cameron Brannagan,Liverpool FC,2014-2015,club
+Emre Can,Liverpool FC,2014-2015,club
+Coutinho,Liverpool FC,2014-2015,club
+Jack Dunn,Liverpool FC,2014-2015,club
+Steven Gerrard,Liverpool FC,2014-2015,club
+Jordan Henderson,Liverpool FC,2014-2015,club
+Joao Carlos Teixeira,Liverpool FC,2014-2015,club
+Adam Lallana,Liverpool FC,2014-2015,club
+Lucas Leiva,Liverpool FC,2014-2015,club
+Lazar Markovic,Liverpool FC,2014-2015,club
+Sheyi Ojo,Liverpool FC,2014-2015,club
+Jordan Rossiter,Liverpool FC,2014-2015,club
+Mario Balotelli,Liverpool FC,2014-2015,club
+Fabio Borini,Liverpool FC,2014-2015,club
+Jordon Ibe,Liverpool FC,2014-2015,club
+Rickie Lambert,Liverpool FC,2014-2015,club
+Jerome Sinclair,Liverpool FC,2014-2015,club
+Raheem Sterling,Liverpool FC,2014-2015,club
+Daniel Sturridge,Liverpool FC,2014-2015,club
+Samed Yesil,Liverpool FC,2014-2015,club
+Brendan Rodgers,Liverpool FC,2014-2015,club
+Mike Marsh,Liverpool FC,2014-2015,club
+Colin Pascoe,Liverpool FC,2014-2015,club
+John Achterberg,Liverpool FC,2014-2015,club
+Adam Bogdan,Liverpool FC,2015-2016,club
+Simon Mignolet,Liverpool FC,2015-2016,club
+Danny Ward,Liverpool FC,2015-2016,club
+Alberto Moreno,Liverpool FC,2015-2016,club
+Steven Caulker,Liverpool FC,2015-2016,club
+Daniel Cleary,Liverpool FC,2015-2016,club
+Nathaniel Clyne,Liverpool FC,2015-2016,club
+Jon Flanagan,Liverpool FC,2015-2016,club
+Joe Gomez,Liverpool FC,2015-2016,club
+Lloyd Jones,Liverpool FC,2015-2016,club
+Jose Enrique,Liverpool FC,2015-2016,club
+Dejan Lovren,Liverpool FC,2015-2016,club
+Joe Maguire,Liverpool FC,2015-2016,club
+Conor Masterson,Liverpool FC,2015-2016,club
+Connor Randall,Liverpool FC,2015-2016,club
+Mamadou Sakho,Liverpool FC,2015-2016,club
+Martin Skrtel,Liverpool FC,2015-2016,club
+Brad Smith,Liverpool FC,2015-2016,club
+Tiago Ilori,Liverpool FC,2015-2016,club
+Kolo Toure,Liverpool FC,2015-2016,club
+Joe Allen,Liverpool FC,2015-2016,club
+Cameron Brannagan,Liverpool FC,2015-2016,club
+Emre Can,Liverpool FC,2015-2016,club
+Coutinho,Liverpool FC,2015-2016,club
+Jack Dunn,Liverpool FC,2015-2016,club
+Jordan Henderson,Liverpool FC,2015-2016,club
+Joao Carlos Teixeira,Liverpool FC,2015-2016,club
+Ryan Kent,Liverpool FC,2015-2016,club
+Adam Lallana,Liverpool FC,2015-2016,club
+Lucas Leiva,Liverpool FC,2015-2016,club
+James Milner,Liverpool FC,2015-2016,club
+Sheyi Ojo,Liverpool FC,2015-2016,club
+Pedro Chirivella,Liverpool FC,2015-2016,club
+Adam Phillips,Liverpool FC,2015-2016,club
+Jordan Rossiter,Liverpool FC,2015-2016,club
+Kevin Stewart,Liverpool FC,2015-2016,club
+Christian Benteke,Liverpool FC,2015-2016,club
+Jordon Ibe,Liverpool FC,2015-2016,club
+Danny Ings,Liverpool FC,2015-2016,club
+Divock Origi,Liverpool FC,2015-2016,club
+Roberto Firmino,Liverpool FC,2015-2016,club
+Sergi Canos,Liverpool FC,2015-2016,club
+Jerome Sinclair,Liverpool FC,2015-2016,club
+Daniel Sturridge,Liverpool FC,2015-2016,club
+Jurgen Klopp,Liverpool FC,2015-2016,club
+Zeljko Buvac,Liverpool FC,2015-2016,club
+Peter Krawietz,Liverpool FC,2015-2016,club
+Pepijn Lijnders,Liverpool FC,2015-2016,club
+John Achterberg,Liverpool FC,2015-2016,club
+Loris Karius,Liverpool FC,2016-2017,club
+Alexander Manninger,Liverpool FC,2016-2017,club
+Simon Mignolet,Liverpool FC,2016-2017,club
+Alberto Moreno,Liverpool FC,2016-2017,club
+Trent Alexander-Arnold,Liverpool FC,2016-2017,club
+Nathaniel Clyne,Liverpool FC,2016-2017,club
+Joe Gomez,Liverpool FC,2016-2017,club
+Ragnar Klavan,Liverpool FC,2016-2017,club
+Dejan Lovren,Liverpool FC,2016-2017,club
+Joel Matip,Liverpool FC,2016-2017,club
+James Milner,Liverpool FC,2016-2017,club
+Connor Randall,Liverpool FC,2016-2017,club
+Emre Can,Liverpool FC,2016-2017,club
+Coutinho,Liverpool FC,2016-2017,club
+Ovie Ejaria,Liverpool FC,2016-2017,club
+Marko Grujic,Liverpool FC,2016-2017,club
+Jordan Henderson,Liverpool FC,2016-2017,club
+Adam Lallana,Liverpool FC,2016-2017,club
+Lucas Leiva,Liverpool FC,2016-2017,club
+Sheyi Ojo,Liverpool FC,2016-2017,club
+Paulinho,Liverpool FC,2016-2017,club
+Kevin Stewart,Liverpool FC,2016-2017,club
+Georginio Wijnaldum,Liverpool FC,2016-2017,club
+Michael Jordan Williams,Liverpool FC,2016-2017,club
+Rhian Brewster,Liverpool FC,2016-2017,club
+Danny Ings,Liverpool FC,2016-2017,club
+Sadio Mane,Liverpool FC,2016-2017,club
+Divock Origi,Liverpool FC,2016-2017,club
+Roberto Firmino,Liverpool FC,2016-2017,club
+Daniel Sturridge,Liverpool FC,2016-2017,club
+Harry Wilson,Liverpool FC,2016-2017,club
+Ben Woodburn,Liverpool FC,2016-2017,club
+Jurgen Klopp,Liverpool FC,2016-2017,club
+Zeljko Buvac,Liverpool FC,2016-2017,club
+Peter Krawietz,Liverpool FC,2016-2017,club
+Pepijn Lijnders,Liverpool FC,2016-2017,club
+John Achterberg,Liverpool FC,2016-2017,club
+Andreas Kornmayer,Liverpool FC,2016-2017,club
+Adam Bogdan,Liverpool FC,2017-2018,club
+Loris Karius,Liverpool FC,2017-2018,club
+Simon Mignolet,Liverpool FC,2017-2018,club
+Danny Ward,Liverpool FC,2017-2018,club
+Alberto Moreno,Liverpool FC,2017-2018,club
+Trent Alexander-Arnold,Liverpool FC,2017-2018,club
+Nathaniel Clyne,Liverpool FC,2017-2018,club
+Joe Gomez,Liverpool FC,2017-2018,club
+Ragnar Klavan,Liverpool FC,2017-2018,club
+Dejan Lovren,Liverpool FC,2017-2018,club
+Conor Masterson,Liverpool FC,2017-2018,club
+Joel Matip,Liverpool FC,2017-2018,club
+Andrew Robertson,Liverpool FC,2017-2018,club
+Virgil van Dijk,Liverpool FC,2017-2018,club
+Emre Can,Liverpool FC,2017-2018,club
+Jordan Henderson,Liverpool FC,2017-2018,club
+Curtis Jones,Liverpool FC,2017-2018,club
+Adam Lallana,Liverpool FC,2017-2018,club
+James Milner,Liverpool FC,2017-2018,club
+Alex Oxlade-Chamberlain,Liverpool FC,2017-2018,club
+Georginio Wijnaldum,Liverpool FC,2017-2018,club
+Danny Ings,Liverpool FC,2017-2018,club
+Sadio Mane,Liverpool FC,2017-2018,club
+Roberto Firmino,Liverpool FC,2017-2018,club
+Mohamed Salah,Liverpool FC,2017-2018,club
+Dominic Solanke,Liverpool FC,2017-2018,club
+Ben Woodburn,Liverpool FC,2017-2018,club
+Jurgen Klopp,Liverpool FC,2017-2018,club
+Peter Krawietz,Liverpool FC,2017-2018,club
+Pepijn Lijnders,Liverpool FC,2017-2018,club
+John Achterberg,Liverpool FC,2017-2018,club
+Andreas Kornmayer,Liverpool FC,2017-2018,club
+Christopher Rohrbeck,Liverpool FC,2017-2018,club
+Jasper Cillessen,FC Barcelona,2018-2019,club
+Inaki Pena,FC Barcelona,2018-2019,club
+Jokin Ezkieta,FC Barcelona,2018-2019,club
+Marc-Andre ter Stegen,FC Barcelona,2018-2019,club
+Chumi,FC Barcelona,2018-2019,club
+Guillem Jaime,FC Barcelona,2018-2019,club
+Jordi Alba,FC Barcelona,2018-2019,club
+Jorge Cuenca,FC Barcelona,2018-2019,club
+Juan Miranda,FC Barcelona,2018-2019,club
+Clement Lenglet,FC Barcelona,2018-2019,club
+Jeison Murillo,FC Barcelona,2018-2019,club
+Nelson Semedo,FC Barcelona,2018-2019,club
+Pique,FC Barcelona,2018-2019,club
+Jean-Clair Todibo,FC Barcelona,2018-2019,club
+Samuel Umtiti,FC Barcelona,2018-2019,club
+Thomas Vermaelen,FC Barcelona,2018-2019,club
+Moussa Wague,FC Barcelona,2018-2019,club
+Arthur,FC Barcelona,2018-2019,club
+Kevin-Prince Boateng,FC Barcelona,2018-2019,club
+Busquets,FC Barcelona,2018-2019,club
+Carles Alena,FC Barcelona,2018-2019,club
+Coutinho,FC Barcelona,2018-2019,club
+Denis Suarez,FC Barcelona,2018-2019,club
+Oriol Busquets,FC Barcelona,2018-2019,club
+Rafinha,FC Barcelona,2018-2019,club
+Ivan Rakitic,FC Barcelona,2018-2019,club
+Riqui Puig,FC Barcelona,2018-2019,club
+Sergi Roberto,FC Barcelona,2018-2019,club
+Arturo Vidal,FC Barcelona,2018-2019,club
+Abel Ruiz,FC Barcelona,2018-2019,club
+Alex Collado,FC Barcelona,2018-2019,club
+Carles Perez,FC Barcelona,2018-2019,club
+Ousmane Dembele,FC Barcelona,2018-2019,club
+Malcom,FC Barcelona,2018-2019,club
+Lionel Messi,FC Barcelona,2018-2019,club
+Luis Suarez,FC Barcelona,2018-2019,club
+Valverde,FC Barcelona,2018-2019,club
+Aspiazu,FC Barcelona,2018-2019,club
+Barbara,FC Barcelona,2018-2019,club
+De la Fuente,FC Barcelona,2018-2019,club
+Inaki Pena,FC Barcelona,2020-2021,club
+Neto,FC Barcelona,2020-2021,club
+Marc-Andre ter Stegen,FC Barcelona,2020-2021,club
+Ronald Araujo,FC Barcelona,2020-2021,club
+Cucurella,FC Barcelona,2020-2021,club
+Junior Firpo,FC Barcelona,2020-2021,club
+Jordi Alba,FC Barcelona,2020-2021,club
+Clement Lenglet,FC Barcelona,2020-2021,club
+Nelson Semedo,FC Barcelona,2020-2021,club
+Pique,FC Barcelona,2020-2021,club
+Jean-Clair Todibo,FC Barcelona,2020-2021,club
+Samuel Umtiti,FC Barcelona,2020-2021,club
+Moussa Wague,FC Barcelona,2020-2021,club
+Arthur,FC Barcelona,2020-2021,club
+Busquets,FC Barcelona,2020-2021,club
+Carles Alena,FC Barcelona,2020-2021,club
+Coutinho,FC Barcelona,2020-2021,club
+Frenkie de Jong,FC Barcelona,2020-2021,club
+Matheus Fernandes,FC Barcelona,2020-2021,club
+Pedri,FC Barcelona,2020-2021,club
+Rafinha,FC Barcelona,2020-2021,club
+Ivan Rakitic,FC Barcelona,2020-2021,club
+Riqui Puig,FC Barcelona,2020-2021,club
+Sergi Roberto,FC Barcelona,2020-2021,club
+Arda Turan,FC Barcelona,2020-2021,club
+Arturo Vidal,FC Barcelona,2020-2021,club
+Alex Collado,FC Barcelona,2020-2021,club
+Martin Braithwaite,FC Barcelona,2020-2021,club
+Carles Perez,FC Barcelona,2020-2021,club
+Ousmane Dembele,FC Barcelona,2020-2021,club
+Ansu Fati,FC Barcelona,2020-2021,club
+Antoine Griezmann,FC Barcelona,2020-2021,club
+Rey Manaj,FC Barcelona,2020-2021,club
+Lionel Messi,FC Barcelona,2020-2021,club
+Luis Suarez,FC Barcelona,2020-2021,club
+Trincao,FC Barcelona,2020-2021,club
+Quique Setien,FC Barcelona,2020-2021,club
+Eder Sarabia,FC Barcelona,2020-2021,club
+Jon Pascua,FC Barcelona,2020-2021,club
+Fran Soto,FC Barcelona,2020-2021,club
+Neto,FC Barcelona,2021-2022,club
+Marc-Andre ter Stegen,FC Barcelona,2021-2022,club
+Ronald Araujo,FC Barcelona,2021-2022,club
+Junior Firpo,FC Barcelona,2021-2022,club
+Jordi Alba,FC Barcelona,2021-2022,club
+Clement Lenglet,FC Barcelona,2021-2022,club
+Nelson Semedo,FC Barcelona,2021-2022,club
+Pique,FC Barcelona,2021-2022,club
+Jean-Clair Todibo,FC Barcelona,2021-2022,club
+Samuel Umtiti,FC Barcelona,2021-2022,club
+Moussa Wague,FC Barcelona,2021-2022,club
+Arthur,FC Barcelona,2021-2022,club
+Busquets,FC Barcelona,2021-2022,club
+Carles Alena,FC Barcelona,2021-2022,club
+Coutinho,FC Barcelona,2021-2022,club
+Frenkie de Jong,FC Barcelona,2021-2022,club
+Matheus Fernandes,FC Barcelona,2021-2022,club
+Pedri,FC Barcelona,2021-2022,club
+Sergi Roberto,FC Barcelona,2021-2022,club
+Martin Braithwaite,FC Barcelona,2021-2022,club
+Carles Perez,FC Barcelona,2021-2022,club
+Ousmane Dembele,FC Barcelona,2021-2022,club
+Ansu Fati,FC Barcelona,2021-2022,club
+Antoine Griezmann,FC Barcelona,2021-2022,club
+Rey Manaj,FC Barcelona,2021-2022,club
+Trincao,FC Barcelona,2021-2022,club
+Quique Setien,FC Barcelona,2021-2022,club
+Eder Sarabia,FC Barcelona,2021-2022,club
+Jon Pascua,FC Barcelona,2021-2022,club
+Fran Soto,FC Barcelona,2021-2022,club
+Neto,FC Barcelona,2022-2023,club
+Ronald Araujo,FC Barcelona,2022-2023,club
+Junior Firpo,FC Barcelona,2022-2023,club
+Jordi Alba,FC Barcelona,2022-2023,club
+Clement Lenglet,FC Barcelona,2022-2023,club
+Jean-Clair Todibo,FC Barcelona,2022-2023,club
+Samuel Umtiti,FC Barcelona,2022-2023,club
+Moussa Wague,FC Barcelona,2022-2023,club
+Arthur,FC Barcelona,2022-2023,club
+Busquets,FC Barcelona,2022-2023,club
+Coutinho,FC Barcelona,2022-2023,club
+Frenkie de Jong,FC Barcelona,2022-2023,club
+Matheus Fernandes,FC Barcelona,2022-2023,club
+Martin Braithwaite,FC Barcelona,2022-2023,club
+Antoine Griezmann,FC Barcelona,2022-2023,club
+Rey Manaj,FC Barcelona,2022-2023,club
+Trincao,FC Barcelona,2022-2023,club
+Doni,Brazil,2008-2009,nation
+Julio Cesar,Brazil,2008-2009,nation
+Adriano,Brazil,2008-2009,nation
+Andre Santos,Brazil,2008-2009,nation
+Cris,Brazil,2008-2009,nation
+Dani Alves,Brazil,2008-2009,nation
+Juan,Brazil,2008-2009,nation
+Lucio,Brazil,2008-2009,nation
+Luisao,Brazil,2008-2009,nation
+Maicon,Brazil,2008-2009,nation
+Marcelo,Brazil,2008-2009,nation
+Miranda,Brazil,2008-2009,nation
+Thiago Silva,Brazil,2008-2009,nation
+Carlos Eduardo,Brazil,2008-2009,nation
+Elano,Brazil,2008-2009,nation
+Fabio Simplicio,Brazil,2008-2009,nation
+Felipe Melo,Brazil,2008-2009,nation
+Gilberto Silva,Brazil,2008-2009,nation
+Josue,Brazil,2008-2009,nation
+Julio Baptista,Brazil,2008-2009,nation
+Kaka,Brazil,2008-2009,nation
+Kleberson,Brazil,2008-2009,nation
+Michel Bastos,Brazil,2008-2009,nation
+Ronaldinho,Brazil,2008-2009,nation
+Alexandre Pato,Brazil,2008-2009,nation
+Diego Tardelli,Brazil,2008-2009,nation
+Hulk,Brazil,2008-2009,nation
+Luis Fabiano,Brazil,2008-2009,nation
+Nilmar,Brazil,2008-2009,nation
+Robinho,Brazil,2008-2009,nation
+Dunga,Brazil,2008-2009,nation
+Jorginho,Brazil,2008-2009,nation
+Doni,Brazil,2009-2010,nation
+Gomes,Brazil,2009-2010,nation
+Jefferson,Brazil,2009-2010,nation
+Julio Cesar,Brazil,2009-2010,nation
+Neto,Brazil,2009-2010,nation
+Renan,Brazil,2009-2010,nation
+Victor,Brazil,2009-2010,nation
+Adriano,Brazil,2009-2010,nation
+Alex,Brazil,2009-2010,nation
+Andre Santos,Brazil,2009-2010,nation
+Dani Alves,Brazil,2009-2010,nation
+David Luiz,Brazil,2009-2010,nation
+Juan,Brazil,2009-2010,nation
+Lucio,Brazil,2009-2010,nation
+Luisao,Brazil,2009-2010,nation
+Maicon,Brazil,2009-2010,nation
+Marcelo,Brazil,2009-2010,nation
+Rafael,Brazil,2009-2010,nation
+Rever,Brazil,2009-2010,nation
+Thiago Silva,Brazil,2009-2010,nation
+Carlos Eduardo,Brazil,2009-2010,nation
+Coutinho,Brazil,2009-2010,nation
+Douglas,Brazil,2009-2010,nation
+Ederson,Brazil,2009-2010,nation
+Elano,Brazil,2009-2010,nation
+Elias,Brazil,2009-2010,nation
+Felipe Melo,Brazil,2009-2010,nation
+Ganso,Brazil,2009-2010,nation
+Gilberto,Brazil,2009-2010,nation
+Gilberto Silva,Brazil,2009-2010,nation
+Giuliano,Brazil,2009-2010,nation
+Hernanes,Brazil,2009-2010,nation
+Josue,Brazil,2009-2010,nation
+Jucilei,Brazil,2009-2010,nation
+Julio Baptista,Brazil,2009-2010,nation
+Kaka,Brazil,2009-2010,nation
+Kleberson,Brazil,2009-2010,nation
+Lucas Leiva,Brazil,2009-2010,nation
+Michel Bastos,Brazil,2009-2010,nation
+Ramires,Brazil,2009-2010,nation
+Sandro,Brazil,2009-2010,nation
+Wesley,Brazil,2009-2010,nation
+Alexandre Pato,Brazil,2009-2010,nation
+Andre,Brazil,2009-2010,nation
+Diego Tardelli,Brazil,2009-2010,nation
+Grafite,Brazil,2009-2010,nation
+Luis Fabiano,Brazil,2009-2010,nation
+Neymar,Brazil,2009-2010,nation
+Nilmar,Brazil,2009-2010,nation
+Robinho,Brazil,2009-2010,nation
+Ronaldinho,Brazil,2009-2010,nation
+Mano Menezes,Brazil,2009-2010,nation
+Dunga,Brazil,2009-2010,nation
+Jorginho,Brazil,2009-2010,nation
+Diego Alves,Brazil,2010-2011,nation
+Gomes,Brazil,2010-2011,nation
+Jefferson,Brazil,2010-2011,nation
+Julio Cesar,Brazil,2010-2011,nation
+Neto,Brazil,2010-2011,nation
+Victor,Brazil,2010-2011,nation
+Adriano,Brazil,2010-2011,nation
+Alex Sandro,Brazil,2010-2011,nation
+Andre Santos,Brazil,2010-2011,nation
+Breno,Brazil,2010-2011,nation
+Bruno Cortes,Brazil,2010-2011,nation
+Dani Alves,Brazil,2010-2011,nation
+Danilo,Brazil,2010-2011,nation
+David Luiz,Brazil,2010-2011,nation
+Dede,Brazil,2010-2011,nation
+Fabio,Brazil,2010-2011,nation
+Kleber,Brazil,2010-2011,nation
+Lucio,Brazil,2010-2011,nation
+Luisao,Brazil,2010-2011,nation
+Maicon,Brazil,2010-2011,nation
+Marcelo,Brazil,2010-2011,nation
+Mario Fernandes,Brazil,2010-2011,nation
+Rafael,Brazil,2010-2011,nation
+Rever,Brazil,2010-2011,nation
+Rhodolfo,Brazil,2010-2011,nation
+Thiago Silva,Brazil,2010-2011,nation
+Anderson,Brazil,2010-2011,nation
+Bruno Cesar,Brazil,2010-2011,nation
+Casemiro,Brazil,2010-2011,nation
+Cicero,Brazil,2010-2011,nation
+Diego Souza,Brazil,2010-2011,nation
+Dudu,Brazil,2010-2011,nation
+Elano,Brazil,2010-2011,nation
+Elias,Brazil,2010-2011,nation
+Fernandinho,Brazil,2010-2011,nation
+Ganso,Brazil,2010-2011,nation
+Henrique,Brazil,2010-2011,nation
+Hernanes,Brazil,2010-2011,nation
+Jadson,Brazil,2010-2011,nation
+Lucas,Brazil,2010-2011,nation
+Lucas Leiva,Brazil,2010-2011,nation
+Luiz Gustavo,Brazil,2010-2011,nation
+Oscar,Brazil,2010-2011,nation
+Paulinho,Brazil,2010-2011,nation
+Ralf,Brazil,2010-2011,nation
+Ramires,Brazil,2010-2011,nation
+Renato,Brazil,2010-2011,nation
+Renato Augusto,Brazil,2010-2011,nation
+Romulo,Brazil,2010-2011,nation
+Ronaldinho,Brazil,2010-2011,nation
+Sandro,Brazil,2010-2011,nation
+Thiago Neves,Brazil,2010-2011,nation
+Willian,Brazil,2010-2011,nation
+Alexandre Pato,Brazil,2010-2011,nation
+Andre,Brazil,2010-2011,nation
+Borges,Brazil,2010-2011,nation
+Fred,Brazil,2010-2011,nation
+Hulk,Brazil,2010-2011,nation
+Jonas,Brazil,2010-2011,nation
+Leandro Damiao,Brazil,2010-2011,nation
+Neymar,Brazil,2010-2011,nation
+Nilmar,Brazil,2010-2011,nation
+Robinho,Brazil,2010-2011,nation
+Ronaldo,Brazil,2010-2011,nation
+Mano Menezes,Brazil,2010-2011,nation
+Diego Alves,Brazil,2011-2012,nation
+Diego Cavalieri,Brazil,2011-2012,nation
+Gabriel,Brazil,2011-2012,nation
+Jefferson,Brazil,2011-2012,nation
+Julio Cesar,Brazil,2011-2012,nation
+Neto,Brazil,2011-2012,nation
+Rafael,Brazil,2011-2012,nation
+Renan Ribeiro,Brazil,2011-2012,nation
+Victor,Brazil,2011-2012,nation
+Adriano,Brazil,2011-2012,nation
+Alex Sandro,Brazil,2011-2012,nation
+Bruno Uvini,Brazil,2011-2012,nation
+Carlinhos,Brazil,2011-2012,nation
+Dani Alves,Brazil,2011-2012,nation
+Danilo,Brazil,2011-2012,nation
+David Luiz,Brazil,2011-2012,nation
+Dede,Brazil,2011-2012,nation
+Durval,Brazil,2011-2012,nation
+Fabio Santos,Brazil,2011-2012,nation
+Juan Jesus,Brazil,2011-2012,nation
+Leandro Castan,Brazil,2011-2012,nation
+Lucas,Brazil,2011-2012,nation
+Luisao,Brazil,2011-2012,nation
+Marcelo,Brazil,2011-2012,nation
+Rever,Brazil,2011-2012,nation
+Thiago Silva,Brazil,2011-2012,nation
+Arouca,Brazil,2011-2012,nation
+Bernard,Brazil,2011-2012,nation
+Casemiro,Brazil,2011-2012,nation
+Elias,Brazil,2011-2012,nation
+Fernandinho,Brazil,2011-2012,nation
+Fernando,Brazil,2011-2012,nation
+Ganso,Brazil,2011-2012,nation
+Giuliano,Brazil,2011-2012,nation
+Hernanes,Brazil,2011-2012,nation
+Jadson,Brazil,2011-2012,nation
+Jean,Brazil,2011-2012,nation
+Kaka,Brazil,2011-2012,nation
+Oscar,Brazil,2011-2012,nation
+Paulinho,Brazil,2011-2012,nation
+Ralf,Brazil,2011-2012,nation
+Ramires,Brazil,2011-2012,nation
+Romulo,Brazil,2011-2012,nation
+Ronaldinho,Brazil,2011-2012,nation
+Sandro,Brazil,2011-2012,nation
+Thiago Neves,Brazil,2011-2012,nation
+Wellington Nem,Brazil,2011-2012,nation
+Alexandre Pato,Brazil,2011-2012,nation
+Fred,Brazil,2011-2012,nation
+Hulk,Brazil,2011-2012,nation
+Jonas,Brazil,2011-2012,nation
+Leandro Damiao,Brazil,2011-2012,nation
+Luis Fabiano,Brazil,2011-2012,nation
+Neymar,Brazil,2011-2012,nation
+Mano Menezes,Brazil,2011-2012,nation
+Diego Alves,Brazil,2012-2013,nation
+Diego Cavalieri,Brazil,2012-2013,nation
+Jefferson,Brazil,2012-2013,nation
+Julio Cesar,Brazil,2012-2013,nation
+Matheus Vidotto,Brazil,2012-2013,nation
+Victor,Brazil,2012-2013,nation
+Adriano,Brazil,2012-2013,nation
+Andre Santos,Brazil,2012-2013,nation
+Dani Alves,Brazil,2012-2013,nation
+Dante,Brazil,2012-2013,nation
+David Luiz,Brazil,2012-2013,nation
+Dede,Brazil,2012-2013,nation
+Doria,Brazil,2012-2013,nation
+Douglas Santos,Brazil,2012-2013,nation
+Filipe Luis,Brazil,2012-2013,nation
+Henrique,Brazil,2012-2013,nation
+Leandro Castan,Brazil,2012-2013,nation
+Maicon,Brazil,2012-2013,nation
+Marcelo,Brazil,2012-2013,nation
+Marcos Rocha,Brazil,2012-2013,nation
+Marquinhos,Brazil,2012-2013,nation
+Maxwell,Brazil,2012-2013,nation
+Miranda,Brazil,2012-2013,nation
+Rever,Brazil,2012-2013,nation
+Rodrigo Moledo,Brazil,2012-2013,nation
+Thiago Silva,Brazil,2012-2013,nation
+Arouca,Brazil,2012-2013,nation
+Bernard,Brazil,2012-2013,nation
+Fernando,Brazil,2012-2013,nation
+Hernanes,Brazil,2012-2013,nation
+Jadson,Brazil,2012-2013,nation
+Jean,Brazil,2012-2013,nation
+Kaka,Brazil,2012-2013,nation
+Lucas,Brazil,2012-2013,nation
+Lucas Leiva,Brazil,2012-2013,nation
+Luiz Gustavo,Brazil,2012-2013,nation
+Oscar,Brazil,2012-2013,nation
+Paulinho,Brazil,2012-2013,nation
+Ralf,Brazil,2012-2013,nation
+Ramires,Brazil,2012-2013,nation
+Ronaldinho,Brazil,2012-2013,nation
+Willian,Brazil,2012-2013,nation
+Alexandre Pato,Brazil,2012-2013,nation
+Diego Costa,Brazil,2012-2013,nation
+Fred,Brazil,2012-2013,nation
+Hulk,Brazil,2012-2013,nation
+Jo,Brazil,2012-2013,nation
+Leandro,Brazil,2012-2013,nation
+Leandro Damiao,Brazil,2012-2013,nation
+Luis Fabiano,Brazil,2012-2013,nation
+Neymar,Brazil,2012-2013,nation
+Osvaldo,Brazil,2012-2013,nation
+Robinho,Brazil,2012-2013,nation
+Luiz Felipe Scolari,Brazil,2012-2013,nation
+Diego Alves,Brazil,2013-2014,nation
+Jefferson,Brazil,2013-2014,nation
+Julio Cesar,Brazil,2013-2014,nation
+Marcelo Grohe,Brazil,2013-2014,nation
+Neto,Brazil,2013-2014,nation
+Rafael,Brazil,2013-2014,nation
+Victor,Brazil,2013-2014,nation
+Alex Sandro,Brazil,2013-2014,nation
+Dani Alves,Brazil,2013-2014,nation
+Danilo,Brazil,2013-2014,nation
+Dante,Brazil,2013-2014,nation
+David Luiz,Brazil,2013-2014,nation
+Dodo,Brazil,2013-2014,nation
+Fabinho,Brazil,2013-2014,nation
+Filipe Luis,Brazil,2013-2014,nation
+Gil,Brazil,2013-2014,nation
+Henrique,Brazil,2013-2014,nation
+Juan Jesus,Brazil,2013-2014,nation
+Maicon,Brazil,2013-2014,nation
+Marcelo,Brazil,2013-2014,nation
+Mario Fernandes,Brazil,2013-2014,nation
+Marquinhos,Brazil,2013-2014,nation
+Maxwell,Brazil,2013-2014,nation
+Miranda,Brazil,2013-2014,nation
+Rafinha,Brazil,2013-2014,nation
+Romulo,Brazil,2013-2014,nation
+Thiago Silva,Brazil,2013-2014,nation
+Anderson Talisca,Brazil,2013-2014,nation
+Bernard,Brazil,2013-2014,nation
+Casemiro,Brazil,2013-2014,nation
+Coutinho,Brazil,2013-2014,nation
+Elias,Brazil,2013-2014,nation
+Everton Ribeiro,Brazil,2013-2014,nation
+Fernandinho,Brazil,2013-2014,nation
+Fred,Brazil,2013-2014,nation
+Hernanes,Brazil,2013-2014,nation
+Kaka,Brazil,2013-2014,nation
+Lucas,Brazil,2013-2014,nation
+Luiz Gustavo,Brazil,2013-2014,nation
+Oscar,Brazil,2013-2014,nation
+Paulinho,Brazil,2013-2014,nation
+Ramires,Brazil,2013-2014,nation
+Ricardo Goulart,Brazil,2013-2014,nation
+Roberto Firmino,Brazil,2013-2014,nation
+Souza,Brazil,2013-2014,nation
+Willian,Brazil,2013-2014,nation
+Diego Tardelli,Brazil,2013-2014,nation
+Douglas Costa,Brazil,2013-2014,nation
+Hulk,Brazil,2013-2014,nation
+Jo,Brazil,2013-2014,nation
+Luiz Adriano,Brazil,2013-2014,nation
+Neymar,Brazil,2013-2014,nation
+Robinho,Brazil,2013-2014,nation
+Dunga,Brazil,2013-2014,nation
+Luiz Felipe Scolari,Brazil,2013-2014,nation
+Taffarel,Brazil,2013-2014,nation
+Alisson,Brazil,2014-2015,nation
+Diego Alves,Brazil,2014-2015,nation
+Jefferson,Brazil,2014-2015,nation
+Marcelo Grohe,Brazil,2014-2015,nation
+Neto,Brazil,2014-2015,nation
+Danilo,Brazil,2014-2015,nation
+David Luiz,Brazil,2014-2015,nation
+Douglas Santos,Brazil,2014-2015,nation
+Fabinho,Brazil,2014-2015,nation
+Filipe Luis,Brazil,2014-2015,nation
+Gabriel Paulista,Brazil,2014-2015,nation
+Gil,Brazil,2014-2015,nation
+Marcelo,Brazil,2014-2015,nation
+Marquinhos,Brazil,2014-2015,nation
+Miranda,Brazil,2014-2015,nation
+Thiago Silva,Brazil,2014-2015,nation
+Casemiro,Brazil,2014-2015,nation
+Coutinho,Brazil,2014-2015,nation
+Elias,Brazil,2014-2015,nation
+Everton Ribeiro,Brazil,2014-2015,nation
+Felipe Anderson,Brazil,2014-2015,nation
+Fernandinho,Brazil,2014-2015,nation
+Fred,Brazil,2014-2015,nation
+Geferson,Brazil,2014-2015,nation
+Kaka,Brazil,2014-2015,nation
+Lucas,Brazil,2014-2015,nation
+Lucas Lima,Brazil,2014-2015,nation
+Luiz Gustavo,Brazil,2014-2015,nation
+Oscar,Brazil,2014-2015,nation
+Rafinha,Brazil,2014-2015,nation
+Roberto Firmino,Brazil,2014-2015,nation
+Souza,Brazil,2014-2015,nation
+Willian,Brazil,2014-2015,nation
+Diego Tardelli,Brazil,2014-2015,nation
+Douglas Costa,Brazil,2014-2015,nation
+Hulk,Brazil,2014-2015,nation
+Luiz Adriano,Brazil,2014-2015,nation
+Neymar,Brazil,2014-2015,nation
+Robinho,Brazil,2014-2015,nation
+Dunga,Brazil,2014-2015,nation
+Alisson,Brazil,2015-2016,nation
+Diego Alves,Brazil,2015-2016,nation
+Dani Alves,Brazil,2015-2016,nation
+Douglas Santos,Brazil,2015-2016,nation
+Fabinho,Brazil,2015-2016,nation
+Gil,Brazil,2015-2016,nation
+Marquinhos,Brazil,2015-2016,nation
+Miranda,Brazil,2015-2016,nation
+Rodrigo Caio,Brazil,2015-2016,nation
+Coutinho,Brazil,2015-2016,nation
+Elias,Brazil,2015-2016,nation
+Kaka,Brazil,2015-2016,nation
+Lucas Lima,Brazil,2015-2016,nation
+Luiz Gustavo,Brazil,2015-2016,nation
+Renato Augusto,Brazil,2015-2016,nation
+Gabriel Barbosa,Brazil,2015-2016,nation
+Hulk,Brazil,2015-2016,nation
+Jonas,Brazil,2015-2016,nation
+Willian,Brazil,2015-2016,nation
+Tite,Brazil,2015-2016,nation
+Dunga,Brazil,2015-2016,nation
+Alex Muralha,Brazil,2016-2017,nation
+Alisson,Brazil,2016-2017,nation
+Cassio,Brazil,2016-2017,nation
+Danilo Fernandes,Brazil,2016-2017,nation
+Diego Alves,Brazil,2016-2017,nation
+Ederson,Brazil,2016-2017,nation
+Weverton,Brazil,2016-2017,nation
+Alex Sandro,Brazil,2016-2017,nation
+Dani Alves,Brazil,2016-2017,nation
+Danilo,Brazil,2016-2017,nation
+David Luiz,Brazil,2016-2017,nation
+Fabio Santos,Brazil,2016-2017,nation
+Fagner,Brazil,2016-2017,nation
+Filipe Luis,Brazil,2016-2017,nation
+Geromel,Brazil,2016-2017,nation
+Gil,Brazil,2016-2017,nation
+Jemerson,Brazil,2016-2017,nation
+Luan Garcia,Brazil,2016-2017,nation
+Marcelo,Brazil,2016-2017,nation
+Marcos Rocha,Brazil,2016-2017,nation
+Marquinhos,Brazil,2016-2017,nation
+Miranda,Brazil,2016-2017,nation
+Rafinha,Brazil,2016-2017,nation
+Rodrigo Caio,Brazil,2016-2017,nation
+Thiago Silva,Brazil,2016-2017,nation
+Vitor Hugo,Brazil,2016-2017,nation
+Camilo,Brazil,2016-2017,nation
+Casemiro,Brazil,2016-2017,nation
+Coutinho,Brazil,2016-2017,nation
+Diego,Brazil,2016-2017,nation
+Diego Souza,Brazil,2016-2017,nation
+Dudu,Brazil,2016-2017,nation
+Fernandinho,Brazil,2016-2017,nation
+Giuliano,Brazil,2016-2017,nation
+Gustavo Scarpa,Brazil,2016-2017,nation
+Henrique,Brazil,2016-2017,nation
+Jorge,Brazil,2016-2017,nation
+Lucas Lima,Brazil,2016-2017,nation
+Paulinho,Brazil,2016-2017,nation
+Renato Augusto,Brazil,2016-2017,nation
+Rodriguinho,Brazil,2016-2017,nation
+Walace,Brazil,2016-2017,nation
+Willian Arao,Brazil,2016-2017,nation
+Douglas Costa,Brazil,2016-2017,nation
+Gabriel Jesus,Brazil,2016-2017,nation
+Luan,Brazil,2016-2017,nation
+Neymar,Brazil,2016-2017,nation
+Roberto Firmino,Brazil,2016-2017,nation
+Robinho,Brazil,2016-2017,nation
+Taison,Brazil,2016-2017,nation
+Willian,Brazil,2016-2017,nation
+Tite,Brazil,2016-2017,nation
+Alisson,Brazil,2017-2018,nation
+Cassio,Brazil,2017-2018,nation
+Ederson,Brazil,2017-2018,nation
+Gabriel Brazao,Brazil,2017-2018,nation
+Hugo Souza,Brazil,2017-2018,nation
+Neto,Brazil,2017-2018,nation
+Phelipe Megiolaro,Brazil,2017-2018,nation
+Alex Sandro,Brazil,2017-2018,nation
+Dani Alves,Brazil,2017-2018,nation
+Danilo,Brazil,2017-2018,nation
+Dede,Brazil,2017-2018,nation
+Fabinho,Brazil,2017-2018,nation
+Fagner,Brazil,2017-2018,nation
+Felipe Monteiro,Brazil,2017-2018,nation
+Filipe Luis,Brazil,2017-2018,nation
+Geromel,Brazil,2017-2018,nation
+Ismaily,Brazil,2017-2018,nation
+Marcelo,Brazil,2017-2018,nation
+Marquinhos,Brazil,2017-2018,nation
+Miranda,Brazil,2017-2018,nation
+Pablo Castro,Brazil,2017-2018,nation
+Rodrigo Caio,Brazil,2017-2018,nation
+Thiago Silva,Brazil,2017-2018,nation
+Allan,Brazil,2017-2018,nation
+Anderson Talisca,Brazil,2017-2018,nation
+Andreas Pereira,Brazil,2017-2018,nation
+Arthur,Brazil,2017-2018,nation
+Casemiro,Brazil,2017-2018,nation
+Coutinho,Brazil,2017-2018,nation
+Eder Militao,Brazil,2017-2018,nation
+Fernandinho,Brazil,2017-2018,nation
+Fred,Brazil,2017-2018,nation
+Lucas,Brazil,2017-2018,nation
+Lucas Paqueta,Brazil,2017-2018,nation
+Paulinho,Brazil,2017-2018,nation
+Rafinha,Brazil,2017-2018,nation
+Renato Augusto,Brazil,2017-2018,nation
+Walace,Brazil,2017-2018,nation
+Douglas Costa,Brazil,2017-2018,nation
+Everton,Brazil,2017-2018,nation
+Gabriel Jesus,Brazil,2017-2018,nation
+Malcom,Brazil,2017-2018,nation
+Neymar,Brazil,2017-2018,nation
+Richarlison,Brazil,2017-2018,nation
+Roberto Firmino,Brazil,2017-2018,nation
+Taison,Brazil,2017-2018,nation
+Willian,Brazil,2017-2018,nation
+Willian Jose,Brazil,2017-2018,nation
+Tite,Brazil,2017-2018,nation
+Alisson,Brazil,2018-2019,nation
+Cassio,Brazil,2018-2019,nation
+Daniel Fuzato,Brazil,2018-2019,nation
+Ederson,Brazil,2018-2019,nation
+Ivan,Brazil,2018-2019,nation
+Phelipe Megiolaro,Brazil,2018-2019,nation
+Santos,Brazil,2018-2019,nation
+Weverton,Brazil,2018-2019,nation
+Alex Sandro,Brazil,2018-2019,nation
+Alex Telles,Brazil,2018-2019,nation
+Dani Alves,Brazil,2018-2019,nation
+Danilo,Brazil,2018-2019,nation
+Eder Militao,Brazil,2018-2019,nation
+Emerson,Brazil,2018-2019,nation
+Fabinho,Brazil,2018-2019,nation
+Fagner,Brazil,2018-2019,nation
+Felipe Monteiro,Brazil,2018-2019,nation
+Filipe Luis,Brazil,2018-2019,nation
+Jorge,Brazil,2018-2019,nation
+Marcinho,Brazil,2018-2019,nation
+Marquinhos,Brazil,2018-2019,nation
+Miranda,Brazil,2018-2019,nation
+Renan Lodi,Brazil,2018-2019,nation
+Rodrigo Caio,Brazil,2018-2019,nation
+Samir,Brazil,2018-2019,nation
+Thiago Silva,Brazil,2018-2019,nation
+Allan,Brazil,2018-2019,nation
+Arthur,Brazil,2018-2019,nation
+Casemiro,Brazil,2018-2019,nation
+Coutinho,Brazil,2018-2019,nation
+Douglas Luiz,Brazil,2018-2019,nation
+Felipe Anderson,Brazil,2018-2019,nation
+Fernandinho,Brazil,2018-2019,nation
+Lucas Paqueta,Brazil,2018-2019,nation
+Matheus Henrique,Brazil,2018-2019,nation
+Willian,Brazil,2018-2019,nation
+Bruno Henrique,Brazil,2018-2019,nation
+David Neres,Brazil,2018-2019,nation
+Everton,Brazil,2018-2019,nation
+Gabriel Barbosa,Brazil,2018-2019,nation
+Gabriel Jesus,Brazil,2018-2019,nation
+Neymar,Brazil,2018-2019,nation
+Richarlison,Brazil,2018-2019,nation
+Roberto Firmino,Brazil,2018-2019,nation
+Rodrygo,Brazil,2018-2019,nation
+Vinicius Junior,Brazil,2018-2019,nation
+Wesley,Brazil,2018-2019,nation
+Tite,Brazil,2018-2019,nation
