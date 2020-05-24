@@ -51,9 +51,9 @@ See `/examples` for CSV files for a number of world famous players including Ste
 
 `matches.py` finds all the matches between two players (you need to run `squadmates.py` on both players first).
 
-Type `python matches.py -f <folder> -p1 <player_name> -p2 <player_name> -t <type>` where `<folder>` is the folder path for the player CSVs and `<type>` is either both (default), club or nation.
+Type `python matches.py -f <folder> -p1 <player_name> -p2 <player_name> -t <type>` where `<folder>` is the folder path for the player CSVs and `<type>` is either **both** (default), **club** or **nation** (depending on what type of match you want to perform).
 
-For example, for Lionel Messi and Cristiano Ronaldo for `type` both, the common players are:
+For example, for Lionel Messi and Cristiano Ronaldo for `type` **both**, the common players are:
 
 - Paulo Dybala
 - Facundo Quiroga
@@ -72,7 +72,7 @@ For example, for Lionel Messi and Cristiano Ronaldo for `type` both, the common 
 - Angel Di Maria
 - Carlos Tevez
 
-If we use `type` club, the common players are:
+If we use `type` **club**, the common players are:
 
 - Pique
 - Santamaria
