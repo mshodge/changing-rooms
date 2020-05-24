@@ -186,7 +186,7 @@ def save_results(args, player, team, season, type):
 	df = df.drop_duplicates()
 	df = df[df.player != args.player]
 	player_name_save = re.sub('[^A-Za-z0-9]+', '', args.player).lower()
-	df.to_csv(f'{player_name_save}-clubmates.csv', index=False)
+	df.to_csv(f'{player_name_save}-squadmates.csv', index=False)
 
 
 def main(supplied_args):
