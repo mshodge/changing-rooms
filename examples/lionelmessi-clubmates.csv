@@ -1,600 +1,1349 @@
-player,team,season
-Javi Ruiz,FC Barcelona B,2003-2004
-Ruben,FC Barcelona B,2003-2004
-Dani Fernandez,FC Barcelona B,2003-2004
-Fran Gonzalez,FC Barcelona B,2003-2004
-Llamas,FC Barcelona B,2003-2004
-Martos,FC Barcelona B,2003-2004
-Oleguer,FC Barcelona B,2003-2004
-Pena,FC Barcelona B,2003-2004
-Pique,FC Barcelona B,2003-2004
-Tiago Calvano,FC Barcelona B,2003-2004
-Alberto Manga,FC Barcelona B,2003-2004
-Andreu,FC Barcelona B,2003-2004
-Arnau Riera,FC Barcelona B,2003-2004
-Carroza,FC Barcelona B,2003-2004
-David Garcia,FC Barcelona B,2003-2004
-Ros,FC Barcelona B,2003-2004
-Vates,FC Barcelona B,2003-2004
-Verdu,FC Barcelona B,2003-2004
-Cristian,FC Barcelona B,2003-2004
-Felipe Sanchon,FC Barcelona B,2003-2004
-Javito,FC Barcelona B,2003-2004
-Manel Exposito,FC Barcelona B,2003-2004
-Lionel Messi,FC Barcelona B,2003-2004
-Santamaria,FC Barcelona B,2003-2004
-Sergio Garcia,FC Barcelona B,2003-2004
-Gratacos,FC Barcelona B,2003-2004
-Guillermo Hoyos,FC Barcelona B,2003-2004
-Javi Ruiz,FC Barcelona B,2004-2005
-Ruben,FC Barcelona B,2004-2005
-Urko,FC Barcelona B,2004-2005
-Dani Fernandez,FC Barcelona B,2004-2005
-Fragoso,FC Barcelona B,2004-2005
-Fran Gonzalez,FC Barcelona B,2004-2005
-Llamas,FC Barcelona B,2004-2005
-Martos,FC Barcelona B,2004-2005
-Mora,FC Barcelona B,2004-2005
-Pena,FC Barcelona B,2004-2005
-Rodri,FC Barcelona B,2004-2005
-Tiago Calvano,FC Barcelona B,2004-2005
-Andreu,FC Barcelona B,2004-2005
-Arnau Riera,FC Barcelona B,2004-2005
-Jordi Gomez,FC Barcelona B,2004-2005
-Verdu,FC Barcelona B,2004-2005
-Alfi Conteh-Lacalle,FC Barcelona B,2004-2005
-Cristian,FC Barcelona B,2004-2005
-Santiago Fernandez,FC Barcelona B,2004-2005
-Javito,FC Barcelona B,2004-2005
-Lanzarote,FC Barcelona B,2004-2005
-Lolo,FC Barcelona B,2004-2005
-Manel Exposito,FC Barcelona B,2004-2005
-Lionel Messi,FC Barcelona B,2004-2005
-Paco Montanes,FC Barcelona B,2004-2005
-Gratacos,FC Barcelona B,2004-2005
-Guillermo Hoyos,FC Barcelona B,2004-2005
-Jorquera,FC Barcelona,2005-2006
-Ruben,FC Barcelona,2005-2006
-Victor Valdes,FC Barcelona,2005-2006
-Belletti,FC Barcelona,2005-2006
-Edmilson,FC Barcelona,2005-2006
-Rafael Marquez,FC Barcelona,2005-2006
-Martos,FC Barcelona,2005-2006
-Oleguer,FC Barcelona,2005-2006
-Olmo,FC Barcelona,2005-2006
-Pena,FC Barcelona,2005-2006
-Puyol,FC Barcelona,2005-2006
-Rodri,FC Barcelona,2005-2006
-Sylvinho,FC Barcelona,2005-2006
-Giovanni van Bronckhorst,FC Barcelona,2005-2006
-Deco,FC Barcelona,2005-2006
-Gabri,FC Barcelona,2005-2006
-Iniesta,FC Barcelona,2005-2006
-Jordi Gomez,FC Barcelona,2005-2006
-Orlandi,FC Barcelona,2005-2006
-Pitu,FC Barcelona,2005-2006
-Ramon Maso,FC Barcelona,2005-2006
-Ludovic Sylvestre,FC Barcelona,2005-2006
-Thiago Motta,FC Barcelona,2005-2006
-Mark van Bommel,FC Barcelona,2005-2006
-Xavi,FC Barcelona,2005-2006
-Cristian,FC Barcelona,2005-2006
-Samuel Eto'o,FC Barcelona,2005-2006
-Ezquerro,FC Barcelona,2005-2006
-Ludovic Giuly,FC Barcelona,2005-2006
-Henrik Larsson,FC Barcelona,2005-2006
-Maxi Lopez,FC Barcelona,2005-2006
-Lionel Messi,FC Barcelona,2005-2006
-Paco Montanes,FC Barcelona,2005-2006
-Ronaldinho,FC Barcelona,2005-2006
-Frank Rijkaard,FC Barcelona,2005-2006
-Eusebio Sacristan,FC Barcelona,2005-2006
-Henk ten Cate,FC Barcelona,2005-2006
-Unzue,FC Barcelona,2005-2006
-Jorquera,FC Barcelona,2006-2007
-Ruben,FC Barcelona,2006-2007
-Victor Valdes,FC Barcelona,2006-2007
-Belletti,FC Barcelona,2006-2007
-Edmilson,FC Barcelona,2006-2007
-Marc Valiente,FC Barcelona,2006-2007
-Rafael Marquez,FC Barcelona,2006-2007
-Oleguer,FC Barcelona,2006-2007
-Olmo,FC Barcelona,2006-2007
-Puyol,FC Barcelona,2006-2007
-Sylvinho,FC Barcelona,2006-2007
-Lilian Thuram,FC Barcelona,2006-2007
-Giovanni van Bronckhorst,FC Barcelona,2006-2007
-Gianluca Zambrotta,FC Barcelona,2006-2007
-Deco,FC Barcelona,2006-2007
-Iniesta,FC Barcelona,2006-2007
-Marc Crosas,FC Barcelona,2006-2007
-Thiago Motta,FC Barcelona,2006-2007
-Victor Vazquez,FC Barcelona,2006-2007
-Xavi,FC Barcelona,2006-2007
-Giovani dos Santos,FC Barcelona,2006-2007
-Samuel Eto'o,FC Barcelona,2006-2007
-Ezquerro,FC Barcelona,2006-2007
-Ludovic Giuly,FC Barcelona,2006-2007
-Eidur Gudjohnsen,FC Barcelona,2006-2007
-Jeffren,FC Barcelona,2006-2007
-Lionel Messi,FC Barcelona,2006-2007
-Ronaldinho,FC Barcelona,2006-2007
-Javier Saviola,FC Barcelona,2006-2007
-Frank Rijkaard,FC Barcelona,2006-2007
-Eusebio Sacristan,FC Barcelona,2006-2007
-Johan Neeskens,FC Barcelona,2006-2007
-Unzue,FC Barcelona,2006-2007
-Jorquera,FC Barcelona,2007-2008
-Oier,FC Barcelona,2007-2008
-Pinto,FC Barcelona,2007-2008
-Victor Valdes,FC Barcelona,2007-2008
-Eric Abidal,FC Barcelona,2007-2008
-Edmilson,FC Barcelona,2007-2008
-Marc Valiente,FC Barcelona,2007-2008
-Rafael Marquez,FC Barcelona,2007-2008
-Gabriel Milito,FC Barcelona,2007-2008
-Oleguer,FC Barcelona,2007-2008
-Puyol,FC Barcelona,2007-2008
-Sylvinho,FC Barcelona,2007-2008
-Lilian Thuram,FC Barcelona,2007-2008
-Gianluca Zambrotta,FC Barcelona,2007-2008
-Deco,FC Barcelona,2007-2008
-Fali,FC Barcelona,2007-2008
-Iniesta,FC Barcelona,2007-2008
-Rueda,FC Barcelona,2007-2008
-Yaya Toure,FC Barcelona,2007-2008
-Victor Sanchez,FC Barcelona,2007-2008
-Victor Vazquez,FC Barcelona,2007-2008
-Xavi,FC Barcelona,2007-2008
-Bojan,FC Barcelona,2007-2008
-Giovani dos Santos,FC Barcelona,2007-2008
-Samuel Eto'o,FC Barcelona,2007-2008
-Ezquerro,FC Barcelona,2007-2008
-Eidur Gudjohnsen,FC Barcelona,2007-2008
-Thierry Henry,FC Barcelona,2007-2008
-Lionel Messi,FC Barcelona,2007-2008
-Pedro,FC Barcelona,2007-2008
-Ronaldinho,FC Barcelona,2007-2008
-Frank Rijkaard,FC Barcelona,2007-2008
-Carles Planchart,FC Barcelona,2007-2008
-Eusebio Sacristan,FC Barcelona,2007-2008
-Johan Neeskens,FC Barcelona,2007-2008
-Unzue,FC Barcelona,2007-2008
-Jorquera,FC Barcelona,2008-2009
-Oier,FC Barcelona,2008-2009
-Pinto,FC Barcelona,2008-2009
-Victor Valdes,FC Barcelona,2008-2009
-Eric Abidal,FC Barcelona,2008-2009
-Alberto Botia,FC Barcelona,2008-2009
-Martin Caceres,FC Barcelona,2008-2009
-Dani Alves,FC Barcelona,2008-2009
-Fontas,FC Barcelona,2008-2009
-Rafael Marquez,FC Barcelona,2008-2009
-Gabriel Milito,FC Barcelona,2008-2009
-Muniesa,FC Barcelona,2008-2009
-Pique,FC Barcelona,2008-2009
-Puyol,FC Barcelona,2008-2009
-Sylvinho,FC Barcelona,2008-2009
-Abraham,FC Barcelona,2008-2009
-Busquets,FC Barcelona,2008-2009
-Aliaksandr Hleb,FC Barcelona,2008-2009
-Iniesta,FC Barcelona,2008-2009
-Seydou Keita,FC Barcelona,2008-2009
-Thiago,FC Barcelona,2008-2009
-Yaya Toure,FC Barcelona,2008-2009
-Victor Sanchez,FC Barcelona,2008-2009
-Victor Vazquez,FC Barcelona,2008-2009
-Xavi,FC Barcelona,2008-2009
-Xavi Torres,FC Barcelona,2008-2009
-Bojan,FC Barcelona,2008-2009
-Samuel Eto'o,FC Barcelona,2008-2009
-Eidur Gudjohnsen,FC Barcelona,2008-2009
-Thierry Henry,FC Barcelona,2008-2009
-Jeffren,FC Barcelona,2008-2009
-Lionel Messi,FC Barcelona,2008-2009
-Nolito,FC Barcelona,2008-2009
-Pedro,FC Barcelona,2008-2009
-Pep Guardiola,FC Barcelona,2008-2009
-Carles Planchart,FC Barcelona,2008-2009
-Domenec Torrent,FC Barcelona,2008-2009
-Johan Neeskens,FC Barcelona,2008-2009
-Vilanova,FC Barcelona,2008-2009
-Unzue,FC Barcelona,2008-2009
-Lorenzo Buenaventura,FC Barcelona,2008-2009
-Pinto,FC Barcelona,2009-2010
-Ruben Mino,FC Barcelona,2009-2010
-Victor Valdes,FC Barcelona,2009-2010
-Eric Abidal,FC Barcelona,2009-2010
-Bartra,FC Barcelona,2009-2010
-Dmitro Chigrinskiy,FC Barcelona,2009-2010
-Dani Alves,FC Barcelona,2009-2010
-Fontas,FC Barcelona,2009-2010
-Rafael Marquez,FC Barcelona,2009-2010
-Maxwell,FC Barcelona,2009-2010
-Gabriel Milito,FC Barcelona,2009-2010
-Muniesa,FC Barcelona,2009-2010
-Pique,FC Barcelona,2009-2010
-Puyol,FC Barcelona,2009-2010
-Busquets,FC Barcelona,2009-2010
-Jonathan dos Santos,FC Barcelona,2009-2010
-Iniesta,FC Barcelona,2009-2010
-Seydou Keita,FC Barcelona,2009-2010
-Thiago,FC Barcelona,2009-2010
-Yaya Toure,FC Barcelona,2009-2010
-Xavi,FC Barcelona,2009-2010
-Gai Assulin,FC Barcelona,2009-2010
-Bojan,FC Barcelona,2009-2010
-Edu Oriol,FC Barcelona,2009-2010
-Thierry Henry,FC Barcelona,2009-2010
-Zlatan Ibrahimovic,FC Barcelona,2009-2010
-Jeffren,FC Barcelona,2009-2010
-Jonathan Soriano,FC Barcelona,2009-2010
-Lionel Messi,FC Barcelona,2009-2010
-Pedro,FC Barcelona,2009-2010
-Pep Guardiola,FC Barcelona,2009-2010
-Carles Planchart,FC Barcelona,2009-2010
-Domenec Torrent,FC Barcelona,2009-2010
-Vilanova,FC Barcelona,2009-2010
-Unzue,FC Barcelona,2009-2010
-Lorenzo Buenaventura,FC Barcelona,2009-2010
-Oier,FC Barcelona,2010-2011
-Pinto,FC Barcelona,2010-2011
-Ruben Mino,FC Barcelona,2010-2011
-Victor Valdes,FC Barcelona,2010-2011
-Eric Abidal,FC Barcelona,2010-2011
-Adriano,FC Barcelona,2010-2011
-Bartra,FC Barcelona,2010-2011
-Dani Alves,FC Barcelona,2010-2011
-Fontas,FC Barcelona,2010-2011
-Martin Montoya,FC Barcelona,2010-2011
-Javier Mascherano,FC Barcelona,2010-2011
-Maxwell,FC Barcelona,2010-2011
-Gabriel Milito,FC Barcelona,2010-2011
-Pique,FC Barcelona,2010-2011
-Puyol,FC Barcelona,2010-2011
-Sergi Gomez,FC Barcelona,2010-2011
-Ibrahim Afellay,FC Barcelona,2010-2011
-Busquets,FC Barcelona,2010-2011
-Jonathan dos Santos,FC Barcelona,2010-2011
-Iniesta,FC Barcelona,2010-2011
-Seydou Keita,FC Barcelona,2010-2011
-Oriol Romeu,FC Barcelona,2010-2011
-Sergi Roberto,FC Barcelona,2010-2011
-Thiago,FC Barcelona,2010-2011
-Victor Vazquez,FC Barcelona,2010-2011
-Xavi,FC Barcelona,2010-2011
-Bojan,FC Barcelona,2010-2011
-David Villa,FC Barcelona,2010-2011
-Gerard Deulofeu,FC Barcelona,2010-2011
-Jeffren,FC Barcelona,2010-2011
-Lionel Messi,FC Barcelona,2010-2011
-Nolito,FC Barcelona,2010-2011
-Pedro,FC Barcelona,2010-2011
-Pep Guardiola,FC Barcelona,2010-2011
-Carles Planchart,FC Barcelona,2010-2011
-Domenec Torrent,FC Barcelona,2010-2011
-Vilanova,FC Barcelona,2010-2011
-Lorenzo Buenaventura,FC Barcelona,2010-2011
-Oier,FC Barcelona,2011-2012
-Pinto,FC Barcelona,2011-2012
-Ruben Mino,FC Barcelona,2011-2012
-Victor Valdes,FC Barcelona,2011-2012
-Eric Abidal,FC Barcelona,2011-2012
-Adriano,FC Barcelona,2011-2012
-Bartra,FC Barcelona,2011-2012
-Dani Alves,FC Barcelona,2011-2012
-Fontas,FC Barcelona,2011-2012
-Martin Montoya,FC Barcelona,2011-2012
-Javier Mascherano,FC Barcelona,2011-2012
-Muniesa,FC Barcelona,2011-2012
-Pique,FC Barcelona,2011-2012
-Puyol,FC Barcelona,2011-2012
-Sergi Gomez,FC Barcelona,2011-2012
-Ibrahim Afellay,FC Barcelona,2011-2012
-Busquets,FC Barcelona,2011-2012
-Cesc Fabregas,FC Barcelona,2011-2012
-Jonathan dos Santos,FC Barcelona,2011-2012
-Iniesta,FC Barcelona,2011-2012
-Seydou Keita,FC Barcelona,2011-2012
-Kiko Femenia,FC Barcelona,2011-2012
-Marti Riverola,FC Barcelona,2011-2012
-Rafinha,FC Barcelona,2011-2012
-Sergi Roberto,FC Barcelona,2011-2012
-Thiago,FC Barcelona,2011-2012
-Xavi,FC Barcelona,2011-2012
-Cristian Tello,FC Barcelona,2011-2012
-David Villa,FC Barcelona,2011-2012
-Gerard Deulofeu,FC Barcelona,2011-2012
-Isaac Cuenca,FC Barcelona,2011-2012
-Lionel Messi,FC Barcelona,2011-2012
-Pedro,FC Barcelona,2011-2012
-Alexis Sanchez,FC Barcelona,2011-2012
-Pep Guardiola,FC Barcelona,2011-2012
-Carles Planchart,FC Barcelona,2011-2012
-Domenec Torrent,FC Barcelona,2011-2012
-Vilanova,FC Barcelona,2011-2012
-Unzue,FC Barcelona,2011-2012
-Lorenzo Buenaventura,FC Barcelona,2011-2012
-Jordi Masip,FC Barcelona,2012-2013
-Oier,FC Barcelona,2012-2013
-Pinto,FC Barcelona,2012-2013
-Victor Valdes,FC Barcelona,2012-2013
-Eric Abidal,FC Barcelona,2012-2013
-Adriano,FC Barcelona,2012-2013
-Bartra,FC Barcelona,2012-2013
-Carles Planas,FC Barcelona,2012-2013
-Dani Alves,FC Barcelona,2012-2013
-Jordi Alba,FC Barcelona,2012-2013
-Martin Montoya,FC Barcelona,2012-2013
-Javier Mascherano,FC Barcelona,2012-2013
-Pique,FC Barcelona,2012-2013
-Puyol,FC Barcelona,2012-2013
-Sergi Gomez,FC Barcelona,2012-2013
-Busquets,FC Barcelona,2012-2013
-Cesc Fabregas,FC Barcelona,2012-2013
-Jonathan dos Santos,FC Barcelona,2012-2013
-Iniesta,FC Barcelona,2012-2013
-Rafinha,FC Barcelona,2012-2013
-Sergi Roberto,FC Barcelona,2012-2013
-Alex Song,FC Barcelona,2012-2013
-Thiago,FC Barcelona,2012-2013
-Xavi,FC Barcelona,2012-2013
-Cristian Tello,FC Barcelona,2012-2013
-David Villa,FC Barcelona,2012-2013
-Gerard Deulofeu,FC Barcelona,2012-2013
-Lionel Messi,FC Barcelona,2012-2013
-Pedro,FC Barcelona,2012-2013
-Alexis Sanchez,FC Barcelona,2012-2013
-Vilanova,FC Barcelona,2012-2013
-Carles Planchart,FC Barcelona,2012-2013
-Roura,FC Barcelona,2012-2013
-De la Fuente,FC Barcelona,2012-2013
-Oier,FC Barcelona,2013-2014
-Pinto,FC Barcelona,2013-2014
-Victor Valdes,FC Barcelona,2013-2014
-Adriano,FC Barcelona,2013-2014
-Bartra,FC Barcelona,2013-2014
-Dani Alves,FC Barcelona,2013-2014
-Jordi Alba,FC Barcelona,2013-2014
-Martin Montoya,FC Barcelona,2013-2014
-Javier Mascherano,FC Barcelona,2013-2014
-Patric,FC Barcelona,2013-2014
-Pique,FC Barcelona,2013-2014
-Puyol,FC Barcelona,2013-2014
-Sergi Gomez,FC Barcelona,2013-2014
-Ibrahim Afellay,FC Barcelona,2013-2014
-Busquets,FC Barcelona,2013-2014
-Cesc Fabregas,FC Barcelona,2013-2014
-Jonathan dos Santos,FC Barcelona,2013-2014
-Iniesta,FC Barcelona,2013-2014
-Sergi Roberto,FC Barcelona,2013-2014
-Alex Song,FC Barcelona,2013-2014
-Xavi,FC Barcelona,2013-2014
-Cristian Tello,FC Barcelona,2013-2014
-Jean Dongou,FC Barcelona,2013-2014
-Isaac Cuenca,FC Barcelona,2013-2014
-Lionel Messi,FC Barcelona,2013-2014
-Neymar,FC Barcelona,2013-2014
-Pedro,FC Barcelona,2013-2014
-Alexis Sanchez,FC Barcelona,2013-2014
-Adama Traore,FC Barcelona,2013-2014
-Jorge Pautasso,FC Barcelona,2013-2014
-Roura,FC Barcelona,2013-2014
-Rubi,FC Barcelona,2013-2014
-De la Fuente,FC Barcelona,2013-2014
-Claudio Bravo,FC Barcelona,2014-2015
-Jordi Masip,FC Barcelona,2014-2015
-Marc-Andre ter Stegen,FC Barcelona,2014-2015
-Adriano,FC Barcelona,2014-2015
-Bartra,FC Barcelona,2014-2015
-Dani Alves,FC Barcelona,2014-2015
-Douglas,FC Barcelona,2014-2015
-Edgar Ie,FC Barcelona,2014-2015
-Jordi Alba,FC Barcelona,2014-2015
-Martin Montoya,FC Barcelona,2014-2015
-Javier Mascherano,FC Barcelona,2014-2015
-Jeremy Mathieu,FC Barcelona,2014-2015
-Pique,FC Barcelona,2014-2015
-Thomas Vermaelen,FC Barcelona,2014-2015
-Busquets,FC Barcelona,2014-2015
-Diawandou Diagne,FC Barcelona,2014-2015
-Gumbau,FC Barcelona,2014-2015
-Alen Halilovic,FC Barcelona,2014-2015
-Iniesta,FC Barcelona,2014-2015
-Rafinha,FC Barcelona,2014-2015
-Ivan Rakitic,FC Barcelona,2014-2015
-Samper,FC Barcelona,2014-2015
-Sergi Roberto,FC Barcelona,2014-2015
-Xavi,FC Barcelona,2014-2015
-Lionel Messi,FC Barcelona,2014-2015
-Munir,FC Barcelona,2014-2015
-Neymar,FC Barcelona,2014-2015
-Pedro,FC Barcelona,2014-2015
-Sandro,FC Barcelona,2014-2015
-Luis Suarez,FC Barcelona,2014-2015
-Adama Traore,FC Barcelona,2014-2015
-Luis Enrique,FC Barcelona,2014-2015
-Barbara,FC Barcelona,2014-2015
-Jesus Casas,FC Barcelona,2014-2015
-Robert Moreno,FC Barcelona,2014-2015
-Unzue,FC Barcelona,2014-2015
-De la Fuente,FC Barcelona,2014-2015
-Adrian Ortola,FC Barcelona,2015-2016
-Claudio Bravo,FC Barcelona,2015-2016
-Jordi Masip,FC Barcelona,2015-2016
-Marc-Andre ter Stegen,FC Barcelona,2015-2016
-Adriano,FC Barcelona,2015-2016
-Aleix Vidal,FC Barcelona,2015-2016
-Bartra,FC Barcelona,2015-2016
-Dani Alves,FC Barcelona,2015-2016
-Douglas,FC Barcelona,2015-2016
-Jordi Alba,FC Barcelona,2015-2016
-Javier Mascherano,FC Barcelona,2015-2016
-Jeremy Mathieu,FC Barcelona,2015-2016
-Pique,FC Barcelona,2015-2016
-Thomas Vermaelen,FC Barcelona,2015-2016
-Busquets,FC Barcelona,2015-2016
-Carles Alena,FC Barcelona,2015-2016
-Gumbau,FC Barcelona,2015-2016
-Iniesta,FC Barcelona,2015-2016
-Juan Camara,FC Barcelona,2015-2016
-Wilfrid Kaptoum,FC Barcelona,2015-2016
-Rafinha,FC Barcelona,2015-2016
-Ivan Rakitic,FC Barcelona,2015-2016
-Samper,FC Barcelona,2015-2016
-Sergi Roberto,FC Barcelona,2015-2016
-Arda Turan,FC Barcelona,2015-2016
-Dani Romera,FC Barcelona,2015-2016
-Lionel Messi,FC Barcelona,2015-2016
-Munir,FC Barcelona,2015-2016
-Neymar,FC Barcelona,2015-2016
-Sandro,FC Barcelona,2015-2016
-Luis Suarez,FC Barcelona,2015-2016
-Luis Enrique,FC Barcelona,2015-2016
-Barbara,FC Barcelona,2015-2016
-Jesus Casas,FC Barcelona,2015-2016
-Robert Moreno,FC Barcelona,2015-2016
-Unzue,FC Barcelona,2015-2016
-De la Fuente,FC Barcelona,2015-2016
-Jasper Cillessen,FC Barcelona,2016-2017
-Jordi Masip,FC Barcelona,2016-2017
-Marc-Andre ter Stegen,FC Barcelona,2016-2017
-Aleix Vidal,FC Barcelona,2016-2017
-Borja Lopez,FC Barcelona,2016-2017
-Lucas Digne,FC Barcelona,2016-2017
-Jordi Alba,FC Barcelona,2016-2017
-Marlon,FC Barcelona,2016-2017
-Javier Mascherano,FC Barcelona,2016-2017
-Jeremy Mathieu,FC Barcelona,2016-2017
-Nili,FC Barcelona,2016-2017
-Pique,FC Barcelona,2016-2017
-Samuel Umtiti,FC Barcelona,2016-2017
-Andre Gomes,FC Barcelona,2016-2017
-Busquets,FC Barcelona,2016-2017
-Carles Alena,FC Barcelona,2016-2017
-Denis Suarez,FC Barcelona,2016-2017
-Iniesta,FC Barcelona,2016-2017
-Wilfrid Kaptoum,FC Barcelona,2016-2017
-Rafinha,FC Barcelona,2016-2017
-Ivan Rakitic,FC Barcelona,2016-2017
-Sergi Roberto,FC Barcelona,2016-2017
-Arda Turan,FC Barcelona,2016-2017
-Alex Carbonell,FC Barcelona,2016-2017
-Cristian Tello,FC Barcelona,2016-2017
-Marc Cardona,FC Barcelona,2016-2017
-Lionel Messi,FC Barcelona,2016-2017
-Neymar,FC Barcelona,2016-2017
-Paco Alcacer,FC Barcelona,2016-2017
-Luis Suarez,FC Barcelona,2016-2017
-Luis Enrique,FC Barcelona,2016-2017
-Barbara,FC Barcelona,2016-2017
-Jesus Casas,FC Barcelona,2016-2017
-Robert Moreno,FC Barcelona,2016-2017
-Unzue,FC Barcelona,2016-2017
-De la Fuente,FC Barcelona,2016-2017
-Adrian Ortola,FC Barcelona,2017-2018
-Jasper Cillessen,FC Barcelona,2017-2018
-Marc-Andre ter Stegen,FC Barcelona,2017-2018
-Aleix Vidal,FC Barcelona,2017-2018
-Cucurella,FC Barcelona,2017-2018
-David Costas,FC Barcelona,2017-2018
-Lucas Digne,FC Barcelona,2017-2018
-Jordi Alba,FC Barcelona,2017-2018
-Yerry Mina,FC Barcelona,2017-2018
-Nelson Semedo,FC Barcelona,2017-2018
-Pique,FC Barcelona,2017-2018
-Samuel Umtiti,FC Barcelona,2017-2018
-Thomas Vermaelen,FC Barcelona,2017-2018
-Andre Gomes,FC Barcelona,2017-2018
-Busquets,FC Barcelona,2017-2018
-Carles Alena,FC Barcelona,2017-2018
-Coutinho,FC Barcelona,2017-2018
-Denis Suarez,FC Barcelona,2017-2018
-Iniesta,FC Barcelona,2017-2018
-Jose Arnaiz,FC Barcelona,2017-2018
-Oriol Busquets,FC Barcelona,2017-2018
-Paulinho,FC Barcelona,2017-2018
-Ivan Rakitic,FC Barcelona,2017-2018
-Samper,FC Barcelona,2017-2018
-Sergi Roberto,FC Barcelona,2017-2018
-Ousmane Dembele,FC Barcelona,2017-2018
-Lionel Messi,FC Barcelona,2017-2018
-Paco Alcacer,FC Barcelona,2017-2018
-Luis Suarez,FC Barcelona,2017-2018
-Valverde,FC Barcelona,2017-2018
-Aspiazu,FC Barcelona,2017-2018
-Barbara,FC Barcelona,2017-2018
-De la Fuente,FC Barcelona,2017-2018
-Jasper Cillessen,FC Barcelona,2018-2019
-Inaki Pena,FC Barcelona,2018-2019
-Jokin Ezkieta,FC Barcelona,2018-2019
-Marc-Andre ter Stegen,FC Barcelona,2018-2019
-Chumi,FC Barcelona,2018-2019
-Guillem Jaime,FC Barcelona,2018-2019
-Jordi Alba,FC Barcelona,2018-2019
-Jorge Cuenca,FC Barcelona,2018-2019
-Juan Miranda,FC Barcelona,2018-2019
-Clement Lenglet,FC Barcelona,2018-2019
-Jeison Murillo,FC Barcelona,2018-2019
-Nelson Semedo,FC Barcelona,2018-2019
-Pique,FC Barcelona,2018-2019
-Jean-Clair Todibo,FC Barcelona,2018-2019
-Samuel Umtiti,FC Barcelona,2018-2019
-Thomas Vermaelen,FC Barcelona,2018-2019
-Moussa Wague,FC Barcelona,2018-2019
-Arthur,FC Barcelona,2018-2019
-Kevin-Prince Boateng,FC Barcelona,2018-2019
-Busquets,FC Barcelona,2018-2019
-Carles Alena,FC Barcelona,2018-2019
-Coutinho,FC Barcelona,2018-2019
-Denis Suarez,FC Barcelona,2018-2019
-Oriol Busquets,FC Barcelona,2018-2019
-Rafinha,FC Barcelona,2018-2019
-Ivan Rakitic,FC Barcelona,2018-2019
-Riqui Puig,FC Barcelona,2018-2019
-Sergi Roberto,FC Barcelona,2018-2019
-Arturo Vidal,FC Barcelona,2018-2019
-Abel Ruiz,FC Barcelona,2018-2019
-Alex Collado,FC Barcelona,2018-2019
-Carles Perez,FC Barcelona,2018-2019
-Ousmane Dembele,FC Barcelona,2018-2019
-Malcom,FC Barcelona,2018-2019
-Lionel Messi,FC Barcelona,2018-2019
-Luis Suarez,FC Barcelona,2018-2019
-Valverde,FC Barcelona,2018-2019
-Aspiazu,FC Barcelona,2018-2019
-Barbara,FC Barcelona,2018-2019
-De la Fuente,FC Barcelona,2018-2019
-Inaki Pena,FC Barcelona,2019-2020
-Neto,FC Barcelona,2019-2020
-Marc-Andre ter Stegen,FC Barcelona,2019-2020
-Akieme,FC Barcelona,2019-2020
-Ronald Araujo,FC Barcelona,2019-2020
-Chumi,FC Barcelona,2019-2020
-Daniel Morer,FC Barcelona,2019-2020
-Junior Firpo,FC Barcelona,2019-2020
-Jordi Alba,FC Barcelona,2019-2020
-Clement Lenglet,FC Barcelona,2019-2020
-Nelson Semedo,FC Barcelona,2019-2020
-Pique,FC Barcelona,2019-2020
-Samuel Umtiti,FC Barcelona,2019-2020
-Arthur,FC Barcelona,2019-2020
-Busquets,FC Barcelona,2019-2020
-Frenkie de Jong,FC Barcelona,2019-2020
-Ivan Rakitic,FC Barcelona,2019-2020
-Riqui Puig,FC Barcelona,2019-2020
-Sergi Roberto,FC Barcelona,2019-2020
-Arda Turan,FC Barcelona,2019-2020
-Arturo Vidal,FC Barcelona,2019-2020
-Alex Collado,FC Barcelona,2019-2020
-Martin Braithwaite,FC Barcelona,2019-2020
-Ousmane Dembele,FC Barcelona,2019-2020
-Ansu Fati,FC Barcelona,2019-2020
-Antoine Griezmann,FC Barcelona,2019-2020
-Rey Manaj,FC Barcelona,2019-2020
-Lionel Messi,FC Barcelona,2019-2020
-Luis Suarez,FC Barcelona,2019-2020
-Quique Setien,FC Barcelona,2019-2020
-Eder Sarabia,FC Barcelona,2019-2020
-Jon Pascua,FC Barcelona,2019-2020
-Fran Soto,FC Barcelona,2019-2020
+player,team,season,type
+Javi Ruiz,FC Barcelona B,2003-2004,club
+Ruben,FC Barcelona B,2003-2004,club
+Dani Fernandez,FC Barcelona B,2003-2004,club
+Fran Gonzalez,FC Barcelona B,2003-2004,club
+Llamas,FC Barcelona B,2003-2004,club
+Martos,FC Barcelona B,2003-2004,club
+Oleguer,FC Barcelona B,2003-2004,club
+Pena,FC Barcelona B,2003-2004,club
+Pique,FC Barcelona B,2003-2004,club
+Tiago Calvano,FC Barcelona B,2003-2004,club
+Alberto Manga,FC Barcelona B,2003-2004,club
+Andreu,FC Barcelona B,2003-2004,club
+Arnau Riera,FC Barcelona B,2003-2004,club
+Carroza,FC Barcelona B,2003-2004,club
+David Garcia,FC Barcelona B,2003-2004,club
+Ros,FC Barcelona B,2003-2004,club
+Vates,FC Barcelona B,2003-2004,club
+Verdu,FC Barcelona B,2003-2004,club
+Cristian,FC Barcelona B,2003-2004,club
+Felipe Sanchon,FC Barcelona B,2003-2004,club
+Javito,FC Barcelona B,2003-2004,club
+Manel Exposito,FC Barcelona B,2003-2004,club
+Santamaria,FC Barcelona B,2003-2004,club
+Sergio Garcia,FC Barcelona B,2003-2004,club
+Gratacos,FC Barcelona B,2003-2004,club
+Guillermo Hoyos,FC Barcelona B,2003-2004,club
+Javi Ruiz,FC Barcelona B,2004-2005,club
+Ruben,FC Barcelona B,2004-2005,club
+Urko,FC Barcelona B,2004-2005,club
+Dani Fernandez,FC Barcelona B,2004-2005,club
+Fragoso,FC Barcelona B,2004-2005,club
+Fran Gonzalez,FC Barcelona B,2004-2005,club
+Llamas,FC Barcelona B,2004-2005,club
+Martos,FC Barcelona B,2004-2005,club
+Mora,FC Barcelona B,2004-2005,club
+Pena,FC Barcelona B,2004-2005,club
+Rodri,FC Barcelona B,2004-2005,club
+Tiago Calvano,FC Barcelona B,2004-2005,club
+Andreu,FC Barcelona B,2004-2005,club
+Arnau Riera,FC Barcelona B,2004-2005,club
+Jordi Gomez,FC Barcelona B,2004-2005,club
+Verdu,FC Barcelona B,2004-2005,club
+Alfi Conteh-Lacalle,FC Barcelona B,2004-2005,club
+Cristian,FC Barcelona B,2004-2005,club
+Santiago Fernandez,FC Barcelona B,2004-2005,club
+Javito,FC Barcelona B,2004-2005,club
+Lanzarote,FC Barcelona B,2004-2005,club
+Lolo,FC Barcelona B,2004-2005,club
+Manel Exposito,FC Barcelona B,2004-2005,club
+Paco Montanes,FC Barcelona B,2004-2005,club
+Gratacos,FC Barcelona B,2004-2005,club
+Guillermo Hoyos,FC Barcelona B,2004-2005,club
+Jorquera,FC Barcelona,2005-2006,club
+Ruben,FC Barcelona,2005-2006,club
+Victor Valdes,FC Barcelona,2005-2006,club
+Belletti,FC Barcelona,2005-2006,club
+Edmilson,FC Barcelona,2005-2006,club
+Rafael Marquez,FC Barcelona,2005-2006,club
+Martos,FC Barcelona,2005-2006,club
+Oleguer,FC Barcelona,2005-2006,club
+Olmo,FC Barcelona,2005-2006,club
+Pena,FC Barcelona,2005-2006,club
+Puyol,FC Barcelona,2005-2006,club
+Rodri,FC Barcelona,2005-2006,club
+Sylvinho,FC Barcelona,2005-2006,club
+Giovanni van Bronckhorst,FC Barcelona,2005-2006,club
+Deco,FC Barcelona,2005-2006,club
+Gabri,FC Barcelona,2005-2006,club
+Iniesta,FC Barcelona,2005-2006,club
+Jordi Gomez,FC Barcelona,2005-2006,club
+Orlandi,FC Barcelona,2005-2006,club
+Pitu,FC Barcelona,2005-2006,club
+Ramon Maso,FC Barcelona,2005-2006,club
+Ludovic Sylvestre,FC Barcelona,2005-2006,club
+Thiago Motta,FC Barcelona,2005-2006,club
+Mark van Bommel,FC Barcelona,2005-2006,club
+Xavi,FC Barcelona,2005-2006,club
+Cristian,FC Barcelona,2005-2006,club
+Samuel Eto'o,FC Barcelona,2005-2006,club
+Ezquerro,FC Barcelona,2005-2006,club
+Ludovic Giuly,FC Barcelona,2005-2006,club
+Henrik Larsson,FC Barcelona,2005-2006,club
+Maxi Lopez,FC Barcelona,2005-2006,club
+Paco Montanes,FC Barcelona,2005-2006,club
+Ronaldinho,FC Barcelona,2005-2006,club
+Frank Rijkaard,FC Barcelona,2005-2006,club
+Eusebio Sacristan,FC Barcelona,2005-2006,club
+Henk ten Cate,FC Barcelona,2005-2006,club
+Unzue,FC Barcelona,2005-2006,club
+Jorquera,FC Barcelona,2006-2007,club
+Ruben,FC Barcelona,2006-2007,club
+Victor Valdes,FC Barcelona,2006-2007,club
+Belletti,FC Barcelona,2006-2007,club
+Edmilson,FC Barcelona,2006-2007,club
+Marc Valiente,FC Barcelona,2006-2007,club
+Rafael Marquez,FC Barcelona,2006-2007,club
+Oleguer,FC Barcelona,2006-2007,club
+Olmo,FC Barcelona,2006-2007,club
+Puyol,FC Barcelona,2006-2007,club
+Sylvinho,FC Barcelona,2006-2007,club
+Lilian Thuram,FC Barcelona,2006-2007,club
+Giovanni van Bronckhorst,FC Barcelona,2006-2007,club
+Gianluca Zambrotta,FC Barcelona,2006-2007,club
+Deco,FC Barcelona,2006-2007,club
+Iniesta,FC Barcelona,2006-2007,club
+Marc Crosas,FC Barcelona,2006-2007,club
+Thiago Motta,FC Barcelona,2006-2007,club
+Victor Vazquez,FC Barcelona,2006-2007,club
+Xavi,FC Barcelona,2006-2007,club
+Giovani dos Santos,FC Barcelona,2006-2007,club
+Samuel Eto'o,FC Barcelona,2006-2007,club
+Ezquerro,FC Barcelona,2006-2007,club
+Ludovic Giuly,FC Barcelona,2006-2007,club
+Eidur Gudjohnsen,FC Barcelona,2006-2007,club
+Jeffren,FC Barcelona,2006-2007,club
+Ronaldinho,FC Barcelona,2006-2007,club
+Javier Saviola,FC Barcelona,2006-2007,club
+Frank Rijkaard,FC Barcelona,2006-2007,club
+Eusebio Sacristan,FC Barcelona,2006-2007,club
+Johan Neeskens,FC Barcelona,2006-2007,club
+Unzue,FC Barcelona,2006-2007,club
+Jorquera,FC Barcelona,2007-2008,club
+Oier,FC Barcelona,2007-2008,club
+Pinto,FC Barcelona,2007-2008,club
+Victor Valdes,FC Barcelona,2007-2008,club
+Eric Abidal,FC Barcelona,2007-2008,club
+Edmilson,FC Barcelona,2007-2008,club
+Marc Valiente,FC Barcelona,2007-2008,club
+Rafael Marquez,FC Barcelona,2007-2008,club
+Gabriel Milito,FC Barcelona,2007-2008,club
+Oleguer,FC Barcelona,2007-2008,club
+Puyol,FC Barcelona,2007-2008,club
+Sylvinho,FC Barcelona,2007-2008,club
+Lilian Thuram,FC Barcelona,2007-2008,club
+Gianluca Zambrotta,FC Barcelona,2007-2008,club
+Deco,FC Barcelona,2007-2008,club
+Fali,FC Barcelona,2007-2008,club
+Iniesta,FC Barcelona,2007-2008,club
+Rueda,FC Barcelona,2007-2008,club
+Yaya Toure,FC Barcelona,2007-2008,club
+Victor Sanchez,FC Barcelona,2007-2008,club
+Victor Vazquez,FC Barcelona,2007-2008,club
+Xavi,FC Barcelona,2007-2008,club
+Bojan,FC Barcelona,2007-2008,club
+Giovani dos Santos,FC Barcelona,2007-2008,club
+Samuel Eto'o,FC Barcelona,2007-2008,club
+Ezquerro,FC Barcelona,2007-2008,club
+Eidur Gudjohnsen,FC Barcelona,2007-2008,club
+Thierry Henry,FC Barcelona,2007-2008,club
+Pedro,FC Barcelona,2007-2008,club
+Ronaldinho,FC Barcelona,2007-2008,club
+Frank Rijkaard,FC Barcelona,2007-2008,club
+Carles Planchart,FC Barcelona,2007-2008,club
+Eusebio Sacristan,FC Barcelona,2007-2008,club
+Johan Neeskens,FC Barcelona,2007-2008,club
+Unzue,FC Barcelona,2007-2008,club
+Jorquera,FC Barcelona,2008-2009,club
+Oier,FC Barcelona,2008-2009,club
+Pinto,FC Barcelona,2008-2009,club
+Victor Valdes,FC Barcelona,2008-2009,club
+Eric Abidal,FC Barcelona,2008-2009,club
+Alberto Botia,FC Barcelona,2008-2009,club
+Martin Caceres,FC Barcelona,2008-2009,club
+Dani Alves,FC Barcelona,2008-2009,club
+Fontas,FC Barcelona,2008-2009,club
+Rafael Marquez,FC Barcelona,2008-2009,club
+Gabriel Milito,FC Barcelona,2008-2009,club
+Muniesa,FC Barcelona,2008-2009,club
+Pique,FC Barcelona,2008-2009,club
+Puyol,FC Barcelona,2008-2009,club
+Sylvinho,FC Barcelona,2008-2009,club
+Abraham,FC Barcelona,2008-2009,club
+Busquets,FC Barcelona,2008-2009,club
+Aliaksandr Hleb,FC Barcelona,2008-2009,club
+Iniesta,FC Barcelona,2008-2009,club
+Seydou Keita,FC Barcelona,2008-2009,club
+Thiago,FC Barcelona,2008-2009,club
+Yaya Toure,FC Barcelona,2008-2009,club
+Victor Sanchez,FC Barcelona,2008-2009,club
+Victor Vazquez,FC Barcelona,2008-2009,club
+Xavi,FC Barcelona,2008-2009,club
+Xavi Torres,FC Barcelona,2008-2009,club
+Bojan,FC Barcelona,2008-2009,club
+Samuel Eto'o,FC Barcelona,2008-2009,club
+Eidur Gudjohnsen,FC Barcelona,2008-2009,club
+Thierry Henry,FC Barcelona,2008-2009,club
+Jeffren,FC Barcelona,2008-2009,club
+Nolito,FC Barcelona,2008-2009,club
+Pedro,FC Barcelona,2008-2009,club
+Pep Guardiola,FC Barcelona,2008-2009,club
+Carles Planchart,FC Barcelona,2008-2009,club
+Domenec Torrent,FC Barcelona,2008-2009,club
+Johan Neeskens,FC Barcelona,2008-2009,club
+Vilanova,FC Barcelona,2008-2009,club
+Unzue,FC Barcelona,2008-2009,club
+Lorenzo Buenaventura,FC Barcelona,2008-2009,club
+Pinto,FC Barcelona,2009-2010,club
+Ruben Mino,FC Barcelona,2009-2010,club
+Victor Valdes,FC Barcelona,2009-2010,club
+Eric Abidal,FC Barcelona,2009-2010,club
+Bartra,FC Barcelona,2009-2010,club
+Dmitro Chigrinskiy,FC Barcelona,2009-2010,club
+Dani Alves,FC Barcelona,2009-2010,club
+Fontas,FC Barcelona,2009-2010,club
+Rafael Marquez,FC Barcelona,2009-2010,club
+Maxwell,FC Barcelona,2009-2010,club
+Gabriel Milito,FC Barcelona,2009-2010,club
+Muniesa,FC Barcelona,2009-2010,club
+Pique,FC Barcelona,2009-2010,club
+Puyol,FC Barcelona,2009-2010,club
+Busquets,FC Barcelona,2009-2010,club
+Jonathan dos Santos,FC Barcelona,2009-2010,club
+Iniesta,FC Barcelona,2009-2010,club
+Seydou Keita,FC Barcelona,2009-2010,club
+Thiago,FC Barcelona,2009-2010,club
+Yaya Toure,FC Barcelona,2009-2010,club
+Xavi,FC Barcelona,2009-2010,club
+Gai Assulin,FC Barcelona,2009-2010,club
+Bojan,FC Barcelona,2009-2010,club
+Edu Oriol,FC Barcelona,2009-2010,club
+Thierry Henry,FC Barcelona,2009-2010,club
+Zlatan Ibrahimovic,FC Barcelona,2009-2010,club
+Jeffren,FC Barcelona,2009-2010,club
+Jonathan Soriano,FC Barcelona,2009-2010,club
+Pedro,FC Barcelona,2009-2010,club
+Pep Guardiola,FC Barcelona,2009-2010,club
+Carles Planchart,FC Barcelona,2009-2010,club
+Domenec Torrent,FC Barcelona,2009-2010,club
+Vilanova,FC Barcelona,2009-2010,club
+Unzue,FC Barcelona,2009-2010,club
+Lorenzo Buenaventura,FC Barcelona,2009-2010,club
+Oier,FC Barcelona,2010-2011,club
+Pinto,FC Barcelona,2010-2011,club
+Ruben Mino,FC Barcelona,2010-2011,club
+Victor Valdes,FC Barcelona,2010-2011,club
+Eric Abidal,FC Barcelona,2010-2011,club
+Adriano,FC Barcelona,2010-2011,club
+Bartra,FC Barcelona,2010-2011,club
+Dani Alves,FC Barcelona,2010-2011,club
+Fontas,FC Barcelona,2010-2011,club
+Martin Montoya,FC Barcelona,2010-2011,club
+Javier Mascherano,FC Barcelona,2010-2011,club
+Maxwell,FC Barcelona,2010-2011,club
+Gabriel Milito,FC Barcelona,2010-2011,club
+Pique,FC Barcelona,2010-2011,club
+Puyol,FC Barcelona,2010-2011,club
+Sergi Gomez,FC Barcelona,2010-2011,club
+Ibrahim Afellay,FC Barcelona,2010-2011,club
+Busquets,FC Barcelona,2010-2011,club
+Jonathan dos Santos,FC Barcelona,2010-2011,club
+Iniesta,FC Barcelona,2010-2011,club
+Seydou Keita,FC Barcelona,2010-2011,club
+Oriol Romeu,FC Barcelona,2010-2011,club
+Sergi Roberto,FC Barcelona,2010-2011,club
+Thiago,FC Barcelona,2010-2011,club
+Victor Vazquez,FC Barcelona,2010-2011,club
+Xavi,FC Barcelona,2010-2011,club
+Bojan,FC Barcelona,2010-2011,club
+David Villa,FC Barcelona,2010-2011,club
+Gerard Deulofeu,FC Barcelona,2010-2011,club
+Jeffren,FC Barcelona,2010-2011,club
+Nolito,FC Barcelona,2010-2011,club
+Pedro,FC Barcelona,2010-2011,club
+Pep Guardiola,FC Barcelona,2010-2011,club
+Carles Planchart,FC Barcelona,2010-2011,club
+Domenec Torrent,FC Barcelona,2010-2011,club
+Vilanova,FC Barcelona,2010-2011,club
+Lorenzo Buenaventura,FC Barcelona,2010-2011,club
+Oier,FC Barcelona,2011-2012,club
+Pinto,FC Barcelona,2011-2012,club
+Ruben Mino,FC Barcelona,2011-2012,club
+Victor Valdes,FC Barcelona,2011-2012,club
+Eric Abidal,FC Barcelona,2011-2012,club
+Adriano,FC Barcelona,2011-2012,club
+Bartra,FC Barcelona,2011-2012,club
+Dani Alves,FC Barcelona,2011-2012,club
+Fontas,FC Barcelona,2011-2012,club
+Martin Montoya,FC Barcelona,2011-2012,club
+Javier Mascherano,FC Barcelona,2011-2012,club
+Muniesa,FC Barcelona,2011-2012,club
+Pique,FC Barcelona,2011-2012,club
+Puyol,FC Barcelona,2011-2012,club
+Sergi Gomez,FC Barcelona,2011-2012,club
+Ibrahim Afellay,FC Barcelona,2011-2012,club
+Busquets,FC Barcelona,2011-2012,club
+Cesc Fabregas,FC Barcelona,2011-2012,club
+Jonathan dos Santos,FC Barcelona,2011-2012,club
+Iniesta,FC Barcelona,2011-2012,club
+Seydou Keita,FC Barcelona,2011-2012,club
+Kiko Femenia,FC Barcelona,2011-2012,club
+Marti Riverola,FC Barcelona,2011-2012,club
+Rafinha,FC Barcelona,2011-2012,club
+Sergi Roberto,FC Barcelona,2011-2012,club
+Thiago,FC Barcelona,2011-2012,club
+Xavi,FC Barcelona,2011-2012,club
+Cristian Tello,FC Barcelona,2011-2012,club
+David Villa,FC Barcelona,2011-2012,club
+Gerard Deulofeu,FC Barcelona,2011-2012,club
+Isaac Cuenca,FC Barcelona,2011-2012,club
+Pedro,FC Barcelona,2011-2012,club
+Alexis Sanchez,FC Barcelona,2011-2012,club
+Pep Guardiola,FC Barcelona,2011-2012,club
+Carles Planchart,FC Barcelona,2011-2012,club
+Domenec Torrent,FC Barcelona,2011-2012,club
+Vilanova,FC Barcelona,2011-2012,club
+Unzue,FC Barcelona,2011-2012,club
+Lorenzo Buenaventura,FC Barcelona,2011-2012,club
+Jordi Masip,FC Barcelona,2012-2013,club
+Oier,FC Barcelona,2012-2013,club
+Pinto,FC Barcelona,2012-2013,club
+Victor Valdes,FC Barcelona,2012-2013,club
+Eric Abidal,FC Barcelona,2012-2013,club
+Adriano,FC Barcelona,2012-2013,club
+Bartra,FC Barcelona,2012-2013,club
+Carles Planas,FC Barcelona,2012-2013,club
+Dani Alves,FC Barcelona,2012-2013,club
+Jordi Alba,FC Barcelona,2012-2013,club
+Martin Montoya,FC Barcelona,2012-2013,club
+Javier Mascherano,FC Barcelona,2012-2013,club
+Pique,FC Barcelona,2012-2013,club
+Puyol,FC Barcelona,2012-2013,club
+Sergi Gomez,FC Barcelona,2012-2013,club
+Busquets,FC Barcelona,2012-2013,club
+Cesc Fabregas,FC Barcelona,2012-2013,club
+Jonathan dos Santos,FC Barcelona,2012-2013,club
+Iniesta,FC Barcelona,2012-2013,club
+Rafinha,FC Barcelona,2012-2013,club
+Sergi Roberto,FC Barcelona,2012-2013,club
+Alex Song,FC Barcelona,2012-2013,club
+Thiago,FC Barcelona,2012-2013,club
+Xavi,FC Barcelona,2012-2013,club
+Cristian Tello,FC Barcelona,2012-2013,club
+David Villa,FC Barcelona,2012-2013,club
+Gerard Deulofeu,FC Barcelona,2012-2013,club
+Pedro,FC Barcelona,2012-2013,club
+Alexis Sanchez,FC Barcelona,2012-2013,club
+Vilanova,FC Barcelona,2012-2013,club
+Carles Planchart,FC Barcelona,2012-2013,club
+Roura,FC Barcelona,2012-2013,club
+De la Fuente,FC Barcelona,2012-2013,club
+Oier,FC Barcelona,2013-2014,club
+Pinto,FC Barcelona,2013-2014,club
+Victor Valdes,FC Barcelona,2013-2014,club
+Adriano,FC Barcelona,2013-2014,club
+Bartra,FC Barcelona,2013-2014,club
+Dani Alves,FC Barcelona,2013-2014,club
+Jordi Alba,FC Barcelona,2013-2014,club
+Martin Montoya,FC Barcelona,2013-2014,club
+Javier Mascherano,FC Barcelona,2013-2014,club
+Patric,FC Barcelona,2013-2014,club
+Pique,FC Barcelona,2013-2014,club
+Puyol,FC Barcelona,2013-2014,club
+Sergi Gomez,FC Barcelona,2013-2014,club
+Ibrahim Afellay,FC Barcelona,2013-2014,club
+Busquets,FC Barcelona,2013-2014,club
+Cesc Fabregas,FC Barcelona,2013-2014,club
+Jonathan dos Santos,FC Barcelona,2013-2014,club
+Iniesta,FC Barcelona,2013-2014,club
+Sergi Roberto,FC Barcelona,2013-2014,club
+Alex Song,FC Barcelona,2013-2014,club
+Xavi,FC Barcelona,2013-2014,club
+Cristian Tello,FC Barcelona,2013-2014,club
+Jean Dongou,FC Barcelona,2013-2014,club
+Isaac Cuenca,FC Barcelona,2013-2014,club
+Neymar,FC Barcelona,2013-2014,club
+Pedro,FC Barcelona,2013-2014,club
+Alexis Sanchez,FC Barcelona,2013-2014,club
+Adama Traore,FC Barcelona,2013-2014,club
+Jorge Pautasso,FC Barcelona,2013-2014,club
+Roura,FC Barcelona,2013-2014,club
+Rubi,FC Barcelona,2013-2014,club
+De la Fuente,FC Barcelona,2013-2014,club
+Claudio Bravo,FC Barcelona,2014-2015,club
+Jordi Masip,FC Barcelona,2014-2015,club
+Marc-Andre ter Stegen,FC Barcelona,2014-2015,club
+Adriano,FC Barcelona,2014-2015,club
+Bartra,FC Barcelona,2014-2015,club
+Dani Alves,FC Barcelona,2014-2015,club
+Douglas,FC Barcelona,2014-2015,club
+Edgar Ie,FC Barcelona,2014-2015,club
+Jordi Alba,FC Barcelona,2014-2015,club
+Martin Montoya,FC Barcelona,2014-2015,club
+Javier Mascherano,FC Barcelona,2014-2015,club
+Jeremy Mathieu,FC Barcelona,2014-2015,club
+Pique,FC Barcelona,2014-2015,club
+Thomas Vermaelen,FC Barcelona,2014-2015,club
+Busquets,FC Barcelona,2014-2015,club
+Diawandou Diagne,FC Barcelona,2014-2015,club
+Gumbau,FC Barcelona,2014-2015,club
+Alen Halilovic,FC Barcelona,2014-2015,club
+Iniesta,FC Barcelona,2014-2015,club
+Rafinha,FC Barcelona,2014-2015,club
+Ivan Rakitic,FC Barcelona,2014-2015,club
+Samper,FC Barcelona,2014-2015,club
+Sergi Roberto,FC Barcelona,2014-2015,club
+Xavi,FC Barcelona,2014-2015,club
+Munir,FC Barcelona,2014-2015,club
+Neymar,FC Barcelona,2014-2015,club
+Pedro,FC Barcelona,2014-2015,club
+Sandro,FC Barcelona,2014-2015,club
+Luis Suarez,FC Barcelona,2014-2015,club
+Adama Traore,FC Barcelona,2014-2015,club
+Luis Enrique,FC Barcelona,2014-2015,club
+Barbara,FC Barcelona,2014-2015,club
+Jesus Casas,FC Barcelona,2014-2015,club
+Robert Moreno,FC Barcelona,2014-2015,club
+Unzue,FC Barcelona,2014-2015,club
+De la Fuente,FC Barcelona,2014-2015,club
+Adrian Ortola,FC Barcelona,2015-2016,club
+Claudio Bravo,FC Barcelona,2015-2016,club
+Jordi Masip,FC Barcelona,2015-2016,club
+Marc-Andre ter Stegen,FC Barcelona,2015-2016,club
+Adriano,FC Barcelona,2015-2016,club
+Aleix Vidal,FC Barcelona,2015-2016,club
+Bartra,FC Barcelona,2015-2016,club
+Dani Alves,FC Barcelona,2015-2016,club
+Douglas,FC Barcelona,2015-2016,club
+Jordi Alba,FC Barcelona,2015-2016,club
+Javier Mascherano,FC Barcelona,2015-2016,club
+Jeremy Mathieu,FC Barcelona,2015-2016,club
+Pique,FC Barcelona,2015-2016,club
+Thomas Vermaelen,FC Barcelona,2015-2016,club
+Busquets,FC Barcelona,2015-2016,club
+Carles Alena,FC Barcelona,2015-2016,club
+Gumbau,FC Barcelona,2015-2016,club
+Iniesta,FC Barcelona,2015-2016,club
+Juan Camara,FC Barcelona,2015-2016,club
+Wilfrid Kaptoum,FC Barcelona,2015-2016,club
+Rafinha,FC Barcelona,2015-2016,club
+Ivan Rakitic,FC Barcelona,2015-2016,club
+Samper,FC Barcelona,2015-2016,club
+Sergi Roberto,FC Barcelona,2015-2016,club
+Arda Turan,FC Barcelona,2015-2016,club
+Dani Romera,FC Barcelona,2015-2016,club
+Munir,FC Barcelona,2015-2016,club
+Neymar,FC Barcelona,2015-2016,club
+Sandro,FC Barcelona,2015-2016,club
+Luis Suarez,FC Barcelona,2015-2016,club
+Luis Enrique,FC Barcelona,2015-2016,club
+Barbara,FC Barcelona,2015-2016,club
+Jesus Casas,FC Barcelona,2015-2016,club
+Robert Moreno,FC Barcelona,2015-2016,club
+Unzue,FC Barcelona,2015-2016,club
+De la Fuente,FC Barcelona,2015-2016,club
+Jasper Cillessen,FC Barcelona,2016-2017,club
+Jordi Masip,FC Barcelona,2016-2017,club
+Marc-Andre ter Stegen,FC Barcelona,2016-2017,club
+Aleix Vidal,FC Barcelona,2016-2017,club
+Borja Lopez,FC Barcelona,2016-2017,club
+Lucas Digne,FC Barcelona,2016-2017,club
+Jordi Alba,FC Barcelona,2016-2017,club
+Marlon,FC Barcelona,2016-2017,club
+Javier Mascherano,FC Barcelona,2016-2017,club
+Jeremy Mathieu,FC Barcelona,2016-2017,club
+Nili,FC Barcelona,2016-2017,club
+Pique,FC Barcelona,2016-2017,club
+Samuel Umtiti,FC Barcelona,2016-2017,club
+Andre Gomes,FC Barcelona,2016-2017,club
+Busquets,FC Barcelona,2016-2017,club
+Carles Alena,FC Barcelona,2016-2017,club
+Denis Suarez,FC Barcelona,2016-2017,club
+Iniesta,FC Barcelona,2016-2017,club
+Wilfrid Kaptoum,FC Barcelona,2016-2017,club
+Rafinha,FC Barcelona,2016-2017,club
+Ivan Rakitic,FC Barcelona,2016-2017,club
+Sergi Roberto,FC Barcelona,2016-2017,club
+Arda Turan,FC Barcelona,2016-2017,club
+Alex Carbonell,FC Barcelona,2016-2017,club
+Cristian Tello,FC Barcelona,2016-2017,club
+Marc Cardona,FC Barcelona,2016-2017,club
+Neymar,FC Barcelona,2016-2017,club
+Paco Alcacer,FC Barcelona,2016-2017,club
+Luis Suarez,FC Barcelona,2016-2017,club
+Luis Enrique,FC Barcelona,2016-2017,club
+Barbara,FC Barcelona,2016-2017,club
+Jesus Casas,FC Barcelona,2016-2017,club
+Robert Moreno,FC Barcelona,2016-2017,club
+Unzue,FC Barcelona,2016-2017,club
+De la Fuente,FC Barcelona,2016-2017,club
+Adrian Ortola,FC Barcelona,2017-2018,club
+Jasper Cillessen,FC Barcelona,2017-2018,club
+Marc-Andre ter Stegen,FC Barcelona,2017-2018,club
+Aleix Vidal,FC Barcelona,2017-2018,club
+Cucurella,FC Barcelona,2017-2018,club
+David Costas,FC Barcelona,2017-2018,club
+Lucas Digne,FC Barcelona,2017-2018,club
+Jordi Alba,FC Barcelona,2017-2018,club
+Yerry Mina,FC Barcelona,2017-2018,club
+Nelson Semedo,FC Barcelona,2017-2018,club
+Pique,FC Barcelona,2017-2018,club
+Samuel Umtiti,FC Barcelona,2017-2018,club
+Thomas Vermaelen,FC Barcelona,2017-2018,club
+Andre Gomes,FC Barcelona,2017-2018,club
+Busquets,FC Barcelona,2017-2018,club
+Carles Alena,FC Barcelona,2017-2018,club
+Coutinho,FC Barcelona,2017-2018,club
+Denis Suarez,FC Barcelona,2017-2018,club
+Iniesta,FC Barcelona,2017-2018,club
+Jose Arnaiz,FC Barcelona,2017-2018,club
+Oriol Busquets,FC Barcelona,2017-2018,club
+Paulinho,FC Barcelona,2017-2018,club
+Ivan Rakitic,FC Barcelona,2017-2018,club
+Samper,FC Barcelona,2017-2018,club
+Sergi Roberto,FC Barcelona,2017-2018,club
+Ousmane Dembele,FC Barcelona,2017-2018,club
+Paco Alcacer,FC Barcelona,2017-2018,club
+Luis Suarez,FC Barcelona,2017-2018,club
+Valverde,FC Barcelona,2017-2018,club
+Aspiazu,FC Barcelona,2017-2018,club
+Barbara,FC Barcelona,2017-2018,club
+De la Fuente,FC Barcelona,2017-2018,club
+Jasper Cillessen,FC Barcelona,2018-2019,club
+Inaki Pena,FC Barcelona,2018-2019,club
+Jokin Ezkieta,FC Barcelona,2018-2019,club
+Marc-Andre ter Stegen,FC Barcelona,2018-2019,club
+Chumi,FC Barcelona,2018-2019,club
+Guillem Jaime,FC Barcelona,2018-2019,club
+Jordi Alba,FC Barcelona,2018-2019,club
+Jorge Cuenca,FC Barcelona,2018-2019,club
+Juan Miranda,FC Barcelona,2018-2019,club
+Clement Lenglet,FC Barcelona,2018-2019,club
+Jeison Murillo,FC Barcelona,2018-2019,club
+Nelson Semedo,FC Barcelona,2018-2019,club
+Pique,FC Barcelona,2018-2019,club
+Jean-Clair Todibo,FC Barcelona,2018-2019,club
+Samuel Umtiti,FC Barcelona,2018-2019,club
+Thomas Vermaelen,FC Barcelona,2018-2019,club
+Moussa Wague,FC Barcelona,2018-2019,club
+Arthur,FC Barcelona,2018-2019,club
+Kevin-Prince Boateng,FC Barcelona,2018-2019,club
+Busquets,FC Barcelona,2018-2019,club
+Carles Alena,FC Barcelona,2018-2019,club
+Coutinho,FC Barcelona,2018-2019,club
+Denis Suarez,FC Barcelona,2018-2019,club
+Oriol Busquets,FC Barcelona,2018-2019,club
+Rafinha,FC Barcelona,2018-2019,club
+Ivan Rakitic,FC Barcelona,2018-2019,club
+Riqui Puig,FC Barcelona,2018-2019,club
+Sergi Roberto,FC Barcelona,2018-2019,club
+Arturo Vidal,FC Barcelona,2018-2019,club
+Abel Ruiz,FC Barcelona,2018-2019,club
+Alex Collado,FC Barcelona,2018-2019,club
+Carles Perez,FC Barcelona,2018-2019,club
+Ousmane Dembele,FC Barcelona,2018-2019,club
+Malcom,FC Barcelona,2018-2019,club
+Luis Suarez,FC Barcelona,2018-2019,club
+Valverde,FC Barcelona,2018-2019,club
+Aspiazu,FC Barcelona,2018-2019,club
+Barbara,FC Barcelona,2018-2019,club
+De la Fuente,FC Barcelona,2018-2019,club
+Inaki Pena,FC Barcelona,2019-2020,club
+Neto,FC Barcelona,2019-2020,club
+Marc-Andre ter Stegen,FC Barcelona,2019-2020,club
+Akieme,FC Barcelona,2019-2020,club
+Ronald Araujo,FC Barcelona,2019-2020,club
+Chumi,FC Barcelona,2019-2020,club
+Daniel Morer,FC Barcelona,2019-2020,club
+Junior Firpo,FC Barcelona,2019-2020,club
+Jordi Alba,FC Barcelona,2019-2020,club
+Clement Lenglet,FC Barcelona,2019-2020,club
+Nelson Semedo,FC Barcelona,2019-2020,club
+Pique,FC Barcelona,2019-2020,club
+Samuel Umtiti,FC Barcelona,2019-2020,club
+Arthur,FC Barcelona,2019-2020,club
+Busquets,FC Barcelona,2019-2020,club
+Frenkie de Jong,FC Barcelona,2019-2020,club
+Ivan Rakitic,FC Barcelona,2019-2020,club
+Riqui Puig,FC Barcelona,2019-2020,club
+Sergi Roberto,FC Barcelona,2019-2020,club
+Arda Turan,FC Barcelona,2019-2020,club
+Arturo Vidal,FC Barcelona,2019-2020,club
+Alex Collado,FC Barcelona,2019-2020,club
+Martin Braithwaite,FC Barcelona,2019-2020,club
+Ousmane Dembele,FC Barcelona,2019-2020,club
+Ansu Fati,FC Barcelona,2019-2020,club
+Antoine Griezmann,FC Barcelona,2019-2020,club
+Rey Manaj,FC Barcelona,2019-2020,club
+Luis Suarez,FC Barcelona,2019-2020,club
+Quique Setien,FC Barcelona,2019-2020,club
+Eder Sarabia,FC Barcelona,2019-2020,club
+Jon Pascua,FC Barcelona,2019-2020,club
+Fran Soto,FC Barcelona,2019-2020,club
+Pablo Cavallero,Argentina,2003-2004,nation
+Leo Franco,Argentina,2003-2004,nation
+Roberto Ayala,Argentina,2003-2004,nation
+Fabricio Coloccini,Argentina,2003-2004,nation
+Gabriel Heinze,Argentina,2003-2004,nation
+Gabriel Milito,Argentina,2003-2004,nation
+Diego Placente,Argentina,2003-2004,nation
+Facundo Quiroga,Argentina,2003-2004,nation
+Walter Samuel,Argentina,2003-2004,nation
+Juan Sorin,Argentina,2003-2004,nation
+Javier Zanetti,Argentina,2003-2004,nation
+Sergio Batista,Argentina,2003-2004,nation
+Lucas Bernardi,Argentina,2003-2004,nation
+Esteban Cambiasso,Argentina,2003-2004,nation
+Andres D'Alessandro,Argentina,2003-2004,nation
+Luciano Galletti,Argentina,2003-2004,nation
+Kily Gonzalez,Argentina,2003-2004,nation
+Mariano Gonzalez,Argentina,2003-2004,nation
+Ariel Ibagaza,Argentina,2003-2004,nation
+Leonardo Ponzio,Argentina,2003-2004,nation
+Roman Riquelme,Argentina,2003-2004,nation
+Maxi Rodriguez,Argentina,2003-2004,nation
+Mauro Rosales,Argentina,2003-2004,nation
+Mario Santana,Argentina,2003-2004,nation
+Lionel Scaloni,Argentina,2003-2004,nation
+Santiago Solari,Argentina,2003-2004,nation
+Hernan Crespo,Argentina,2003-2004,nation
+Cesar Delgado,Argentina,2003-2004,nation
+Luciano Figueroa,Argentina,2003-2004,nation
+Diego Milito,Argentina,2003-2004,nation
+Javier Saviola,Argentina,2003-2004,nation
+Jose Pekerman,Argentina,2003-2004,nation
+Marcelo Bielsa,Argentina,2003-2004,nation
+Roberto Abbondanzieri,Argentina,2004-2005,nation
+Leo Franco,Argentina,2004-2005,nation
+German Lux,Argentina,2004-2005,nation
+Roberto Ayala,Argentina,2004-2005,nation
+Nicolas Burdisso,Argentina,2004-2005,nation
+Fabricio Coloccini,Argentina,2004-2005,nation
+Leandro Cufre,Argentina,2004-2005,nation
+Martin Demichelis,Argentina,2004-2005,nation
+Cata Diaz,Argentina,2004-2005,nation
+Fabricio Fuentes,Argentina,2004-2005,nation
+Gabriel Heinze,Argentina,2004-2005,nation
+Gabriel Milito,Argentina,2004-2005,nation
+Diego Placente,Argentina,2004-2005,nation
+Gonzalo Rodriguez,Argentina,2004-2005,nation
+Walter Samuel,Argentina,2004-2005,nation
+Juan Sorin,Argentina,2004-2005,nation
+Eduardo Tuzzio,Argentina,2004-2005,nation
+Pablo Zabaleta,Argentina,2004-2005,nation
+Javier Zanetti,Argentina,2004-2005,nation
+Pablo Aimar,Argentina,2004-2005,nation
+Sebastian Battaglia,Argentina,2004-2005,nation
+Fernando Belluschi,Argentina,2004-2005,nation
+Lucas Bernardi,Argentina,2004-2005,nation
+Daniel Bilos,Argentina,2004-2005,nation
+Esteban Cambiasso,Argentina,2004-2005,nation
+Andres D'Alessandro,Argentina,2004-2005,nation
+Aldo Duscher,Argentina,2004-2005,nation
+Luciano Galletti,Argentina,2004-2005,nation
+Lucho Gonzalez,Argentina,2004-2005,nation
+Federico Insua,Argentina,2004-2005,nation
+Javier Mascherano,Argentina,2004-2005,nation
+Leonardo Ponzio,Argentina,2004-2005,nation
+Roman Riquelme,Argentina,2004-2005,nation
+Maxi Rodriguez,Argentina,2004-2005,nation
+Martin Romagnoli,Argentina,2004-2005,nation
+Sebastian Romero,Argentina,2004-2005,nation
+Mario Santana,Argentina,2004-2005,nation
+Lionel Scaloni,Argentina,2004-2005,nation
+Santiago Solari,Argentina,2004-2005,nation
+Jose Sosa,Argentina,2004-2005,nation
+Victor Zapata,Argentina,2004-2005,nation
+Lucas Castroman,Argentina,2004-2005,nation
+Hernan Crespo,Argentina,2004-2005,nation
+Julio Cruz,Argentina,2004-2005,nation
+Lisandro Lopez,Argentina,2004-2005,nation
+Rodrigo Palacio,Argentina,2004-2005,nation
+Javier Saviola,Argentina,2004-2005,nation
+Carlos Tevez,Argentina,2004-2005,nation
+Rolando Zarate,Argentina,2004-2005,nation
+Marcelo Bielsa,Argentina,2004-2005,nation
+Jose Pekerman,Argentina,2004-2005,nation
+Roberto Abbondanzieri,Argentina,2005-2006,nation
+Leo Franco,Argentina,2005-2006,nation
+Rodolfo Arruabarrena,Argentina,2005-2006,nation
+Roberto Ayala,Argentina,2005-2006,nation
+Nicolas Burdisso,Argentina,2005-2006,nation
+Fabricio Coloccini,Argentina,2005-2006,nation
+Leandro Cufre,Argentina,2005-2006,nation
+Martin Demichelis,Argentina,2005-2006,nation
+Gabriel Heinze,Argentina,2005-2006,nation
+Gabriel Milito,Argentina,2005-2006,nation
+Clemente Rodriguez,Argentina,2005-2006,nation
+Walter Samuel,Argentina,2005-2006,nation
+Juan Sorin,Argentina,2005-2006,nation
+Pablo Zabaleta,Argentina,2005-2006,nation
+Pablo Aimar,Argentina,2005-2006,nation
+Daniel Bilos,Argentina,2005-2006,nation
+Esteban Cambiasso,Argentina,2005-2006,nation
+Lucho Gonzalez,Argentina,2005-2006,nation
+Federico Insua,Argentina,2005-2006,nation
+Javier Mascherano,Argentina,2005-2006,nation
+Leonardo Ponzio,Argentina,2005-2006,nation
+Roman Riquelme,Argentina,2005-2006,nation
+Maxi Rodriguez,Argentina,2005-2006,nation
+Lionel Scaloni,Argentina,2005-2006,nation
+Leandro Somoza,Argentina,2005-2006,nation
+Kun Aguero,Argentina,2005-2006,nation
+Hernan Crespo,Argentina,2005-2006,nation
+Diego Milito,Argentina,2005-2006,nation
+Javier Saviola,Argentina,2005-2006,nation
+Carlos Tevez,Argentina,2005-2006,nation
+Alfio Basile,Argentina,2005-2006,nation
+Jose Pekerman,Argentina,2005-2006,nation
+Roberto Abbondanzieri,Argentina,2006-2007,nation
+Juan Carrizo,Argentina,2006-2007,nation
+Leo Franco,Argentina,2006-2007,nation
+Sergio Romero,Argentina,2006-2007,nation
+Oscar Ustari,Argentina,2006-2007,nation
+Rodolfo Arruabarrena,Argentina,2006-2007,nation
+Roberto Ayala,Argentina,2006-2007,nation
+Jonathan Bottinelli,Argentina,2006-2007,nation
+Nicolas Burdisso,Argentina,2006-2007,nation
+Fabricio Coloccini,Argentina,2006-2007,nation
+Martin Demichelis,Argentina,2006-2007,nation
+Cata Diaz,Argentina,2006-2007,nation
+Paulo Ferrari,Argentina,2006-2007,nation
+Fabricio Fuentes,Argentina,2006-2007,nation
+Ezequiel Garay,Argentina,2006-2007,nation
+Gabriel Heinze,Argentina,2006-2007,nation
+Hugo Ibarra,Argentina,2006-2007,nation
+Gabriel Milito,Argentina,2006-2007,nation
+Hernan Pellerano,Argentina,2006-2007,nation
+Javier Pinola,Argentina,2006-2007,nation
+German Re,Argentina,2006-2007,nation
+Eduardo Tuzzio,Argentina,2006-2007,nation
+Javier Zanetti,Argentina,2006-2007,nation
+Pablo Aimar,Argentina,2006-2007,nation
+Fernando Belluschi,Argentina,2006-2007,nation
+Esteban Cambiasso,Argentina,2006-2007,nation
+Neri Cardozo,Argentina,2006-2007,nation
+Aldo Duscher,Argentina,2006-2007,nation
+Fernando Gago,Argentina,2006-2007,nation
+Lucho Gonzalez,Argentina,2006-2007,nation
+Jonas Gutierrez,Argentina,2006-2007,nation
+Federico Insua,Argentina,2006-2007,nation
+Cristian Ledesma,Argentina,2006-2007,nation
+Pablo Ledesma,Argentina,2006-2007,nation
+Javier Mascherano,Argentina,2006-2007,nation
+Daniel Montenegro,Argentina,2006-2007,nation
+Agustin Pelletieri,Argentina,2006-2007,nation
+Leonardo Ponzio,Argentina,2006-2007,nation
+Maxi Rodriguez,Argentina,2006-2007,nation
+Leandro Somoza,Argentina,2006-2007,nation
+Jose Sosa,Argentina,2006-2007,nation
+Juan Sebastian Veron,Argentina,2006-2007,nation
+Kun Aguero,Argentina,2006-2007,nation
+Hernan Crespo,Argentina,2006-2007,nation
+Ezequiel Lavezzi,Argentina,2006-2007,nation
+Lisandro Lopez,Argentina,2006-2007,nation
+Diego Milito,Argentina,2006-2007,nation
+Rodrigo Palacio,Argentina,2006-2007,nation
+Mariano Pavone,Argentina,2006-2007,nation
+Javier Saviola,Argentina,2006-2007,nation
+Carlos Tevez,Argentina,2006-2007,nation
+Mauro Zarate,Argentina,2006-2007,nation
+Alfio Basile,Argentina,2006-2007,nation
+Roberto Abbondanzieri,Argentina,2007-2008,nation
+Juan Carrizo,Argentina,2007-2008,nation
+Nicolas Burdisso,Argentina,2007-2008,nation
+Fabricio Coloccini,Argentina,2007-2008,nation
+Martin Demichelis,Argentina,2007-2008,nation
+Cata Diaz,Argentina,2007-2008,nation
+Gabriel Heinze,Argentina,2007-2008,nation
+Gonzalo Rodriguez,Argentina,2007-2008,nation
+Pablo Zabaleta,Argentina,2007-2008,nation
+Javier Zanetti,Argentina,2007-2008,nation
+Ever Banega,Argentina,2007-2008,nation
+Esteban Cambiasso,Argentina,2007-2008,nation
+Fernando Gago,Argentina,2007-2008,nation
+Lucho Gonzalez,Argentina,2007-2008,nation
+Mariano Gonzalez,Argentina,2007-2008,nation
+Enzo Gutierrez,Argentina,2007-2008,nation
+Jonas Gutierrez,Argentina,2007-2008,nation
+Pablo Ledesma,Argentina,2007-2008,nation
+Javier Mascherano,Argentina,2007-2008,nation
+Miroslav Mironov,Argentina,2007-2008,nation
+Emiliano Papa,Argentina,2007-2008,nation
+Maxi Rodriguez,Argentina,2007-2008,nation
+Jose Sosa,Argentina,2007-2008,nation
+Kun Aguero,Argentina,2007-2008,nation
+Fernando Cavenaghi,Argentina,2007-2008,nation
+Julio Cruz,Argentina,2007-2008,nation
+German Denis,Argentina,2007-2008,nation
+Ezequiel Lavezzi,Argentina,2007-2008,nation
+Lisandro Lopez,Argentina,2007-2008,nation
+Carlos Tevez,Argentina,2007-2008,nation
+Diego Maradona,Argentina,2007-2008,nation
+Alfio Basile,Argentina,2007-2008,nation
+Sergio Batista,Argentina,2007-2008,nation
+Jose Brown,Argentina,2007-2008,nation
+Mariano Andujar,Argentina,2008-2009,nation
+Cristian Campestrini,Argentina,2008-2009,nation
+Juan Carrizo,Argentina,2008-2009,nation
+Diego Pozo,Argentina,2008-2009,nation
+Sergio Romero,Argentina,2008-2009,nation
+Marcos Angeleri,Argentina,2008-2009,nation
+Cristian Ansaldi,Argentina,2008-2009,nation
+Nicolas Burdisso,Argentina,2008-2009,nation
+Ignacio Canuto,Argentina,2008-2009,nation
+Matias Caruzzo,Argentina,2008-2009,nation
+Fabricio Coloccini,Argentina,2008-2009,nation
+Martin Demichelis,Argentina,2008-2009,nation
+Cata Diaz,Argentina,2008-2009,nation
+Alexis Ferrero,Argentina,2008-2009,nation
+Gabriel Heinze,Argentina,2008-2009,nation
+Juan Insaurralde,Argentina,2008-2009,nation
+Luciano Monzon,Argentina,2008-2009,nation
+Nicolas Otamendi,Argentina,2008-2009,nation
+Walter Samuel,Argentina,2008-2009,nation
+Rolando Schiavi,Argentina,2008-2009,nation
+Javier Zanetti,Argentina,2008-2009,nation
+Sebastian Battaglia,Argentina,2008-2009,nation
+Hernan Bernardello,Argentina,2008-2009,nation
+Sebastian Blanco,Argentina,2008-2009,nation
+Mario Bolatti,Argentina,2008-2009,nation
+Rodrigo Brana,Argentina,2008-2009,nation
+Esteban Cambiasso,Argentina,2008-2009,nation
+Jesus Datolo,Argentina,2008-2009,nation
+Angel Di Maria,Argentina,2008-2009,nation
+Fernando Gago,Argentina,2008-2009,nation
+Nicolas Gaitan,Argentina,2008-2009,nation
+Lucho Gonzalez,Argentina,2008-2009,nation
+Jonas Gutierrez,Argentina,2008-2009,nation
+Federico Insua,Argentina,2008-2009,nation
+Cristian Ledesma,Argentina,2008-2009,nation
+Javier Mascherano,Argentina,2008-2009,nation
+Jesus Mendez,Argentina,2008-2009,nation
+Daniel Montenegro,Argentina,2008-2009,nation
+Emiliano Papa,Argentina,2008-2009,nation
+Enzo Perez,Argentina,2008-2009,nation
+Diego Perotti,Argentina,2008-2009,nation
+Sebastian Prediger,Argentina,2008-2009,nation
+Fabian Rinaudo,Argentina,2008-2009,nation
+Maxi Rodriguez,Argentina,2008-2009,nation
+Leonel Vangioni,Argentina,2008-2009,nation
+Franco Zuculini,Argentina,2008-2009,nation
+Kun Aguero,Argentina,2008-2009,nation
+Gonzalo Bergessio,Argentina,2008-2009,nation
+Mauro Boselli,Argentina,2008-2009,nation
+Matias Defederico,Argentina,2008-2009,nation
+German Denis,Argentina,2008-2009,nation
+Esteban Fuertes,Argentina,2008-2009,nation
+Gabriel Hauche,Argentina,2008-2009,nation
+Gonzalo Higuain,Argentina,2008-2009,nation
+Ezequiel Lavezzi,Argentina,2008-2009,nation
+Lisandro Lopez,Argentina,2008-2009,nation
+Diego Milito,Argentina,2008-2009,nation
+Martin Palermo,Argentina,2008-2009,nation
+Luis Rodriguez,Argentina,2008-2009,nation
+Eduardo Salvio,Argentina,2008-2009,nation
+Jose Sand,Argentina,2008-2009,nation
+Carlos Tevez,Argentina,2008-2009,nation
+Diego Maradona,Argentina,2008-2009,nation
+Mariano Andujar,Argentina,2009-2010,nation
+Cristian Campestrini,Argentina,2009-2010,nation
+Adrian Gabbarini,Argentina,2009-2010,nation
+Nelson Ibanez,Argentina,2009-2010,nation
+Agustin Marchesin,Argentina,2009-2010,nation
+Diego Pozo,Argentina,2009-2010,nation
+Sergio Romero,Argentina,2009-2010,nation
+Guillermo Burdisso,Argentina,2009-2010,nation
+Nicolas Burdisso,Argentina,2009-2010,nation
+Ignacio Canuto,Argentina,2009-2010,nation
+Matias Caruzzo,Argentina,2009-2010,nation
+Fabricio Coloccini,Argentina,2009-2010,nation
+Martin Demichelis,Argentina,2009-2010,nation
+Mariano Echeverria,Argentina,2009-2010,nation
+Leonel Galeano,Argentina,2009-2010,nation
+Ariel Garce,Argentina,2009-2010,nation
+Paolo Goltz,Argentina,2009-2010,nation
+Gabriel Heinze,Argentina,2009-2010,nation
+Juan Insaurralde,Argentina,2009-2010,nation
+Emiliano Insua,Argentina,2009-2010,nation
+Carlos Matheu,Argentina,2009-2010,nation
+Gabriel Mercado,Argentina,2009-2010,nation
+Gabriel Milito,Argentina,2009-2010,nation
+Luciano Monzon,Argentina,2009-2010,nation
+Nicolas Otamendi,Argentina,2009-2010,nation
+Nicolas Pareja,Argentina,2009-2010,nation
+Clemente Rodriguez,Argentina,2009-2010,nation
+Walter Samuel,Argentina,2009-2010,nation
+Cristian Villagra,Argentina,2009-2010,nation
+Pablo Zabaleta,Argentina,2009-2010,nation
+Javier Zanetti,Argentina,2009-2010,nation
+Walter Acevedo,Argentina,2009-2010,nation
+Ever Banega,Argentina,2009-2010,nation
+Facundo Bertoglio,Argentina,2009-2010,nation
+Lucas Biglia,Argentina,2009-2010,nation
+Sebastian Blanco,Argentina,2009-2010,nation
+Mario Bolatti,Argentina,2009-2010,nation
+Esteban Cambiasso,Argentina,2009-2010,nation
+Andres D'Alessandro,Argentina,2009-2010,nation
+Jesus Datolo,Argentina,2009-2010,nation
+Angel Di Maria,Argentina,2009-2010,nation
+Walter Erviti,Argentina,2009-2010,nation
+Jose Fernandez,Argentina,2009-2010,nation
+Fernando Gago,Argentina,2009-2010,nation
+Nicolas Gaitan,Argentina,2009-2010,nation
+Jonas Gutierrez,Argentina,2009-2010,nation
+Federico Insua,Argentina,2009-2010,nation
+Franco Jara,Argentina,2009-2010,nation
+Javier Mascherano,Argentina,2009-2010,nation
+Jesus Mendez,Argentina,2009-2010,nation
+Juan Mercier,Argentina,2009-2010,nation
+Nicolas Olmedo,Argentina,2009-2010,nation
+Javier Pastore,Argentina,2009-2010,nation
+Enzo Perez,Argentina,2009-2010,nation
+Franco Razzotti,Argentina,2009-2010,nation
+Maxi Rodriguez,Argentina,2009-2010,nation
+Jose Sosa,Argentina,2009-2010,nation
+Patricio Toranzo,Argentina,2009-2010,nation
+Juan Sebastian Veron,Argentina,2009-2010,nation
+Kun Aguero,Argentina,2009-2010,nation
+Mauro Boselli,Argentina,2009-2010,nation
+Gabriel Hauche,Argentina,2009-2010,nation
+Gonzalo Higuain,Argentina,2009-2010,nation
+Ezequiel Lavezzi,Argentina,2009-2010,nation
+Diego Milito,Argentina,2009-2010,nation
+Ariel Ortega,Argentina,2009-2010,nation
+Martin Palermo,Argentina,2009-2010,nation
+Juan Pereyra,Argentina,2009-2010,nation
+Carlos Tevez,Argentina,2009-2010,nation
+Sergio Batista,Argentina,2009-2010,nation
+Diego Maradona,Argentina,2009-2010,nation
+Esteban Andrada,Argentina,2010-2011,nation
+Mariano Andujar,Argentina,2010-2011,nation
+Marcelo Barovero,Argentina,2010-2011,nation
+Juan Carrizo,Argentina,2010-2011,nation
+Adrian Gabbarini,Argentina,2010-2011,nation
+Javier Garcia,Argentina,2010-2011,nation
+Agustin Marchesin,Argentina,2010-2011,nation
+Diego Morales,Argentina,2010-2011,nation
+Agustin Orion,Argentina,2010-2011,nation
+Sergio Romero,Argentina,2010-2011,nation
+Marcos Angeleri,Argentina,2010-2011,nation
+Cristian Ansaldi,Argentina,2010-2011,nation
+Jonathan Bottinelli,Argentina,2010-2011,nation
+Nicolas Burdisso,Argentina,2010-2011,nation
+Christian Cellay,Argentina,2010-2011,nation
+Martin Demichelis,Argentina,2010-2011,nation
+Leandro Desabato,Argentina,2010-2011,nation
+Gaston Diaz,Argentina,2010-2011,nation
+Sebastian Dominguez,Argentina,2010-2011,nation
+Federico Fazio,Argentina,2010-2011,nation
+Federico Fernandez,Argentina,2010-2011,nation
+Ezequiel Garay,Argentina,2010-2011,nation
+Emiliano Insua,Argentina,2010-2011,nation
+Lisandro Lopez,Argentina,2010-2011,nation
+Jonatan Maidana,Argentina,2010-2011,nation
+Gabriel Milito,Argentina,2010-2011,nation
+Luciano Monzon,Argentina,2010-2011,nation
+Mateo Musacchio,Argentina,2010-2011,nation
+Nicolas Otamendi,Argentina,2010-2011,nation
+Nicolas Pareja,Argentina,2010-2011,nation
+Ivan Pillud,Argentina,2010-2011,nation
+Ismael Quilez,Argentina,2010-2011,nation
+German Re,Argentina,2010-2011,nation
+Clemente Rodriguez,Argentina,2010-2011,nation
+Marcos Rojo,Argentina,2010-2011,nation
+Julian Velazquez,Argentina,2010-2011,nation
+Pablo Zabaleta,Argentina,2010-2011,nation
+Javier Zanetti,Argentina,2010-2011,nation
+Ricardo Alvarez,Argentina,2010-2011,nation
+Luciano Aued,Argentina,2010-2011,nation
+Ever Banega,Argentina,2010-2011,nation
+Fernando Belluschi,Argentina,2010-2011,nation
+Nicolas Bertolo,Argentina,2010-2011,nation
+Lucas Biglia,Argentina,2010-2011,nation
+Mario Bolatti,Argentina,2010-2011,nation
+Ariel Cabral,Argentina,2010-2011,nation
+Esteban Cambiasso,Argentina,2010-2011,nation
+Hector Canteros,Argentina,2010-2011,nation
+Lucas Castro,Argentina,2010-2011,nation
+Cristian Chavez,Argentina,2010-2011,nation
+Tino Costa,Argentina,2010-2011,nation
+Angel Di Maria,Argentina,2010-2011,nation
+Augusto Fernandez,Argentina,2010-2011,nation
+Mauro Formica,Argentina,2010-2011,nation
+Fernando Gago,Argentina,2010-2011,nation
+Nicolas Gaitan,Argentina,2010-2011,nation
+Lucho Gonzalez,Argentina,2010-2011,nation
+Pablo Guinazu,Argentina,2010-2011,nation
+Jonas Gutierrez,Argentina,2010-2011,nation
+Franco Jara,Argentina,2010-2011,nation
+Erik Lamela,Argentina,2010-2011,nation
+Javier Mascherano,Argentina,2010-2011,nation
+Walter Montillo,Argentina,2010-2011,nation
+Maximiliano Moralez,Argentina,2010-2011,nation
+Emiliano Papa,Argentina,2010-2011,nation
+Javier Pastore,Argentina,2010-2011,nation
+Agustin Pelletieri,Argentina,2010-2011,nation
+Enzo Perez,Argentina,2010-2011,nation
+Diego Perotti,Argentina,2010-2011,nation
+Fabian Rinaudo,Argentina,2010-2011,nation
+Ariel Rojas,Argentina,2010-2011,nation
+Jose Sosa,Argentina,2010-2011,nation
+Mauricio Sperduti,Argentina,2010-2011,nation
+Diego Valeri,Argentina,2010-2011,nation
+Diego Villar,Argentina,2010-2011,nation
+Claudio Yacob,Argentina,2010-2011,nation
+Victor Zapata,Argentina,2010-2011,nation
+Kun Aguero,Argentina,2010-2011,nation
+Mauro Boselli,Argentina,2010-2011,nation
+Jonathan Cristaldo,Argentina,2010-2011,nation
+Matias Defederico,Argentina,2010-2011,nation
+Emmanuel Gigliotti,Argentina,2010-2011,nation
+Gabriel Hauche,Argentina,2010-2011,nation
+Gonzalo Higuain,Argentina,2010-2011,nation
+Ezequiel Lavezzi,Argentina,2010-2011,nation
+Juan Martinez,Argentina,2010-2011,nation
+Pablo Mouche,Argentina,2010-2011,nation
+Pablo Piatti,Argentina,2010-2011,nation
+Marco Ruben,Argentina,2010-2011,nation
+Eduardo Salvio,Argentina,2010-2011,nation
+Carlos Tevez,Argentina,2010-2011,nation
+Lucas Viatri,Argentina,2010-2011,nation
+Alejandro Sabella,Argentina,2010-2011,nation
+Sergio Batista,Argentina,2010-2011,nation
+Mariano Andujar,Argentina,2011-2012,nation
+Agustin Orion,Argentina,2011-2012,nation
+Sergio Romero,Argentina,2011-2012,nation
+Oscar Ustari,Argentina,2011-2012,nation
+Hugo Campagnaro,Argentina,2011-2012,nation
+Fabricio Coloccini,Argentina,2011-2012,nation
+Leandro Desabato,Argentina,2011-2012,nation
+Cata Diaz,Argentina,2011-2012,nation
+Daniel Diaz,Argentina,2011-2012,nation
+Sebastian Dominguez,Argentina,2011-2012,nation
+Federico Fernandez,Argentina,2011-2012,nation
+Ezequiel Garay,Argentina,2011-2012,nation
+Lisandro Lopez,Argentina,2011-2012,nation
+Luciano Monzon,Argentina,2011-2012,nation
+Gino Peruzzi,Argentina,2011-2012,nation
+Marcos Rojo,Argentina,2011-2012,nation
+Santiago Vergini,Argentina,2011-2012,nation
+Pablo Zabaleta,Argentina,2011-2012,nation
+Oscar Ahumada,Argentina,2011-2012,nation
+Rodrigo Brana,Argentina,2011-2012,nation
+Francisco Cerro,Argentina,2011-2012,nation
+Tino Costa,Argentina,2011-2012,nation
+Angel Di Maria,Argentina,2011-2012,nation
+Augusto Fernandez,Argentina,2011-2012,nation
+Fernando Gago,Argentina,2011-2012,nation
+Pablo Guinazu,Argentina,2011-2012,nation
+Erik Lamela,Argentina,2011-2012,nation
+Javier Mascherano,Argentina,2011-2012,nation
+Walter Montillo,Argentina,2011-2012,nation
+Enzo Perez,Argentina,2011-2012,nation
+Clemente Rodriguez,Argentina,2011-2012,nation
+Maxi Rodriguez,Argentina,2011-2012,nation
+Eduardo Salvio,Argentina,2011-2012,nation
+Ignacio Scocco,Argentina,2011-2012,nation
+Leandro Somoza,Argentina,2011-2012,nation
+Jose Sosa,Argentina,2011-2012,nation
+Leonel Vangioni,Argentina,2011-2012,nation
+Kun Aguero,Argentina,2011-2012,nation
+Hernan Barcos,Argentina,2011-2012,nation
+Franco Di Santo,Argentina,2011-2012,nation
+Rogelio Funes Mori,Argentina,2011-2012,nation
+Gonzalo Higuain,Argentina,2011-2012,nation
+Ezequiel Lavezzi,Argentina,2011-2012,nation
+Juan Martinez,Argentina,2011-2012,nation
+Rodrigo Palacio,Argentina,2011-2012,nation
+Alejandro Sabella,Argentina,2011-2012,nation
+Cristian Alvarez,Argentina,2012-2013,nation
+Mariano Andujar,Argentina,2012-2013,nation
+Agustin Orion,Argentina,2012-2013,nation
+Sergio Romero,Argentina,2012-2013,nation
+Oscar Ustari,Argentina,2012-2013,nation
+Cristian Ansaldi,Argentina,2012-2013,nation
+Jose Basanta,Argentina,2012-2013,nation
+Hugo Campagnaro,Argentina,2012-2013,nation
+Fabricio Coloccini,Argentina,2012-2013,nation
+Federico Fernandez,Argentina,2012-2013,nation
+Ezequiel Garay,Argentina,2012-2013,nation
+Lucas Orban,Argentina,2012-2013,nation
+Nicolas Otamendi,Argentina,2012-2013,nation
+Gino Peruzzi,Argentina,2012-2013,nation
+Clemente Rodriguez,Argentina,2012-2013,nation
+Marcos Rojo,Argentina,2012-2013,nation
+Facundo Roncaglia,Argentina,2012-2013,nation
+Pablo Zabaleta,Argentina,2012-2013,nation
+Ricardo Alvarez,Argentina,2012-2013,nation
+Ever Banega,Argentina,2012-2013,nation
+Lucas Biglia,Argentina,2012-2013,nation
+Rodrigo Brana,Argentina,2012-2013,nation
+Francisco Cerro,Argentina,2012-2013,nation
+Angel Di Maria,Argentina,2012-2013,nation
+Augusto Fernandez,Argentina,2012-2013,nation
+Fernando Gago,Argentina,2012-2013,nation
+Nicolas Gaitan,Argentina,2012-2013,nation
+Pablo Guinazu,Argentina,2012-2013,nation
+Erik Lamela,Argentina,2012-2013,nation
+Javier Mascherano,Argentina,2012-2013,nation
+Walter Montillo,Argentina,2012-2013,nation
+Enzo Perez,Argentina,2012-2013,nation
+Fabian Rinaudo,Argentina,2012-2013,nation
+Maxi Rodriguez,Argentina,2012-2013,nation
+Kun Aguero,Argentina,2012-2013,nation
+Franco Di Santo,Argentina,2012-2013,nation
+Gonzalo Higuain,Argentina,2012-2013,nation
+Ezequiel Lavezzi,Argentina,2012-2013,nation
+Rodrigo Palacio,Argentina,2012-2013,nation
+Alejandro Sabella,Argentina,2012-2013,nation
+Mariano Andujar,Argentina,2013-2014,nation
+Willy Caballero,Argentina,2013-2014,nation
+Nahuel Guzman,Argentina,2013-2014,nation
+Agustin Marchesin,Argentina,2013-2014,nation
+Agustin Orion,Argentina,2013-2014,nation
+Sergio Romero,Argentina,2013-2014,nation
+Cristian Ansaldi,Argentina,2013-2014,nation
+Jose Basanta,Argentina,2013-2014,nation
+Hugo Campagnaro,Argentina,2013-2014,nation
+Martin Demichelis,Argentina,2013-2014,nation
+Federico Fazio,Argentina,2013-2014,nation
+Federico Fernandez,Argentina,2013-2014,nation
+Ezequiel Garay,Argentina,2013-2014,nation
+Lisandro Lopez,Argentina,2013-2014,nation
+Emanuel Mammana,Argentina,2013-2014,nation
+Nicolas Otamendi,Argentina,2013-2014,nation
+Gino Peruzzi,Argentina,2013-2014,nation
+Marcos Rojo,Argentina,2013-2014,nation
+Facundo Roncaglia,Argentina,2013-2014,nation
+Jonathan Silva,Argentina,2013-2014,nation
+Santiago Vergini,Argentina,2013-2014,nation
+Pablo Zabaleta,Argentina,2013-2014,nation
+Ricardo Alvarez,Argentina,2013-2014,nation
+Ever Banega,Argentina,2013-2014,nation
+Lucas Biglia,Argentina,2013-2014,nation
+Angel Di Maria,Argentina,2013-2014,nation
+Augusto Fernandez,Argentina,2013-2014,nation
+Fernando Gago,Argentina,2013-2014,nation
+Nicolas Gaitan,Argentina,2013-2014,nation
+Erik Lamela,Argentina,2013-2014,nation
+Javier Mascherano,Argentina,2013-2014,nation
+Javier Pastore,Argentina,2013-2014,nation
+Roberto Pereyra,Argentina,2013-2014,nation
+Enzo Perez,Argentina,2013-2014,nation
+Maxi Rodriguez,Argentina,2013-2014,nation
+Jose Sosa,Argentina,2013-2014,nation
+Leonel Vangioni,Argentina,2013-2014,nation
+Kun Aguero,Argentina,2013-2014,nation
+Gonzalo Higuain,Argentina,2013-2014,nation
+Ezequiel Lavezzi,Argentina,2013-2014,nation
+Rodrigo Palacio,Argentina,2013-2014,nation
+Carlos Tevez,Argentina,2013-2014,nation
+Gerardo Martino,Argentina,2013-2014,nation
+Alejandro Sabella,Argentina,2013-2014,nation
+Mariano Andujar,Argentina,2014-2015,nation
+Nahuel Guzman,Argentina,2014-2015,nation
+Agustin Marchesin,Argentina,2014-2015,nation
+Sergio Romero,Argentina,2014-2015,nation
+Geronimo Rulli,Argentina,2014-2015,nation
+Martin Demichelis,Argentina,2014-2015,nation
+Ramiro Funes Mori,Argentina,2014-2015,nation
+Ezequiel Garay,Argentina,2014-2015,nation
+Mateo Musacchio,Argentina,2014-2015,nation
+Lucas Orban,Argentina,2014-2015,nation
+Nicolas Otamendi,Argentina,2014-2015,nation
+Gonzalo Rodriguez,Argentina,2014-2015,nation
+Marcos Rojo,Argentina,2014-2015,nation
+Facundo Roncaglia,Argentina,2014-2015,nation
+Pablo Zabaleta,Argentina,2014-2015,nation
+Ever Banega,Argentina,2014-2015,nation
+Lucas Biglia,Argentina,2014-2015,nation
+Milton Casco,Argentina,2014-2015,nation
+Angel Di Maria,Argentina,2014-2015,nation
+Fernando Gago,Argentina,2014-2015,nation
+Nicolas Gaitan,Argentina,2014-2015,nation
+Matias Kranevitter,Argentina,2014-2015,nation
+Erik Lamela,Argentina,2014-2015,nation
+Federico Mancuello,Argentina,2014-2015,nation
+Emanuel Mas,Argentina,2014-2015,nation
+Javier Mascherano,Argentina,2014-2015,nation
+Javier Pastore,Argentina,2014-2015,nation
+Roberto Pereyra,Argentina,2014-2015,nation
+Enzo Perez,Argentina,2014-2015,nation
+Maxi Rodriguez,Argentina,2014-2015,nation
+Kun Aguero,Argentina,2014-2015,nation
+Angel Correa,Argentina,2014-2015,nation
+Gonzalo Higuain,Argentina,2014-2015,nation
+Ezequiel Lavezzi,Argentina,2014-2015,nation
+Carlos Tevez,Argentina,2014-2015,nation
+Gerardo Martino,Argentina,2014-2015,nation
+Nahuel Guzman,Argentina,2015-2016,nation
+Sergio Romero,Argentina,2015-2016,nation
+Victor Cuesta,Argentina,2015-2016,nation
+Ramiro Funes Mori,Argentina,2015-2016,nation
+Jonatan Maidana,Argentina,2015-2016,nation
+Javier Mascherano,Argentina,2015-2016,nation
+Gabriel Mercado,Argentina,2015-2016,nation
+Nicolas Otamendi,Argentina,2015-2016,nation
+Marcos Rojo,Argentina,2015-2016,nation
+Facundo Roncaglia,Argentina,2015-2016,nation
+Ever Banega,Argentina,2015-2016,nation
+Lucas Biglia,Argentina,2015-2016,nation
+Angel Di Maria,Argentina,2015-2016,nation
+Nicolas Gaitan,Argentina,2015-2016,nation
+Erik Lamela,Argentina,2015-2016,nation
+Javier Pastore,Argentina,2015-2016,nation
+Kun Aguero,Argentina,2015-2016,nation
+Gonzalo Higuain,Argentina,2015-2016,nation
+Ezequiel Lavezzi,Argentina,2015-2016,nation
+Edgardo Bauza,Argentina,2015-2016,nation
+Gerardo Martino,Argentina,2015-2016,nation
+Nahuel Guzman,Argentina,2016-2017,nation
+Agustin Marchesin,Argentina,2016-2017,nation
+Sergio Romero,Argentina,2016-2017,nation
+Geronimo Rulli,Argentina,2016-2017,nation
+Cristian Ansaldi,Argentina,2016-2017,nation
+Federico Fazio,Argentina,2016-2017,nation
+Jose Luis Gomez,Argentina,2016-2017,nation
+Emiliano Insua,Argentina,2016-2017,nation
+Jonatan Maidana,Argentina,2016-2017,nation
+Emanuel Mammana,Argentina,2016-2017,nation
+Javier Mascherano,Argentina,2016-2017,nation
+Gabriel Mercado,Argentina,2016-2017,nation
+Nicolas Otamendi,Argentina,2016-2017,nation
+German Pezzella,Argentina,2016-2017,nation
+Nicolas Tagliafico,Argentina,2016-2017,nation
+Marcos Acuna,Argentina,2016-2017,nation
+Ever Banega,Argentina,2016-2017,nation
+Fernando Belluschi,Argentina,2016-2017,nation
+Lucas Biglia,Argentina,2016-2017,nation
+Joaquin Correa,Argentina,2016-2017,nation
+Angel Di Maria,Argentina,2016-2017,nation
+Ignacio Fernandez,Argentina,2016-2017,nation
+Papu Gomez,Argentina,2016-2017,nation
+Matias Kranevitter,Argentina,2016-2017,nation
+Manuel Lanzini,Argentina,2016-2017,nation
+Giovani Lo Celso,Argentina,2016-2017,nation
+Leandro Paredes,Argentina,2016-2017,nation
+Enzo Perez,Argentina,2016-2017,nation
+Diego Perotti,Argentina,2016-2017,nation
+Emiliano Rigoni,Argentina,2016-2017,nation
+Guido Rodriguez,Argentina,2016-2017,nation
+Eduardo Salvio,Argentina,2016-2017,nation
+Kun Aguero,Argentina,2016-2017,nation
+Lucas Alario,Argentina,2016-2017,nation
+Dario Benedetto,Argentina,2016-2017,nation
+Paulo Dybala,Argentina,2016-2017,nation
+Gonzalo Higuain,Argentina,2016-2017,nation
+Mauro Icardi,Argentina,2016-2017,nation
+Cristian Pavon,Argentina,2016-2017,nation
+Jorge Sampaoli,Argentina,2016-2017,nation
+Franco Armani,Argentina,2017-2018,nation
+Willy Caballero,Argentina,2017-2018,nation
+Paulo Gazzaniga,Argentina,2017-2018,nation
+Nahuel Guzman,Argentina,2017-2018,nation
+Guido Herrera,Argentina,2017-2018,nation
+Agustin Marchesin,Argentina,2017-2018,nation
+Sergio Romero,Argentina,2017-2018,nation
+Geronimo Rulli,Argentina,2017-2018,nation
+Cristian Ansaldi,Argentina,2017-2018,nation
+Leonel Di Placido,Argentina,2017-2018,nation
+Federico Fazio,Argentina,2017-2018,nation
+Juan Foyth,Argentina,2017-2018,nation
+Alan Franco,Argentina,2017-2018,nation
+Ramiro Funes Mori,Argentina,2017-2018,nation
+Walter Kannemann,Argentina,2017-2018,nation
+Emanuel Mammana,Argentina,2017-2018,nation
+Javier Mascherano,Argentina,2017-2018,nation
+Gabriel Mercado,Argentina,2017-2018,nation
+Nicolas Otamendi,Argentina,2017-2018,nation
+German Pezzella,Argentina,2017-2018,nation
+Marcos Rojo,Argentina,2017-2018,nation
+Renzo Saravia,Argentina,2017-2018,nation
+Nicolas Tagliafico,Argentina,2017-2018,nation
+Marcos Acuna,Argentina,2017-2018,nation
+Santiago Ascacibar,Argentina,2017-2018,nation
+Ever Banega,Argentina,2017-2018,nation
+Rodrigo Battaglia,Argentina,2017-2018,nation
+Lucas Biglia,Argentina,2017-2018,nation
+Fabricio Bustos,Argentina,2017-2018,nation
+Franco Cervi,Argentina,2017-2018,nation
+Rodrigo de Paul,Argentina,2017-2018,nation
+Angel Di Maria,Argentina,2017-2018,nation
+Gaston Gimenez,Argentina,2017-2018,nation
+Erik Lamela,Argentina,2017-2018,nation
+Manuel Lanzini,Argentina,2017-2018,nation
+Giovani Lo Celso,Argentina,2017-2018,nation
+Gonzalo Martinez,Argentina,2017-2018,nation
+Maximiliano Meza,Argentina,2017-2018,nation
+Exequiel Palacios,Argentina,2017-2018,nation
+Leandro Paredes,Argentina,2017-2018,nation
+Roberto Pereyra,Argentina,2017-2018,nation
+Pablo Perez,Argentina,2017-2018,nation
+Diego Perotti,Argentina,2017-2018,nation
+Eduardo Salvio,Argentina,2017-2018,nation
+Matias Vargas,Argentina,2017-2018,nation
+Franco Vazquez,Argentina,2017-2018,nation
+Kun Aguero,Argentina,2017-2018,nation
+Angel Correa,Argentina,2017-2018,nation
+Paulo Dybala,Argentina,2017-2018,nation
+Gonzalo Higuain,Argentina,2017-2018,nation
+Mauro Icardi,Argentina,2017-2018,nation
+Lautaro Martinez,Argentina,2017-2018,nation
+Cristian Pavon,Argentina,2017-2018,nation
+Giovanni Simeone,Argentina,2017-2018,nation
+Pablo Aimar,Argentina,2017-2018,nation
+Lionel Scaloni,Argentina,2017-2018,nation
+Jorge Sampaoli,Argentina,2017-2018,nation
+Esteban Andrada,Argentina,2018-2019,nation
+Franco Armani,Argentina,2018-2019,nation
+Agustin Marchesin,Argentina,2018-2019,nation
+Emiliano Martinez,Argentina,2018-2019,nation
+Juan Musso,Argentina,2018-2019,nation
+Leonardo Balerdi,Argentina,2018-2019,nation
+Nicolas Figal,Argentina,2018-2019,nation
+Juan Foyth,Argentina,2018-2019,nation
+Ramiro Funes Mori,Argentina,2018-2019,nation
+Walter Kannemann,Argentina,2018-2019,nation
+Lisandro Martinez,Argentina,2018-2019,nation
+Lucas Martinez Quarta,Argentina,2018-2019,nation
+Gabriel Mercado,Argentina,2018-2019,nation
+Gonzalo Montiel,Argentina,2018-2019,nation
+Nicolas Otamendi,Argentina,2018-2019,nation
+Nehuen Perez,Argentina,2018-2019,nation
+German Pezzella,Argentina,2018-2019,nation
+Marcos Rojo,Argentina,2018-2019,nation
+Renzo Saravia,Argentina,2018-2019,nation
+Nicolas Tagliafico,Argentina,2018-2019,nation
+Marcos Acuna,Argentina,2018-2019,nation
+Domingo Blanco,Argentina,2018-2019,nation
+Milton Casco,Argentina,2018-2019,nation
+Joaquin Correa,Argentina,2018-2019,nation
+Rodrigo de Paul,Argentina,2018-2019,nation
+Angel Di Maria,Argentina,2018-2019,nation
+Nicolas Dominguez,Argentina,2018-2019,nation
+Erik Lamela,Argentina,2018-2019,nation
+Manuel Lanzini,Argentina,2018-2019,nation
+Giovani Lo Celso,Argentina,2018-2019,nation
+Alexis Mac Allister,Argentina,2018-2019,nation
+Ivan Marcone,Argentina,2018-2019,nation
+Gonzalo Martinez,Argentina,2018-2019,nation
+Lucas Ocampos,Argentina,2018-2019,nation
+Exequiel Palacios,Argentina,2018-2019,nation
+Leandro Paredes,Argentina,2018-2019,nation
+Roberto Pereyra,Argentina,2018-2019,nation
+Guido Pizarro,Argentina,2018-2019,nation
+Guido Rodriguez,Argentina,2018-2019,nation
+Matias Vargas,Argentina,2018-2019,nation
+Matias Zaracho,Argentina,2018-2019,nation
+Kun Aguero,Argentina,2018-2019,nation
+Lucas Alario,Argentina,2018-2019,nation
+Dario Benedetto,Argentina,2018-2019,nation
+Angel Correa,Argentina,2018-2019,nation
+Paulo Dybala,Argentina,2018-2019,nation
+Adolfo Gaich,Argentina,2018-2019,nation
+Nicolas Gonzalez,Argentina,2018-2019,nation
+Lautaro Martinez,Argentina,2018-2019,nation
+Matias Suarez,Argentina,2018-2019,nation
+Lionel Scaloni,Argentina,2018-2019,nation

@@ -1,640 +1,1216 @@
-player,team,season
-Tecelao,None,2001-2002
-Cristiano Ronaldo,None,2001-2002
-Tecelao,None,2002-2003
-Semedo,None,2002-2003
-Cristiano Ronaldo,None,2002-2003
-Beto,Sporting CP,2002-2003
-Nelson,Sporting CP,2002-2003
-Nuno Santos,Sporting CP,2002-2003
-Tiago,Sporting CP,2002-2003
-Pablo Contreras,Sporting CP,2002-2003
-Hugo,Sporting CP,2002-2003
-Joao Paulo,Sporting CP,2002-2003
-Luis Filipe,Sporting CP,2002-2003
-Facundo Quiroga,Sporting CP,2002-2003
-Rui Jorge,Sporting CP,2002-2003
-Santamaria,Sporting CP,2002-2003
-Cesar Prates,Sporting CP,2002-2003
-Custodio,Sporting CP,2002-2003
-Marcos Paulo,Sporting CP,2002-2003
-Paulo Bento,Sporting CP,2002-2003
-Pedro Barbosa,Sporting CP,2002-2003
-Ricardo Fernandes,Sporting CP,2002-2003
-Rui Bento,Sporting CP,2002-2003
-Rodrigo Tello,Sporting CP,2002-2003
-Cristiano Ronaldo,Sporting CP,2002-2003
-Jardel,Sporting CP,2002-2003
-Joao Vieira Pinto,Sporting CP,2002-2003
-Vitaliy Kutuzov,Sporting CP,2002-2003
-Lourenco,Sporting CP,2002-2003
-Marius Niculae,Sporting CP,2002-2003
-Ricardo Quaresma,Sporting CP,2002-2003
-Sa Pinto,Sporting CP,2002-2003
-Tonito,Sporting CP,2002-2003
-Ladislau Boloni,Sporting CP,2002-2003
-Roy Carroll,Manchester United,2003-2004
-Tim Howard,Manchester United,2003-2004
-Luke Steele,Manchester United,2003-2004
-Wes Brown,Manchester United,2003-2004
-Rio Ferdinand,Manchester United,2003-2004
-Mark Lynch,Manchester United,2003-2004
-Gary Neville,Manchester United,2003-2004
-Phil Neville,Manchester United,2003-2004
-John O'Shea,Manchester United,2003-2004
-Mikael Silvestre,Manchester United,2003-2004
-Nicky Butt,Manchester United,2003-2004
-Eric Djemba-Djemba,Manchester United,2003-2004
-Chris Eagles,Manchester United,2003-2004
-Darren Fletcher,Manchester United,2003-2004
-Quinton Fortune,Manchester United,2003-2004
-Ryan Giggs,Manchester United,2003-2004
-David Jones,Manchester United,2003-2004
-Roy Keane,Manchester United,2003-2004
-Kleberson,Manchester United,2003-2004
-Danny Pugh,Manchester United,2003-2004
-Kieran Richardson,Manchester United,2003-2004
-Paul Scholes,Manchester United,2003-2004
-Paul Tierney,Manchester United,2003-2004
-David Bellion,Manchester United,2003-2004
-Cristiano Ronaldo,Manchester United,2003-2004
-Diego Forlan,Manchester United,2003-2004
-Colin Heath,Manchester United,2003-2004
-Louis Saha,Manchester United,2003-2004
-Ole Gunnar Solskjaer,Manchester United,2003-2004
-Ruud van Nistelrooy,Manchester United,2003-2004
-Alex Ferguson,Manchester United,2003-2004
-Roy Carroll,Manchester United,2004-2005
-Tim Howard,Manchester United,2004-2005
-Ricardo,Manchester United,2004-2005
-Luke Steele,Manchester United,2004-2005
-Phil Bardsley,Manchester United,2004-2005
-Wes Brown,Manchester United,2004-2005
-Rio Ferdinand,Manchester United,2004-2005
-Gabriel Heinze,Manchester United,2004-2005
-Gary Neville,Manchester United,2004-2005
-Phil Neville,Manchester United,2004-2005
-John O'Shea,Manchester United,2004-2005
-Pique,Manchester United,2004-2005
-Mikael Silvestre,Manchester United,2004-2005
-Jonathan Spector,Manchester United,2004-2005
-Darren Fletcher,Manchester United,2004-2005
-Quinton Fortune,Manchester United,2004-2005
-Ryan Giggs,Manchester United,2004-2005
-David Jones,Manchester United,2004-2005
-Roy Keane,Manchester United,2004-2005
-Kleberson,Manchester United,2004-2005
-Liam Miller,Manchester United,2004-2005
-Floribert N'Galula,Manchester United,2004-2005
-Paul Scholes,Manchester United,2004-2005
-David Bellion,Manchester United,2004-2005
-Cristiano Ronaldo,Manchester United,2004-2005
-Sylvain Ebanks-Blake,Manchester United,2004-2005
-Colin Heath,Manchester United,2004-2005
-Eddie Johnson,Manchester United,2004-2005
-Kyle Moran,Manchester United,2004-2005
-Wayne Rooney,Manchester United,2004-2005
-Giuseppe Rossi,Manchester United,2004-2005
-Louis Saha,Manchester United,2004-2005
-Alan Smith,Manchester United,2004-2005
-Ole Gunnar Solskjaer,Manchester United,2004-2005
-Ruud van Nistelrooy,Manchester United,2004-2005
-Alex Ferguson,Manchester United,2004-2005
-Carlos Queiroz,Manchester United,2004-2005
-Tim Howard,Manchester United,2005-2006
-Luke Steele,Manchester United,2005-2006
-Edwin van der Sar,Manchester United,2005-2006
-Wes Brown,Manchester United,2005-2006
-Patrice Evra,Manchester United,2005-2006
-Rio Ferdinand,Manchester United,2005-2006
-Gabriel Heinze,Manchester United,2005-2006
-Gary Neville,Manchester United,2005-2006
-John O'Shea,Manchester United,2005-2006
-Pique,Manchester United,2005-2006
-Mikael Silvestre,Manchester United,2005-2006
-Nemanja Vidic,Manchester United,2005-2006
-Darren Fletcher,Manchester United,2005-2006
-Quinton Fortune,Manchester United,2005-2006
-Darron Gibson,Manchester United,2005-2006
-Ryan Giggs,Manchester United,2005-2006
-Ritchie Jones,Manchester United,2005-2006
-Lee Martin,Manchester United,2005-2006
-Floribert N'Galula,Manchester United,2005-2006
-Ji-Sung Park,Manchester United,2005-2006
-Kieran Richardson,Manchester United,2005-2006
-Paul Scholes,Manchester United,2005-2006
-Fraizer Campbell,Manchester United,2005-2006
-Cristiano Ronaldo,Manchester United,2005-2006
-Sylvain Ebanks-Blake,Manchester United,2005-2006
-Kyle Moran,Manchester United,2005-2006
-Wayne Rooney,Manchester United,2005-2006
-Giuseppe Rossi,Manchester United,2005-2006
-Louis Saha,Manchester United,2005-2006
-Alan Smith,Manchester United,2005-2006
-Ole Gunnar Solskjaer,Manchester United,2005-2006
-Ruud van Nistelrooy,Manchester United,2005-2006
-Alex Ferguson,Manchester United,2005-2006
-Carlos Queiroz,Manchester United,2005-2006
-Ben Foster,Manchester United,2006-2007
-Tom Heaton,Manchester United,2006-2007
-Tomasz Kuszczak,Manchester United,2006-2007
-Edwin van der Sar,Manchester United,2006-2007
-Wes Brown,Manchester United,2006-2007
-Craig Cathcart,Manchester United,2006-2007
-Patrice Evra,Manchester United,2006-2007
-Rio Ferdinand,Manchester United,2006-2007
-David Gray,Manchester United,2006-2007
-Gabriel Heinze,Manchester United,2006-2007
-Kieran Lee,Manchester United,2006-2007
-Gary Neville,Manchester United,2006-2007
-John O'Shea,Manchester United,2006-2007
-Mikael Silvestre,Manchester United,2006-2007
-Nemanja Vidic,Manchester United,2006-2007
-Michael Barnes,Manchester United,2006-2007
-Michael Carrick,Manchester United,2006-2007
-Chris Eagles,Manchester United,2006-2007
-Darren Fletcher,Manchester United,2006-2007
-Ryan Giggs,Manchester United,2006-2007
-Floribert N'Galula,Manchester United,2006-2007
-Ji-Sung Park,Manchester United,2006-2007
-Kieran Richardson,Manchester United,2006-2007
-Paul Scholes,Manchester United,2006-2007
-Fraizer Campbell,Manchester United,2006-2007
-Cristiano Ronaldo,Manchester United,2006-2007
-Fangzhuo Dong,Manchester United,2006-2007
-Phil Marsh,Manchester United,2006-2007
-Wayne Rooney,Manchester United,2006-2007
-Louis Saha,Manchester United,2006-2007
-Alan Smith,Manchester United,2006-2007
-Ole Gunnar Solskjaer,Manchester United,2006-2007
-Alex Ferguson,Manchester United,2006-2007
-Carlos Queiroz,Manchester United,2006-2007
-Ben Foster,Manchester United,2007-2008
-Tom Heaton,Manchester United,2007-2008
-Tomasz Kuszczak,Manchester United,2007-2008
-Edwin van der Sar,Manchester United,2007-2008
-Wes Brown,Manchester United,2007-2008
-Craig Cathcart,Manchester United,2007-2008
-Patrice Evra,Manchester United,2007-2008
-Rio Ferdinand,Manchester United,2007-2008
-Gary Neville,Manchester United,2007-2008
-John O'Shea,Manchester United,2007-2008
-Pique,Manchester United,2007-2008
-Mikael Silvestre,Manchester United,2007-2008
-Nemanja Vidic,Manchester United,2007-2008
-Anderson,Manchester United,2007-2008
-Michael Carrick,Manchester United,2007-2008
-Chris Eagles,Manchester United,2007-2008
-Darren Fletcher,Manchester United,2007-2008
-Darron Gibson,Manchester United,2007-2008
-Ryan Giggs,Manchester United,2007-2008
-Owen Hargreaves,Manchester United,2007-2008
-Sam Hewson,Manchester United,2007-2008
-Lee Martin,Manchester United,2007-2008
-Ji-Sung Park,Manchester United,2007-2008
-Rodrigo Possebon,Manchester United,2007-2008
-Paul Scholes,Manchester United,2007-2008
-Cristiano Ronaldo,Manchester United,2007-2008
-Fangzhuo Dong,Manchester United,2007-2008
-Nani,Manchester United,2007-2008
-Wayne Rooney,Manchester United,2007-2008
-Louis Saha,Manchester United,2007-2008
-Carlos Tevez,Manchester United,2007-2008
-Danny Welbeck,Manchester United,2007-2008
-Alex Ferguson,Manchester United,2007-2008
-Carlos Queiroz,Manchester United,2007-2008
-Ben Amos,Manchester United,2008-2009
-Ben Foster,Manchester United,2008-2009
-Tomasz Kuszczak,Manchester United,2008-2009
-Edwin van der Sar,Manchester United,2008-2009
-Ron-Robert Zieler,Manchester United,2008-2009
-Wes Brown,Manchester United,2008-2009
-James Chester,Manchester United,2008-2009
-Ritchie De Laet,Manchester United,2008-2009
-Richard Eckersley,Manchester United,2008-2009
-Jonny Evans,Manchester United,2008-2009
-Patrice Evra,Manchester United,2008-2009
-Fabio,Manchester United,2008-2009
-Rio Ferdinand,Manchester United,2008-2009
-Gary Neville,Manchester United,2008-2009
-John O'Shea,Manchester United,2008-2009
-Rafael,Manchester United,2008-2009
-Nemanja Vidic,Manchester United,2008-2009
-Anderson,Manchester United,2008-2009
-Michael Carrick,Manchester United,2008-2009
-Darren Fletcher,Manchester United,2008-2009
-Darron Gibson,Manchester United,2008-2009
-Ryan Giggs,Manchester United,2008-2009
-Owen Hargreaves,Manchester United,2008-2009
-Lee Martin,Manchester United,2008-2009
-Ji-Sung Park,Manchester United,2008-2009
-Rodrigo Possebon,Manchester United,2008-2009
-Paul Scholes,Manchester United,2008-2009
-Zoran Tosic,Manchester United,2008-2009
-Dimitar Berbatov,Manchester United,2008-2009
-Cristiano Ronaldo,Manchester United,2008-2009
-Federico Macheda,Manchester United,2008-2009
-Nani,Manchester United,2008-2009
-Wayne Rooney,Manchester United,2008-2009
-Carlos Tevez,Manchester United,2008-2009
-Danny Welbeck,Manchester United,2008-2009
-Alex Ferguson,Manchester United,2008-2009
-Rene Meulensteen,Manchester United,2008-2009
-Mike Phelan,Manchester United,2008-2009
-Eric Steele,Manchester United,2008-2009
-Adan,Real Madrid,2009-2010
-Jerzy Dudek,Real Madrid,2009-2010
-Iker Casillas,Real Madrid,2009-2010
-Arbeloa,Real Madrid,2009-2010
-Royston Drenthe,Real Madrid,2009-2010
-Ezequiel Garay,Real Madrid,2009-2010
-Juanfran,Real Madrid,2009-2010
-Marcelo,Real Madrid,2009-2010
-Marcos Alonso,Real Madrid,2009-2010
-Christoph Metzelder,Real Madrid,2009-2010
-Pepe,Real Madrid,2009-2010
-Raul Albiol,Real Madrid,2009-2010
-Sergio Ramos,Real Madrid,2009-2010
-Lassana Diarra,Real Madrid,2009-2010
-Mahamadou Diarra,Real Madrid,2009-2010
-Fernando Gago,Real Madrid,2009-2010
-Granero,Real Madrid,2009-2010
-Guti,Real Madrid,2009-2010
-Kaka,Real Madrid,2009-2010
-Mosquera,Real Madrid,2009-2010
-Rafael van der Vaart,Real Madrid,2009-2010
-Xabi Alonso,Real Madrid,2009-2010
-Karim Benzema,Real Madrid,2009-2010
-Cristiano Ronaldo,Real Madrid,2009-2010
-Gonzalo Higuain,Real Madrid,2009-2010
-Raul,Real Madrid,2009-2010
-Manuel Pellegrini,Real Madrid,2009-2010
-Ruben Cousillas,Real Madrid,2009-2010
-Xabier,Real Madrid,2009-2010
-Adan,Real Madrid,2010-2011
-Jerzy Dudek,Real Madrid,2010-2011
-Iker Casillas,Real Madrid,2010-2011
-Jesus Fernandez,Real Madrid,2010-2011
-Mejias,Real Madrid,2010-2011
-Arbeloa,Real Madrid,2010-2011
-Ezequiel Garay,Real Madrid,2010-2011
-Jorge Casado,Real Madrid,2010-2011
-Juanfran,Real Madrid,2010-2011
-Marcelo,Real Madrid,2010-2011
-Nacho,Real Madrid,2010-2011
-Pepe,Real Madrid,2010-2011
-Raul Albiol,Real Madrid,2010-2011
-Ricardo Carvalho,Real Madrid,2010-2011
-Sergio Ramos,Real Madrid,2010-2011
-Alex,Real Madrid,2010-2011
-Canales,Real Madrid,2010-2011
-Angel Di Maria,Real Madrid,2010-2011
-Lassana Diarra,Real Madrid,2010-2011
-Fernando Gago,Real Madrid,2010-2011
-Granero,Real Madrid,2010-2011
-Juankar,Real Madrid,2010-2011
-Kaka,Real Madrid,2010-2011
-Sami Khedira,Real Madrid,2010-2011
-Mandi,Real Madrid,2010-2011
-Mesut Ozil,Real Madrid,2010-2011
-Pablo Sarabia,Real Madrid,2010-2011
-Pedro Leon,Real Madrid,2010-2011
-Xabi Alonso,Real Madrid,2010-2011
-Emmanuel Adebayor,Real Madrid,2010-2011
-Karim Benzema,Real Madrid,2010-2011
-Cristiano Ronaldo,Real Madrid,2010-2011
-Gonzalo Higuain,Real Madrid,2010-2011
-Joselu,Real Madrid,2010-2011
-Alvaro Morata,Real Madrid,2010-2011
-Jose Mourinho,Real Madrid,2010-2011
-Jose Morais,Real Madrid,2010-2011
-Karanka,Real Madrid,2010-2011
-Silvino,Real Madrid,2010-2011
-Adan,Real Madrid,2011-2012
-Iker Casillas,Real Madrid,2011-2012
-Jesus Fernandez,Real Madrid,2011-2012
-Mejias,Real Madrid,2011-2012
-Pacheco,Real Madrid,2011-2012
-Arbeloa,Real Madrid,2011-2012
-Fabio Coentrao,Real Madrid,2011-2012
-Fran,Real Madrid,2011-2012
-Jorge Casado,Real Madrid,2011-2012
-Marcelo,Real Madrid,2011-2012
-Nacho,Real Madrid,2011-2012
-Pedro Mendes,Real Madrid,2011-2012
-Pepe,Real Madrid,2011-2012
-Raul Albiol,Real Madrid,2011-2012
-Ricardo Carvalho,Real Madrid,2011-2012
-Sergio Ramos,Real Madrid,2011-2012
-Raphael Varane,Real Madrid,2011-2012
-Hamit Altintop,Real Madrid,2011-2012
-Angel Di Maria,Real Madrid,2011-2012
-Lassana Diarra,Real Madrid,2011-2012
-Granero,Real Madrid,2011-2012
-Kaka,Real Madrid,2011-2012
-Sami Khedira,Real Madrid,2011-2012
-Mesut Ozil,Real Madrid,2011-2012
-Nuri Sahin,Real Madrid,2011-2012
-Xabi Alonso,Real Madrid,2011-2012
-Karim Benzema,Real Madrid,2011-2012
-Cristiano Ronaldo,Real Madrid,2011-2012
-Gonzalo Higuain,Real Madrid,2011-2012
-Jese,Real Madrid,2011-2012
-Jose Callejon,Real Madrid,2011-2012
-Joselu,Real Madrid,2011-2012
-Alvaro Morata,Real Madrid,2011-2012
-Jose Mourinho,Real Madrid,2011-2012
-Jose Morais,Real Madrid,2011-2012
-Karanka,Real Madrid,2011-2012
-Silvino,Real Madrid,2011-2012
-Adan,Real Madrid,2012-2013
-Diego Lopez,Real Madrid,2012-2013
-Iker Casillas,Real Madrid,2012-2013
-Jesus Fernandez,Real Madrid,2012-2013
-Arbeloa,Real Madrid,2012-2013
-Fabinho,Real Madrid,2012-2013
-Fabio Coentrao,Real Madrid,2012-2013
-Jorge Casado,Real Madrid,2012-2013
-Juanfran,Real Madrid,2012-2013
-Llorente,Real Madrid,2012-2013
-Marcelo,Real Madrid,2012-2013
-Nacho,Real Madrid,2012-2013
-Pepe,Real Madrid,2012-2013
-Raul Albiol,Real Madrid,2012-2013
-Ricardo Carvalho,Real Madrid,2012-2013
-Sergio Ramos,Real Madrid,2012-2013
-Raphael Varane,Real Madrid,2012-2013
-Alex,Real Madrid,2012-2013
-Casemiro,Real Madrid,2012-2013
-Angel Di Maria,Real Madrid,2012-2013
-Michael Essien,Real Madrid,2012-2013
-Jose Rodriguez,Real Madrid,2012-2013
-Kaka,Real Madrid,2012-2013
-Sami Khedira,Real Madrid,2012-2013
-Mascarell,Real Madrid,2012-2013
-Luka Modric,Real Madrid,2012-2013
-Mesut Ozil,Real Madrid,2012-2013
-Xabi Alonso,Real Madrid,2012-2013
-Karim Benzema,Real Madrid,2012-2013
-Denis Cheryshev,Real Madrid,2012-2013
-Cristiano Ronaldo,Real Madrid,2012-2013
-Gonzalo Higuain,Real Madrid,2012-2013
-Jese,Real Madrid,2012-2013
-Jose Callejon,Real Madrid,2012-2013
-Alvaro Morata,Real Madrid,2012-2013
-Jose Mourinho,Real Madrid,2012-2013
-Jose Morais,Real Madrid,2012-2013
-Karanka,Real Madrid,2012-2013
-Silvino,Real Madrid,2012-2013
-Diego Lopez,Real Madrid,2013-2014
-Iker Casillas,Real Madrid,2013-2014
-Jesus Fernandez,Real Madrid,2013-2014
-Arbeloa,Real Madrid,2013-2014
-Dani Carvajal,Real Madrid,2013-2014
-Fabio Coentrao,Real Madrid,2013-2014
-Jorge Casado,Real Madrid,2013-2014
-Llorente,Real Madrid,2013-2014
-Marcelo,Real Madrid,2013-2014
-Nacho,Real Madrid,2013-2014
-Pepe,Real Madrid,2013-2014
-Sergio Ramos,Real Madrid,2013-2014
-Raphael Varane,Real Madrid,2013-2014
-Borja Garcia,Real Madrid,2013-2014
-Casemiro,Real Madrid,2013-2014
-Angel Di Maria,Real Madrid,2013-2014
-Illarra,Real Madrid,2013-2014
-Isco,Real Madrid,2013-2014
-Jose Rodriguez,Real Madrid,2013-2014
-Sami Khedira,Real Madrid,2013-2014
-Mascarell,Real Madrid,2013-2014
-Medran,Real Madrid,2013-2014
-Luka Modric,Real Madrid,2013-2014
-Xabi Alonso,Real Madrid,2013-2014
-Gareth Bale,Real Madrid,2013-2014
-Karim Benzema,Real Madrid,2013-2014
-Burgui,Real Madrid,2013-2014
-Cristiano Ronaldo,Real Madrid,2013-2014
-Jese,Real Madrid,2013-2014
-Lucas Vazquez,Real Madrid,2013-2014
-Alvaro Morata,Real Madrid,2013-2014
-Raul de Tomas,Real Madrid,2013-2014
-Willian Jose,Real Madrid,2013-2014
-Carlo Ancelotti,Real Madrid,2013-2014
-Paul Clement,Real Madrid,2013-2014
-Zinedine Zidane,Real Madrid,2013-2014
-Villiam Vecchi,Real Madrid,2013-2014
-Iker Casillas,Real Madrid,2014-2015
-Keylor Navas,Real Madrid,2014-2015
-Pacheco,Real Madrid,2014-2015
-Ruben Yanez,Real Madrid,2014-2015
-Abner Felipe,Real Madrid,2014-2015
-Arbeloa,Real Madrid,2014-2015
-Dani Carvajal,Real Madrid,2014-2015
-Derik,Real Madrid,2014-2015
-Fabio Coentrao,Real Madrid,2014-2015
-Jaime,Real Madrid,2014-2015
-Javi Noblejas,Real Madrid,2014-2015
-Marcelo,Real Madrid,2014-2015
-Nacho,Real Madrid,2014-2015
-Pepe,Real Madrid,2014-2015
-Sergio Ramos,Real Madrid,2014-2015
-Raphael Varane,Real Madrid,2014-2015
-Guillermo Varela,Real Madrid,2014-2015
-Aguza,Real Madrid,2014-2015
-Illarra,Real Madrid,2014-2015
-Isco,Real Madrid,2014-2015
-Javi Munoz,Real Madrid,2014-2015
-Sami Khedira,Real Madrid,2014-2015
-Toni Kroos,Real Madrid,2014-2015
-Lucas Silva,Real Madrid,2014-2015
-Lucas Torro,Real Madrid,2014-2015
-Marcos Llorente,Real Madrid,2014-2015
-Medran,Real Madrid,2014-2015
-Luka Modric,Real Madrid,2014-2015
-Martin Odegaard,Real Madrid,2014-2015
-James Rodriguez,Real Madrid,2014-2015
-Gareth Bale,Real Madrid,2014-2015
-Karim Benzema,Real Madrid,2014-2015
-Borja Mayoral,Real Madrid,2014-2015
-Cristiano Ronaldo,Real Madrid,2014-2015
-Javier Hernandez,Real Madrid,2014-2015
-Jese,Real Madrid,2014-2015
-Eero Markkanen,Real Madrid,2014-2015
-Raul de Tomas,Real Madrid,2014-2015
-Carlo Ancelotti,Real Madrid,2014-2015
-Hierro,Real Madrid,2014-2015
-Villiam Vecchi,Real Madrid,2014-2015
-Alex Craninx,Real Madrid,2015-2016
-Kiko Casilla,Real Madrid,2015-2016
-Keylor Navas,Real Madrid,2015-2016
-Ruben Yanez,Real Madrid,2015-2016
-Alvaro Tejero,Real Madrid,2015-2016
-Arbeloa,Real Madrid,2015-2016
-Dani Carvajal,Real Madrid,2015-2016
-Danilo,Real Madrid,2015-2016
-Philipp Lienhart,Real Madrid,2015-2016
-Marcelo,Real Madrid,2015-2016
-Nacho,Real Madrid,2015-2016
-Pepe,Real Madrid,2015-2016
-Sergio Ramos,Real Madrid,2015-2016
-Raphael Varane,Real Madrid,2015-2016
-Casemiro,Real Madrid,2015-2016
-Isco,Real Madrid,2015-2016
-Mateo Kovacic,Real Madrid,2015-2016
-Toni Kroos,Real Madrid,2015-2016
-Lazo,Real Madrid,2015-2016
-Marcos Llorente,Real Madrid,2015-2016
-Luka Modric,Real Madrid,2015-2016
-Martin Odegaard,Real Madrid,2015-2016
-James Rodriguez,Real Madrid,2015-2016
-Gareth Bale,Real Madrid,2015-2016
-Karim Benzema,Real Madrid,2015-2016
-Borja Mayoral,Real Madrid,2015-2016
-Cristiano Ronaldo,Real Madrid,2015-2016
-Jese,Real Madrid,2015-2016
-Lucas Vazquez,Real Madrid,2015-2016
-Zinedine Zidane,Real Madrid,2015-2016
-David Bettoni,Real Madrid,2015-2016
-Hamidou Msaidie,Real Madrid,2015-2016
-Lluis Llopis,Real Madrid,2015-2016
-Jose Carlos Parrales,Real Madrid,2015-2016
-Kiko Casilla,Real Madrid,2016-2017
-Keylor Navas,Real Madrid,2016-2017
-Ruben Yanez,Real Madrid,2016-2017
-Alvaro Tejero,Real Madrid,2016-2017
-Dani Carvajal,Real Madrid,2016-2017
-Danilo,Real Madrid,2016-2017
-Fabio Coentrao,Real Madrid,2016-2017
-Achraf Hakimi,Real Madrid,2016-2017
-Marcelo,Real Madrid,2016-2017
-Nacho,Real Madrid,2016-2017
-Pepe,Real Madrid,2016-2017
-Sergio Ramos,Real Madrid,2016-2017
-Raphael Varane,Real Madrid,2016-2017
-Casemiro,Real Madrid,2016-2017
-Isco,Real Madrid,2016-2017
-Mateo Kovacic,Real Madrid,2016-2017
-Toni Kroos,Real Madrid,2016-2017
-Marco Asensio,Real Madrid,2016-2017
-Luka Modric,Real Madrid,2016-2017
-James Rodriguez,Real Madrid,2016-2017
-Enzo Zidane,Real Madrid,2016-2017
-Gareth Bale,Real Madrid,2016-2017
-Karim Benzema,Real Madrid,2016-2017
-Cristiano Ronaldo,Real Madrid,2016-2017
-Lucas Vazquez,Real Madrid,2016-2017
-Mariano,Real Madrid,2016-2017
-Alvaro Morata,Real Madrid,2016-2017
-Zinedine Zidane,Real Madrid,2016-2017
-David Bettoni,Real Madrid,2016-2017
-Hamidou Msaidie,Real Madrid,2016-2017
-Lluis Llopis,Real Madrid,2016-2017
-Antonio Pintus,Real Madrid,2016-2017
-Jose Carlos Parrales,Real Madrid,2016-2017
-Kiko Casilla,Real Madrid,2017-2018
-Moha Ramos,Real Madrid,2017-2018
-Keylor Navas,Real Madrid,2017-2018
-Luca Zidane,Real Madrid,2017-2018
-Alvaro Tejero,Real Madrid,2017-2018
-Dani Carvajal,Real Madrid,2017-2018
-Achraf Hakimi,Real Madrid,2017-2018
-Theo Hernandez,Real Madrid,2017-2018
-Manu Hernando,Real Madrid,2017-2018
-Marcelo,Real Madrid,2017-2018
-Nacho,Real Madrid,2017-2018
-Quezada,Real Madrid,2017-2018
-Sergio Ramos,Real Madrid,2017-2018
-Vallejo,Real Madrid,2017-2018
-Raphael Varane,Real Madrid,2017-2018
-Casemiro,Real Madrid,2017-2018
-Dani Ceballos,Real Madrid,2017-2018
-Francisco Feuillassier,Real Madrid,2017-2018
-Isco,Real Madrid,2017-2018
-Mateo Kovacic,Real Madrid,2017-2018
-Toni Kroos,Real Madrid,2017-2018
-Marco Asensio,Real Madrid,2017-2018
-Marcos Llorente,Real Madrid,2017-2018
-Luka Modric,Real Madrid,2017-2018
-Oscar,Real Madrid,2017-2018
-Seoane,Real Madrid,2017-2018
-Gareth Bale,Real Madrid,2017-2018
-Karim Benzema,Real Madrid,2017-2018
-Borja Mayoral,Real Madrid,2017-2018
-Cristiano Ronaldo,Real Madrid,2017-2018
-Cristo,Real Madrid,2017-2018
-Lucas Vazquez,Real Madrid,2017-2018
-David Bettoni,Real Madrid,2017-2018
-Hamidou Msaidie,Real Madrid,2017-2018
-Lluis Llopis,Real Madrid,2017-2018
-Javier Mallo,Real Madrid,2017-2018
-Antonio Pintus,Real Madrid,2017-2018
-Jose Carlos Parrales,Real Madrid,2017-2018
-Mattia Del Favero,Juventus,2018-2019
-Leonardo Loria,Juventus,2018-2019
-Mattia Perin,Juventus,2018-2019
-Carlo Pinsoglio,Juventus,2018-2019
-Wojciech Szczesny,Juventus,2018-2019
-Alex Sandro,Juventus,2018-2019
-Andrea Barzagli,Juventus,2018-2019
-Leonardo Bonucci,Juventus,2018-2019
-Martin Caceres,Juventus,2018-2019
-Giorgio Chiellini,Juventus,2018-2019
-Luca Coccolo,Juventus,2018-2019
-Mattia De Sciglio,Juventus,2018-2019
-Paolo Gozzi,Juventus,2018-2019
-Joao Cancelo,Juventus,2018-2019
-Daniele Rugani,Juventus,2018-2019
-Rodrigo Bentancur,Juventus,2018-2019
-Emre Can,Juventus,2018-2019
-Paulo Dybala,Juventus,2018-2019
-Nicolo Fagioli,Juventus,2018-2019
-Grigoris Kastanos,Juventus,2018-2019
-Sami Khedira,Juventus,2018-2019
-Matheus Pereira,Juventus,2018-2019
-Blaise Matuidi,Juventus,2018-2019
-Simone Muratore,Juventus,2018-2019
-Miralem Pjanic,Juventus,2018-2019
-Manolo Portanova,Juventus,2018-2019
-Leonardo Spinazzola,Juventus,2018-2019
-Federico Bernardeschi,Juventus,2018-2019
-Cristiano Ronaldo,Juventus,2018-2019
-Juan Cuadrado,Juventus,2018-2019
-Douglas Costa,Juventus,2018-2019
-Moise Kean,Juventus,2018-2019
-Mario Mandzukic,Juventus,2018-2019
-Stephy Mavididi,Juventus,2018-2019
-Pablo Moreno,Juventus,2018-2019
-Massimiliano Allegri,Juventus,2018-2019
-Claudio Filippi,Juventus,2018-2019
-Gianluigi Buffon,Juventus,2019-2020
-Carlo Pinsoglio,Juventus,2019-2020
-Wojciech Szczesny,Juventus,2019-2020
-Alex Sandro,Juventus,2019-2020
-Pietro Beruatto,Juventus,2019-2020
-Leonardo Bonucci,Juventus,2019-2020
-Giorgio Chiellini,Juventus,2019-2020
-Luca Coccolo,Juventus,2019-2020
-Danilo,Juventus,2019-2020
-Matthijs de Ligt,Juventus,2019-2020
-Mattia De Sciglio,Juventus,2019-2020
-Merih Demiral,Juventus,2019-2020
-Daniele Rugani,Juventus,2019-2020
-Wesley,Juventus,2019-2020
-Rodrigo Bentancur,Juventus,2019-2020
-Paulo Dybala,Juventus,2019-2020
-Sami Khedira,Juventus,2019-2020
-Blaise Matuidi,Juventus,2019-2020
-Simone Muratore,Juventus,2019-2020
-Daouda Peeters,Juventus,2019-2020
-Miralem Pjanic,Juventus,2019-2020
-Manolo Portanova,Juventus,2019-2020
-Adrien Rabiot,Juventus,2019-2020
-Aaron Ramsey,Juventus,2019-2020
-Federico Bernardeschi,Juventus,2019-2020
-Cristiano Ronaldo,Juventus,2019-2020
-Juan Cuadrado,Juventus,2019-2020
-Douglas Costa,Juventus,2019-2020
-Gonzalo Higuain,Juventus,2019-2020
-Marco Olivieri,Juventus,2019-2020
-Maurizio Sarri,Juventus,2019-2020
-Claudio Filippi,Juventus,2019-2020
+player,team,season,type
+Tecelao,None,2001-2002,club
+Tecelao,None,2002-2003,club
+Semedo,None,2002-2003,club
+Beto,Sporting CP,2002-2003,club
+Nelson,Sporting CP,2002-2003,club
+Nuno Santos,Sporting CP,2002-2003,club
+Tiago,Sporting CP,2002-2003,club
+Pablo Contreras,Sporting CP,2002-2003,club
+Hugo,Sporting CP,2002-2003,club
+Joao Paulo,Sporting CP,2002-2003,club
+Luis Filipe,Sporting CP,2002-2003,club
+Facundo Quiroga,Sporting CP,2002-2003,club
+Rui Jorge,Sporting CP,2002-2003,club
+Santamaria,Sporting CP,2002-2003,club
+Cesar Prates,Sporting CP,2002-2003,club
+Custodio,Sporting CP,2002-2003,club
+Marcos Paulo,Sporting CP,2002-2003,club
+Paulo Bento,Sporting CP,2002-2003,club
+Pedro Barbosa,Sporting CP,2002-2003,club
+Ricardo Fernandes,Sporting CP,2002-2003,club
+Rui Bento,Sporting CP,2002-2003,club
+Rodrigo Tello,Sporting CP,2002-2003,club
+Jardel,Sporting CP,2002-2003,club
+Joao Vieira Pinto,Sporting CP,2002-2003,club
+Vitaliy Kutuzov,Sporting CP,2002-2003,club
+Lourenco,Sporting CP,2002-2003,club
+Marius Niculae,Sporting CP,2002-2003,club
+Ricardo Quaresma,Sporting CP,2002-2003,club
+Sa Pinto,Sporting CP,2002-2003,club
+Tonito,Sporting CP,2002-2003,club
+Ladislau Boloni,Sporting CP,2002-2003,club
+Roy Carroll,Manchester United,2003-2004,club
+Tim Howard,Manchester United,2003-2004,club
+Luke Steele,Manchester United,2003-2004,club
+Wes Brown,Manchester United,2003-2004,club
+Rio Ferdinand,Manchester United,2003-2004,club
+Mark Lynch,Manchester United,2003-2004,club
+Gary Neville,Manchester United,2003-2004,club
+Phil Neville,Manchester United,2003-2004,club
+John O'Shea,Manchester United,2003-2004,club
+Mikael Silvestre,Manchester United,2003-2004,club
+Nicky Butt,Manchester United,2003-2004,club
+Eric Djemba-Djemba,Manchester United,2003-2004,club
+Chris Eagles,Manchester United,2003-2004,club
+Darren Fletcher,Manchester United,2003-2004,club
+Quinton Fortune,Manchester United,2003-2004,club
+Ryan Giggs,Manchester United,2003-2004,club
+David Jones,Manchester United,2003-2004,club
+Roy Keane,Manchester United,2003-2004,club
+Kleberson,Manchester United,2003-2004,club
+Danny Pugh,Manchester United,2003-2004,club
+Kieran Richardson,Manchester United,2003-2004,club
+Paul Scholes,Manchester United,2003-2004,club
+Paul Tierney,Manchester United,2003-2004,club
+David Bellion,Manchester United,2003-2004,club
+Diego Forlan,Manchester United,2003-2004,club
+Colin Heath,Manchester United,2003-2004,club
+Louis Saha,Manchester United,2003-2004,club
+Ole Gunnar Solskjaer,Manchester United,2003-2004,club
+Ruud van Nistelrooy,Manchester United,2003-2004,club
+Alex Ferguson,Manchester United,2003-2004,club
+Roy Carroll,Manchester United,2004-2005,club
+Tim Howard,Manchester United,2004-2005,club
+Ricardo,Manchester United,2004-2005,club
+Luke Steele,Manchester United,2004-2005,club
+Phil Bardsley,Manchester United,2004-2005,club
+Wes Brown,Manchester United,2004-2005,club
+Rio Ferdinand,Manchester United,2004-2005,club
+Gabriel Heinze,Manchester United,2004-2005,club
+Gary Neville,Manchester United,2004-2005,club
+Phil Neville,Manchester United,2004-2005,club
+John O'Shea,Manchester United,2004-2005,club
+Pique,Manchester United,2004-2005,club
+Mikael Silvestre,Manchester United,2004-2005,club
+Jonathan Spector,Manchester United,2004-2005,club
+Darren Fletcher,Manchester United,2004-2005,club
+Quinton Fortune,Manchester United,2004-2005,club
+Ryan Giggs,Manchester United,2004-2005,club
+David Jones,Manchester United,2004-2005,club
+Roy Keane,Manchester United,2004-2005,club
+Kleberson,Manchester United,2004-2005,club
+Liam Miller,Manchester United,2004-2005,club
+Floribert N'Galula,Manchester United,2004-2005,club
+Paul Scholes,Manchester United,2004-2005,club
+David Bellion,Manchester United,2004-2005,club
+Sylvain Ebanks-Blake,Manchester United,2004-2005,club
+Colin Heath,Manchester United,2004-2005,club
+Eddie Johnson,Manchester United,2004-2005,club
+Kyle Moran,Manchester United,2004-2005,club
+Wayne Rooney,Manchester United,2004-2005,club
+Giuseppe Rossi,Manchester United,2004-2005,club
+Louis Saha,Manchester United,2004-2005,club
+Alan Smith,Manchester United,2004-2005,club
+Ole Gunnar Solskjaer,Manchester United,2004-2005,club
+Ruud van Nistelrooy,Manchester United,2004-2005,club
+Alex Ferguson,Manchester United,2004-2005,club
+Carlos Queiroz,Manchester United,2004-2005,club
+Tim Howard,Manchester United,2005-2006,club
+Luke Steele,Manchester United,2005-2006,club
+Edwin van der Sar,Manchester United,2005-2006,club
+Wes Brown,Manchester United,2005-2006,club
+Patrice Evra,Manchester United,2005-2006,club
+Rio Ferdinand,Manchester United,2005-2006,club
+Gabriel Heinze,Manchester United,2005-2006,club
+Gary Neville,Manchester United,2005-2006,club
+John O'Shea,Manchester United,2005-2006,club
+Pique,Manchester United,2005-2006,club
+Mikael Silvestre,Manchester United,2005-2006,club
+Nemanja Vidic,Manchester United,2005-2006,club
+Darren Fletcher,Manchester United,2005-2006,club
+Quinton Fortune,Manchester United,2005-2006,club
+Darron Gibson,Manchester United,2005-2006,club
+Ryan Giggs,Manchester United,2005-2006,club
+Ritchie Jones,Manchester United,2005-2006,club
+Lee Martin,Manchester United,2005-2006,club
+Floribert N'Galula,Manchester United,2005-2006,club
+Ji-Sung Park,Manchester United,2005-2006,club
+Kieran Richardson,Manchester United,2005-2006,club
+Paul Scholes,Manchester United,2005-2006,club
+Fraizer Campbell,Manchester United,2005-2006,club
+Sylvain Ebanks-Blake,Manchester United,2005-2006,club
+Kyle Moran,Manchester United,2005-2006,club
+Wayne Rooney,Manchester United,2005-2006,club
+Giuseppe Rossi,Manchester United,2005-2006,club
+Louis Saha,Manchester United,2005-2006,club
+Alan Smith,Manchester United,2005-2006,club
+Ole Gunnar Solskjaer,Manchester United,2005-2006,club
+Ruud van Nistelrooy,Manchester United,2005-2006,club
+Alex Ferguson,Manchester United,2005-2006,club
+Carlos Queiroz,Manchester United,2005-2006,club
+Ben Foster,Manchester United,2006-2007,club
+Tom Heaton,Manchester United,2006-2007,club
+Tomasz Kuszczak,Manchester United,2006-2007,club
+Edwin van der Sar,Manchester United,2006-2007,club
+Wes Brown,Manchester United,2006-2007,club
+Craig Cathcart,Manchester United,2006-2007,club
+Patrice Evra,Manchester United,2006-2007,club
+Rio Ferdinand,Manchester United,2006-2007,club
+David Gray,Manchester United,2006-2007,club
+Gabriel Heinze,Manchester United,2006-2007,club
+Kieran Lee,Manchester United,2006-2007,club
+Gary Neville,Manchester United,2006-2007,club
+John O'Shea,Manchester United,2006-2007,club
+Mikael Silvestre,Manchester United,2006-2007,club
+Nemanja Vidic,Manchester United,2006-2007,club
+Michael Barnes,Manchester United,2006-2007,club
+Michael Carrick,Manchester United,2006-2007,club
+Chris Eagles,Manchester United,2006-2007,club
+Darren Fletcher,Manchester United,2006-2007,club
+Ryan Giggs,Manchester United,2006-2007,club
+Floribert N'Galula,Manchester United,2006-2007,club
+Ji-Sung Park,Manchester United,2006-2007,club
+Kieran Richardson,Manchester United,2006-2007,club
+Paul Scholes,Manchester United,2006-2007,club
+Fraizer Campbell,Manchester United,2006-2007,club
+Fangzhuo Dong,Manchester United,2006-2007,club
+Phil Marsh,Manchester United,2006-2007,club
+Wayne Rooney,Manchester United,2006-2007,club
+Louis Saha,Manchester United,2006-2007,club
+Alan Smith,Manchester United,2006-2007,club
+Ole Gunnar Solskjaer,Manchester United,2006-2007,club
+Alex Ferguson,Manchester United,2006-2007,club
+Carlos Queiroz,Manchester United,2006-2007,club
+Ben Foster,Manchester United,2007-2008,club
+Tom Heaton,Manchester United,2007-2008,club
+Tomasz Kuszczak,Manchester United,2007-2008,club
+Edwin van der Sar,Manchester United,2007-2008,club
+Wes Brown,Manchester United,2007-2008,club
+Craig Cathcart,Manchester United,2007-2008,club
+Patrice Evra,Manchester United,2007-2008,club
+Rio Ferdinand,Manchester United,2007-2008,club
+Gary Neville,Manchester United,2007-2008,club
+John O'Shea,Manchester United,2007-2008,club
+Pique,Manchester United,2007-2008,club
+Mikael Silvestre,Manchester United,2007-2008,club
+Nemanja Vidic,Manchester United,2007-2008,club
+Anderson,Manchester United,2007-2008,club
+Michael Carrick,Manchester United,2007-2008,club
+Chris Eagles,Manchester United,2007-2008,club
+Darren Fletcher,Manchester United,2007-2008,club
+Darron Gibson,Manchester United,2007-2008,club
+Ryan Giggs,Manchester United,2007-2008,club
+Owen Hargreaves,Manchester United,2007-2008,club
+Sam Hewson,Manchester United,2007-2008,club
+Lee Martin,Manchester United,2007-2008,club
+Ji-Sung Park,Manchester United,2007-2008,club
+Rodrigo Possebon,Manchester United,2007-2008,club
+Paul Scholes,Manchester United,2007-2008,club
+Fangzhuo Dong,Manchester United,2007-2008,club
+Nani,Manchester United,2007-2008,club
+Wayne Rooney,Manchester United,2007-2008,club
+Louis Saha,Manchester United,2007-2008,club
+Carlos Tevez,Manchester United,2007-2008,club
+Danny Welbeck,Manchester United,2007-2008,club
+Alex Ferguson,Manchester United,2007-2008,club
+Carlos Queiroz,Manchester United,2007-2008,club
+Ben Amos,Manchester United,2008-2009,club
+Ben Foster,Manchester United,2008-2009,club
+Tomasz Kuszczak,Manchester United,2008-2009,club
+Edwin van der Sar,Manchester United,2008-2009,club
+Ron-Robert Zieler,Manchester United,2008-2009,club
+Wes Brown,Manchester United,2008-2009,club
+James Chester,Manchester United,2008-2009,club
+Ritchie De Laet,Manchester United,2008-2009,club
+Richard Eckersley,Manchester United,2008-2009,club
+Jonny Evans,Manchester United,2008-2009,club
+Patrice Evra,Manchester United,2008-2009,club
+Fabio,Manchester United,2008-2009,club
+Rio Ferdinand,Manchester United,2008-2009,club
+Gary Neville,Manchester United,2008-2009,club
+John O'Shea,Manchester United,2008-2009,club
+Rafael,Manchester United,2008-2009,club
+Nemanja Vidic,Manchester United,2008-2009,club
+Anderson,Manchester United,2008-2009,club
+Michael Carrick,Manchester United,2008-2009,club
+Darren Fletcher,Manchester United,2008-2009,club
+Darron Gibson,Manchester United,2008-2009,club
+Ryan Giggs,Manchester United,2008-2009,club
+Owen Hargreaves,Manchester United,2008-2009,club
+Lee Martin,Manchester United,2008-2009,club
+Ji-Sung Park,Manchester United,2008-2009,club
+Rodrigo Possebon,Manchester United,2008-2009,club
+Paul Scholes,Manchester United,2008-2009,club
+Zoran Tosic,Manchester United,2008-2009,club
+Dimitar Berbatov,Manchester United,2008-2009,club
+Federico Macheda,Manchester United,2008-2009,club
+Nani,Manchester United,2008-2009,club
+Wayne Rooney,Manchester United,2008-2009,club
+Carlos Tevez,Manchester United,2008-2009,club
+Danny Welbeck,Manchester United,2008-2009,club
+Alex Ferguson,Manchester United,2008-2009,club
+Rene Meulensteen,Manchester United,2008-2009,club
+Mike Phelan,Manchester United,2008-2009,club
+Eric Steele,Manchester United,2008-2009,club
+Adan,Real Madrid,2009-2010,club
+Jerzy Dudek,Real Madrid,2009-2010,club
+Iker Casillas,Real Madrid,2009-2010,club
+Arbeloa,Real Madrid,2009-2010,club
+Royston Drenthe,Real Madrid,2009-2010,club
+Ezequiel Garay,Real Madrid,2009-2010,club
+Juanfran,Real Madrid,2009-2010,club
+Marcelo,Real Madrid,2009-2010,club
+Marcos Alonso,Real Madrid,2009-2010,club
+Christoph Metzelder,Real Madrid,2009-2010,club
+Pepe,Real Madrid,2009-2010,club
+Raul Albiol,Real Madrid,2009-2010,club
+Sergio Ramos,Real Madrid,2009-2010,club
+Lassana Diarra,Real Madrid,2009-2010,club
+Mahamadou Diarra,Real Madrid,2009-2010,club
+Fernando Gago,Real Madrid,2009-2010,club
+Granero,Real Madrid,2009-2010,club
+Guti,Real Madrid,2009-2010,club
+Kaka,Real Madrid,2009-2010,club
+Mosquera,Real Madrid,2009-2010,club
+Rafael van der Vaart,Real Madrid,2009-2010,club
+Xabi Alonso,Real Madrid,2009-2010,club
+Karim Benzema,Real Madrid,2009-2010,club
+Gonzalo Higuain,Real Madrid,2009-2010,club
+Raul,Real Madrid,2009-2010,club
+Manuel Pellegrini,Real Madrid,2009-2010,club
+Ruben Cousillas,Real Madrid,2009-2010,club
+Xabier,Real Madrid,2009-2010,club
+Adan,Real Madrid,2010-2011,club
+Jerzy Dudek,Real Madrid,2010-2011,club
+Iker Casillas,Real Madrid,2010-2011,club
+Jesus Fernandez,Real Madrid,2010-2011,club
+Mejias,Real Madrid,2010-2011,club
+Arbeloa,Real Madrid,2010-2011,club
+Ezequiel Garay,Real Madrid,2010-2011,club
+Jorge Casado,Real Madrid,2010-2011,club
+Juanfran,Real Madrid,2010-2011,club
+Marcelo,Real Madrid,2010-2011,club
+Nacho,Real Madrid,2010-2011,club
+Pepe,Real Madrid,2010-2011,club
+Raul Albiol,Real Madrid,2010-2011,club
+Ricardo Carvalho,Real Madrid,2010-2011,club
+Sergio Ramos,Real Madrid,2010-2011,club
+Alex,Real Madrid,2010-2011,club
+Canales,Real Madrid,2010-2011,club
+Angel Di Maria,Real Madrid,2010-2011,club
+Lassana Diarra,Real Madrid,2010-2011,club
+Fernando Gago,Real Madrid,2010-2011,club
+Granero,Real Madrid,2010-2011,club
+Juankar,Real Madrid,2010-2011,club
+Kaka,Real Madrid,2010-2011,club
+Sami Khedira,Real Madrid,2010-2011,club
+Mandi,Real Madrid,2010-2011,club
+Mesut Ozil,Real Madrid,2010-2011,club
+Pablo Sarabia,Real Madrid,2010-2011,club
+Pedro Leon,Real Madrid,2010-2011,club
+Xabi Alonso,Real Madrid,2010-2011,club
+Emmanuel Adebayor,Real Madrid,2010-2011,club
+Karim Benzema,Real Madrid,2010-2011,club
+Gonzalo Higuain,Real Madrid,2010-2011,club
+Joselu,Real Madrid,2010-2011,club
+Alvaro Morata,Real Madrid,2010-2011,club
+Jose Mourinho,Real Madrid,2010-2011,club
+Jose Morais,Real Madrid,2010-2011,club
+Karanka,Real Madrid,2010-2011,club
+Silvino,Real Madrid,2010-2011,club
+Adan,Real Madrid,2011-2012,club
+Iker Casillas,Real Madrid,2011-2012,club
+Jesus Fernandez,Real Madrid,2011-2012,club
+Mejias,Real Madrid,2011-2012,club
+Pacheco,Real Madrid,2011-2012,club
+Arbeloa,Real Madrid,2011-2012,club
+Fabio Coentrao,Real Madrid,2011-2012,club
+Fran,Real Madrid,2011-2012,club
+Jorge Casado,Real Madrid,2011-2012,club
+Marcelo,Real Madrid,2011-2012,club
+Nacho,Real Madrid,2011-2012,club
+Pedro Mendes,Real Madrid,2011-2012,club
+Pepe,Real Madrid,2011-2012,club
+Raul Albiol,Real Madrid,2011-2012,club
+Ricardo Carvalho,Real Madrid,2011-2012,club
+Sergio Ramos,Real Madrid,2011-2012,club
+Raphael Varane,Real Madrid,2011-2012,club
+Hamit Altintop,Real Madrid,2011-2012,club
+Angel Di Maria,Real Madrid,2011-2012,club
+Lassana Diarra,Real Madrid,2011-2012,club
+Granero,Real Madrid,2011-2012,club
+Kaka,Real Madrid,2011-2012,club
+Sami Khedira,Real Madrid,2011-2012,club
+Mesut Ozil,Real Madrid,2011-2012,club
+Nuri Sahin,Real Madrid,2011-2012,club
+Xabi Alonso,Real Madrid,2011-2012,club
+Karim Benzema,Real Madrid,2011-2012,club
+Gonzalo Higuain,Real Madrid,2011-2012,club
+Jese,Real Madrid,2011-2012,club
+Jose Callejon,Real Madrid,2011-2012,club
+Joselu,Real Madrid,2011-2012,club
+Alvaro Morata,Real Madrid,2011-2012,club
+Jose Mourinho,Real Madrid,2011-2012,club
+Jose Morais,Real Madrid,2011-2012,club
+Karanka,Real Madrid,2011-2012,club
+Silvino,Real Madrid,2011-2012,club
+Adan,Real Madrid,2012-2013,club
+Diego Lopez,Real Madrid,2012-2013,club
+Iker Casillas,Real Madrid,2012-2013,club
+Jesus Fernandez,Real Madrid,2012-2013,club
+Arbeloa,Real Madrid,2012-2013,club
+Fabinho,Real Madrid,2012-2013,club
+Fabio Coentrao,Real Madrid,2012-2013,club
+Jorge Casado,Real Madrid,2012-2013,club
+Juanfran,Real Madrid,2012-2013,club
+Llorente,Real Madrid,2012-2013,club
+Marcelo,Real Madrid,2012-2013,club
+Nacho,Real Madrid,2012-2013,club
+Pepe,Real Madrid,2012-2013,club
+Raul Albiol,Real Madrid,2012-2013,club
+Ricardo Carvalho,Real Madrid,2012-2013,club
+Sergio Ramos,Real Madrid,2012-2013,club
+Raphael Varane,Real Madrid,2012-2013,club
+Alex,Real Madrid,2012-2013,club
+Casemiro,Real Madrid,2012-2013,club
+Angel Di Maria,Real Madrid,2012-2013,club
+Michael Essien,Real Madrid,2012-2013,club
+Jose Rodriguez,Real Madrid,2012-2013,club
+Kaka,Real Madrid,2012-2013,club
+Sami Khedira,Real Madrid,2012-2013,club
+Mascarell,Real Madrid,2012-2013,club
+Luka Modric,Real Madrid,2012-2013,club
+Mesut Ozil,Real Madrid,2012-2013,club
+Xabi Alonso,Real Madrid,2012-2013,club
+Karim Benzema,Real Madrid,2012-2013,club
+Denis Cheryshev,Real Madrid,2012-2013,club
+Gonzalo Higuain,Real Madrid,2012-2013,club
+Jese,Real Madrid,2012-2013,club
+Jose Callejon,Real Madrid,2012-2013,club
+Alvaro Morata,Real Madrid,2012-2013,club
+Jose Mourinho,Real Madrid,2012-2013,club
+Jose Morais,Real Madrid,2012-2013,club
+Karanka,Real Madrid,2012-2013,club
+Silvino,Real Madrid,2012-2013,club
+Diego Lopez,Real Madrid,2013-2014,club
+Iker Casillas,Real Madrid,2013-2014,club
+Jesus Fernandez,Real Madrid,2013-2014,club
+Arbeloa,Real Madrid,2013-2014,club
+Dani Carvajal,Real Madrid,2013-2014,club
+Fabio Coentrao,Real Madrid,2013-2014,club
+Jorge Casado,Real Madrid,2013-2014,club
+Llorente,Real Madrid,2013-2014,club
+Marcelo,Real Madrid,2013-2014,club
+Nacho,Real Madrid,2013-2014,club
+Pepe,Real Madrid,2013-2014,club
+Sergio Ramos,Real Madrid,2013-2014,club
+Raphael Varane,Real Madrid,2013-2014,club
+Borja Garcia,Real Madrid,2013-2014,club
+Casemiro,Real Madrid,2013-2014,club
+Angel Di Maria,Real Madrid,2013-2014,club
+Illarra,Real Madrid,2013-2014,club
+Isco,Real Madrid,2013-2014,club
+Jose Rodriguez,Real Madrid,2013-2014,club
+Sami Khedira,Real Madrid,2013-2014,club
+Mascarell,Real Madrid,2013-2014,club
+Medran,Real Madrid,2013-2014,club
+Luka Modric,Real Madrid,2013-2014,club
+Xabi Alonso,Real Madrid,2013-2014,club
+Gareth Bale,Real Madrid,2013-2014,club
+Karim Benzema,Real Madrid,2013-2014,club
+Burgui,Real Madrid,2013-2014,club
+Jese,Real Madrid,2013-2014,club
+Lucas Vazquez,Real Madrid,2013-2014,club
+Alvaro Morata,Real Madrid,2013-2014,club
+Raul de Tomas,Real Madrid,2013-2014,club
+Willian Jose,Real Madrid,2013-2014,club
+Carlo Ancelotti,Real Madrid,2013-2014,club
+Paul Clement,Real Madrid,2013-2014,club
+Zinedine Zidane,Real Madrid,2013-2014,club
+Villiam Vecchi,Real Madrid,2013-2014,club
+Iker Casillas,Real Madrid,2014-2015,club
+Keylor Navas,Real Madrid,2014-2015,club
+Pacheco,Real Madrid,2014-2015,club
+Ruben Yanez,Real Madrid,2014-2015,club
+Abner Felipe,Real Madrid,2014-2015,club
+Arbeloa,Real Madrid,2014-2015,club
+Dani Carvajal,Real Madrid,2014-2015,club
+Derik,Real Madrid,2014-2015,club
+Fabio Coentrao,Real Madrid,2014-2015,club
+Jaime,Real Madrid,2014-2015,club
+Javi Noblejas,Real Madrid,2014-2015,club
+Marcelo,Real Madrid,2014-2015,club
+Nacho,Real Madrid,2014-2015,club
+Pepe,Real Madrid,2014-2015,club
+Sergio Ramos,Real Madrid,2014-2015,club
+Raphael Varane,Real Madrid,2014-2015,club
+Guillermo Varela,Real Madrid,2014-2015,club
+Aguza,Real Madrid,2014-2015,club
+Illarra,Real Madrid,2014-2015,club
+Isco,Real Madrid,2014-2015,club
+Javi Munoz,Real Madrid,2014-2015,club
+Sami Khedira,Real Madrid,2014-2015,club
+Toni Kroos,Real Madrid,2014-2015,club
+Lucas Silva,Real Madrid,2014-2015,club
+Lucas Torro,Real Madrid,2014-2015,club
+Marcos Llorente,Real Madrid,2014-2015,club
+Medran,Real Madrid,2014-2015,club
+Luka Modric,Real Madrid,2014-2015,club
+Martin Odegaard,Real Madrid,2014-2015,club
+James Rodriguez,Real Madrid,2014-2015,club
+Gareth Bale,Real Madrid,2014-2015,club
+Karim Benzema,Real Madrid,2014-2015,club
+Borja Mayoral,Real Madrid,2014-2015,club
+Javier Hernandez,Real Madrid,2014-2015,club
+Jese,Real Madrid,2014-2015,club
+Eero Markkanen,Real Madrid,2014-2015,club
+Raul de Tomas,Real Madrid,2014-2015,club
+Carlo Ancelotti,Real Madrid,2014-2015,club
+Hierro,Real Madrid,2014-2015,club
+Villiam Vecchi,Real Madrid,2014-2015,club
+Alex Craninx,Real Madrid,2015-2016,club
+Kiko Casilla,Real Madrid,2015-2016,club
+Keylor Navas,Real Madrid,2015-2016,club
+Ruben Yanez,Real Madrid,2015-2016,club
+Alvaro Tejero,Real Madrid,2015-2016,club
+Arbeloa,Real Madrid,2015-2016,club
+Dani Carvajal,Real Madrid,2015-2016,club
+Danilo,Real Madrid,2015-2016,club
+Philipp Lienhart,Real Madrid,2015-2016,club
+Marcelo,Real Madrid,2015-2016,club
+Nacho,Real Madrid,2015-2016,club
+Pepe,Real Madrid,2015-2016,club
+Sergio Ramos,Real Madrid,2015-2016,club
+Raphael Varane,Real Madrid,2015-2016,club
+Casemiro,Real Madrid,2015-2016,club
+Isco,Real Madrid,2015-2016,club
+Mateo Kovacic,Real Madrid,2015-2016,club
+Toni Kroos,Real Madrid,2015-2016,club
+Lazo,Real Madrid,2015-2016,club
+Marcos Llorente,Real Madrid,2015-2016,club
+Luka Modric,Real Madrid,2015-2016,club
+Martin Odegaard,Real Madrid,2015-2016,club
+James Rodriguez,Real Madrid,2015-2016,club
+Gareth Bale,Real Madrid,2015-2016,club
+Karim Benzema,Real Madrid,2015-2016,club
+Borja Mayoral,Real Madrid,2015-2016,club
+Jese,Real Madrid,2015-2016,club
+Lucas Vazquez,Real Madrid,2015-2016,club
+Zinedine Zidane,Real Madrid,2015-2016,club
+David Bettoni,Real Madrid,2015-2016,club
+Hamidou Msaidie,Real Madrid,2015-2016,club
+Lluis Llopis,Real Madrid,2015-2016,club
+Jose Carlos Parrales,Real Madrid,2015-2016,club
+Kiko Casilla,Real Madrid,2016-2017,club
+Keylor Navas,Real Madrid,2016-2017,club
+Ruben Yanez,Real Madrid,2016-2017,club
+Alvaro Tejero,Real Madrid,2016-2017,club
+Dani Carvajal,Real Madrid,2016-2017,club
+Danilo,Real Madrid,2016-2017,club
+Fabio Coentrao,Real Madrid,2016-2017,club
+Achraf Hakimi,Real Madrid,2016-2017,club
+Marcelo,Real Madrid,2016-2017,club
+Nacho,Real Madrid,2016-2017,club
+Pepe,Real Madrid,2016-2017,club
+Sergio Ramos,Real Madrid,2016-2017,club
+Raphael Varane,Real Madrid,2016-2017,club
+Casemiro,Real Madrid,2016-2017,club
+Isco,Real Madrid,2016-2017,club
+Mateo Kovacic,Real Madrid,2016-2017,club
+Toni Kroos,Real Madrid,2016-2017,club
+Marco Asensio,Real Madrid,2016-2017,club
+Luka Modric,Real Madrid,2016-2017,club
+James Rodriguez,Real Madrid,2016-2017,club
+Enzo Zidane,Real Madrid,2016-2017,club
+Gareth Bale,Real Madrid,2016-2017,club
+Karim Benzema,Real Madrid,2016-2017,club
+Lucas Vazquez,Real Madrid,2016-2017,club
+Mariano,Real Madrid,2016-2017,club
+Alvaro Morata,Real Madrid,2016-2017,club
+Zinedine Zidane,Real Madrid,2016-2017,club
+David Bettoni,Real Madrid,2016-2017,club
+Hamidou Msaidie,Real Madrid,2016-2017,club
+Lluis Llopis,Real Madrid,2016-2017,club
+Antonio Pintus,Real Madrid,2016-2017,club
+Jose Carlos Parrales,Real Madrid,2016-2017,club
+Kiko Casilla,Real Madrid,2017-2018,club
+Moha Ramos,Real Madrid,2017-2018,club
+Keylor Navas,Real Madrid,2017-2018,club
+Luca Zidane,Real Madrid,2017-2018,club
+Alvaro Tejero,Real Madrid,2017-2018,club
+Dani Carvajal,Real Madrid,2017-2018,club
+Achraf Hakimi,Real Madrid,2017-2018,club
+Theo Hernandez,Real Madrid,2017-2018,club
+Manu Hernando,Real Madrid,2017-2018,club
+Marcelo,Real Madrid,2017-2018,club
+Nacho,Real Madrid,2017-2018,club
+Quezada,Real Madrid,2017-2018,club
+Sergio Ramos,Real Madrid,2017-2018,club
+Vallejo,Real Madrid,2017-2018,club
+Raphael Varane,Real Madrid,2017-2018,club
+Casemiro,Real Madrid,2017-2018,club
+Dani Ceballos,Real Madrid,2017-2018,club
+Francisco Feuillassier,Real Madrid,2017-2018,club
+Isco,Real Madrid,2017-2018,club
+Mateo Kovacic,Real Madrid,2017-2018,club
+Toni Kroos,Real Madrid,2017-2018,club
+Marco Asensio,Real Madrid,2017-2018,club
+Marcos Llorente,Real Madrid,2017-2018,club
+Luka Modric,Real Madrid,2017-2018,club
+Oscar,Real Madrid,2017-2018,club
+Seoane,Real Madrid,2017-2018,club
+Gareth Bale,Real Madrid,2017-2018,club
+Karim Benzema,Real Madrid,2017-2018,club
+Borja Mayoral,Real Madrid,2017-2018,club
+Cristo,Real Madrid,2017-2018,club
+Lucas Vazquez,Real Madrid,2017-2018,club
+David Bettoni,Real Madrid,2017-2018,club
+Hamidou Msaidie,Real Madrid,2017-2018,club
+Lluis Llopis,Real Madrid,2017-2018,club
+Javier Mallo,Real Madrid,2017-2018,club
+Antonio Pintus,Real Madrid,2017-2018,club
+Jose Carlos Parrales,Real Madrid,2017-2018,club
+Mattia Del Favero,Juventus,2018-2019,club
+Leonardo Loria,Juventus,2018-2019,club
+Mattia Perin,Juventus,2018-2019,club
+Carlo Pinsoglio,Juventus,2018-2019,club
+Wojciech Szczesny,Juventus,2018-2019,club
+Alex Sandro,Juventus,2018-2019,club
+Andrea Barzagli,Juventus,2018-2019,club
+Leonardo Bonucci,Juventus,2018-2019,club
+Martin Caceres,Juventus,2018-2019,club
+Giorgio Chiellini,Juventus,2018-2019,club
+Luca Coccolo,Juventus,2018-2019,club
+Mattia De Sciglio,Juventus,2018-2019,club
+Paolo Gozzi,Juventus,2018-2019,club
+Joao Cancelo,Juventus,2018-2019,club
+Daniele Rugani,Juventus,2018-2019,club
+Rodrigo Bentancur,Juventus,2018-2019,club
+Emre Can,Juventus,2018-2019,club
+Paulo Dybala,Juventus,2018-2019,club
+Nicolo Fagioli,Juventus,2018-2019,club
+Grigoris Kastanos,Juventus,2018-2019,club
+Sami Khedira,Juventus,2018-2019,club
+Matheus Pereira,Juventus,2018-2019,club
+Blaise Matuidi,Juventus,2018-2019,club
+Simone Muratore,Juventus,2018-2019,club
+Miralem Pjanic,Juventus,2018-2019,club
+Manolo Portanova,Juventus,2018-2019,club
+Leonardo Spinazzola,Juventus,2018-2019,club
+Federico Bernardeschi,Juventus,2018-2019,club
+Juan Cuadrado,Juventus,2018-2019,club
+Douglas Costa,Juventus,2018-2019,club
+Moise Kean,Juventus,2018-2019,club
+Mario Mandzukic,Juventus,2018-2019,club
+Stephy Mavididi,Juventus,2018-2019,club
+Pablo Moreno,Juventus,2018-2019,club
+Massimiliano Allegri,Juventus,2018-2019,club
+Claudio Filippi,Juventus,2018-2019,club
+Gianluigi Buffon,Juventus,2019-2020,club
+Carlo Pinsoglio,Juventus,2019-2020,club
+Wojciech Szczesny,Juventus,2019-2020,club
+Alex Sandro,Juventus,2019-2020,club
+Pietro Beruatto,Juventus,2019-2020,club
+Leonardo Bonucci,Juventus,2019-2020,club
+Giorgio Chiellini,Juventus,2019-2020,club
+Luca Coccolo,Juventus,2019-2020,club
+Danilo,Juventus,2019-2020,club
+Matthijs de Ligt,Juventus,2019-2020,club
+Mattia De Sciglio,Juventus,2019-2020,club
+Merih Demiral,Juventus,2019-2020,club
+Daniele Rugani,Juventus,2019-2020,club
+Wesley,Juventus,2019-2020,club
+Rodrigo Bentancur,Juventus,2019-2020,club
+Paulo Dybala,Juventus,2019-2020,club
+Sami Khedira,Juventus,2019-2020,club
+Blaise Matuidi,Juventus,2019-2020,club
+Simone Muratore,Juventus,2019-2020,club
+Daouda Peeters,Juventus,2019-2020,club
+Miralem Pjanic,Juventus,2019-2020,club
+Manolo Portanova,Juventus,2019-2020,club
+Adrien Rabiot,Juventus,2019-2020,club
+Aaron Ramsey,Juventus,2019-2020,club
+Federico Bernardeschi,Juventus,2019-2020,club
+Juan Cuadrado,Juventus,2019-2020,club
+Douglas Costa,Juventus,2019-2020,club
+Gonzalo Higuain,Juventus,2019-2020,club
+Marco Olivieri,Juventus,2019-2020,club
+Maurizio Sarri,Juventus,2019-2020,club
+Claudio Filippi,Juventus,2019-2020,club
+Jorge Silva,Portugal,2001-2002,nation
+Nelson,Portugal,2001-2002,nation
+Quim,Portugal,2001-2002,nation
+Ricardo,Portugal,2001-2002,nation
+Vitor Baia,Portugal,2001-2002,nation
+Abel Xavier,Portugal,2001-2002,nation
+Beto,Portugal,2001-2002,nation
+Dimas,Portugal,2001-2002,nation
+Fernando Couto,Portugal,2001-2002,nation
+Fernando Meira,Portugal,2001-2002,nation
+Frechaut,Portugal,2001-2002,nation
+Joao Pinto,Portugal,2001-2002,nation
+Jorge Andrade,Portugal,2001-2002,nation
+Jorge Costa,Portugal,2001-2002,nation
+Jorge Ribeiro,Portugal,2001-2002,nation
+Marco Caneira,Portugal,2001-2002,nation
+Mario Silva,Portugal,2001-2002,nation
+Nuno Valente,Portugal,2001-2002,nation
+Paulo Ferreira,Portugal,2001-2002,nation
+Ricardo Rocha,Portugal,2001-2002,nation
+Rui Jorge,Portugal,2001-2002,nation
+Bino,Portugal,2001-2002,nation
+Boa Morte,Portugal,2001-2002,nation
+Costinha,Portugal,2001-2002,nation
+Hugo Viana,Portugal,2001-2002,nation
+Luis Figo,Portugal,2001-2002,nation
+Marco Ferreira,Portugal,2001-2002,nation
+Neca,Portugal,2001-2002,nation
+Nuno Assis,Portugal,2001-2002,nation
+Paulo Bento,Portugal,2001-2002,nation
+Paulo Sousa,Portugal,2001-2002,nation
+Pedro Barbosa,Portugal,2001-2002,nation
+Pedro Mendes,Portugal,2001-2002,nation
+Petit,Portugal,2001-2002,nation
+Rui Costa,Portugal,2001-2002,nation
+Sergio Conceicao,Portugal,2001-2002,nation
+Simao,Portugal,2001-2002,nation
+Tiago,Portugal,2001-2002,nation
+Vidigal,Portugal,2001-2002,nation
+Capucho,Portugal,2001-2002,nation
+Joao Vieira Pinto,Portugal,2001-2002,nation
+Nuno Gomes,Portugal,2001-2002,nation
+Pauleta,Portugal,2001-2002,nation
+Romeu,Portugal,2001-2002,nation
+Agostinho Oliveira,Portugal,2001-2002,nation
+Oliveira,Portugal,2001-2002,nation
+Bruno Vale,Portugal,2002-2003,nation
+Quim,Portugal,2002-2003,nation
+Ricardo,Portugal,2002-2003,nation
+Beto,Portugal,2002-2003,nation
+Fernando Couto,Portugal,2002-2003,nation
+Fernando Meira,Portugal,2002-2003,nation
+Frechaut,Portugal,2002-2003,nation
+Jorge Andrade,Portugal,2002-2003,nation
+Marco Caneira,Portugal,2002-2003,nation
+Miguel,Portugal,2002-2003,nation
+Nuno Valente,Portugal,2002-2003,nation
+Paulo Ferreira,Portugal,2002-2003,nation
+Ricardo Carvalho,Portugal,2002-2003,nation
+Ricardo Rocha,Portugal,2002-2003,nation
+Rogerio Matias,Portugal,2002-2003,nation
+Rui Jorge,Portugal,2002-2003,nation
+Boa Morte,Portugal,2002-2003,nation
+Costinha,Portugal,2002-2003,nation
+Deco,Portugal,2002-2003,nation
+Hugo Viana,Portugal,2002-2003,nation
+Luis Figo,Portugal,2002-2003,nation
+Luis Loureiro,Portugal,2002-2003,nation
+Maniche,Portugal,2002-2003,nation
+Pedro Mendes,Portugal,2002-2003,nation
+Rui Costa,Portugal,2002-2003,nation
+Sergio Conceicao,Portugal,2002-2003,nation
+Silas,Portugal,2002-2003,nation
+Tiago,Portugal,2002-2003,nation
+Helder Postiga,Portugal,2002-2003,nation
+Nuno Gomes,Portugal,2002-2003,nation
+Pauleta,Portugal,2002-2003,nation
+Ricardo Quaresma,Portugal,2002-2003,nation
+Simao,Portugal,2002-2003,nation
+Luiz Felipe Scolari,Portugal,2002-2003,nation
+Quim,Portugal,2003-2004,nation
+Ricardo,Portugal,2003-2004,nation
+Beto,Portugal,2003-2004,nation
+Fernando Couto,Portugal,2003-2004,nation
+Fernando Meira,Portugal,2003-2004,nation
+Frechaut,Portugal,2003-2004,nation
+Jorge Andrade,Portugal,2003-2004,nation
+Miguel,Portugal,2003-2004,nation
+Nuno Valente,Portugal,2003-2004,nation
+Paulo Ferreira,Portugal,2003-2004,nation
+Ricardo Carvalho,Portugal,2003-2004,nation
+Rui Jorge,Portugal,2003-2004,nation
+Boa Morte,Portugal,2003-2004,nation
+Costinha,Portugal,2003-2004,nation
+Deco,Portugal,2003-2004,nation
+Hugo Viana,Portugal,2003-2004,nation
+Luis Figo,Portugal,2003-2004,nation
+Maniche,Portugal,2003-2004,nation
+Petit,Portugal,2003-2004,nation
+Rui Costa,Portugal,2003-2004,nation
+Tiago,Portugal,2003-2004,nation
+Helder Postiga,Portugal,2003-2004,nation
+Hugo Almeida,Portugal,2003-2004,nation
+Nuno Gomes,Portugal,2003-2004,nation
+Pauleta,Portugal,2003-2004,nation
+Simao,Portugal,2003-2004,nation
+Luiz Felipe Scolari,Portugal,2003-2004,nation
+Paulo Santos,Portugal,2004-2005,nation
+Quim,Portugal,2004-2005,nation
+Ricardo,Portugal,2004-2005,nation
+Fernando Meira,Portugal,2004-2005,nation
+Frechaut,Portugal,2004-2005,nation
+Jorge Andrade,Portugal,2004-2005,nation
+Jorge Ribeiro,Portugal,2004-2005,nation
+Marco Caneira,Portugal,2004-2005,nation
+Miguel,Portugal,2004-2005,nation
+Nuno Valente,Portugal,2004-2005,nation
+Paulo Ferreira,Portugal,2004-2005,nation
+Ricardo Carvalho,Portugal,2004-2005,nation
+Ricardo Costa,Portugal,2004-2005,nation
+Rogerio Matias,Portugal,2004-2005,nation
+Alex,Portugal,2004-2005,nation
+Boa Morte,Portugal,2004-2005,nation
+Costinha,Portugal,2004-2005,nation
+Deco,Portugal,2004-2005,nation
+Hugo Viana,Portugal,2004-2005,nation
+Joao Alves,Portugal,2004-2005,nation
+Joao Moutinho,Portugal,2004-2005,nation
+Luis Figo,Portugal,2004-2005,nation
+Maniche,Portugal,2004-2005,nation
+Manuel Fernandes,Portugal,2004-2005,nation
+Petit,Portugal,2004-2005,nation
+Tiago,Portugal,2004-2005,nation
+Helder Postiga,Portugal,2004-2005,nation
+Nuno Gomes,Portugal,2004-2005,nation
+Pauleta,Portugal,2004-2005,nation
+Ricardo Quaresma,Portugal,2004-2005,nation
+Simao,Portugal,2004-2005,nation
+Luiz Felipe Scolari,Portugal,2004-2005,nation
+Quim,Portugal,2005-2006,nation
+Ricardo,Portugal,2005-2006,nation
+Fernando Meira,Portugal,2005-2006,nation
+Jorge Andrade,Portugal,2005-2006,nation
+Marco Caneira,Portugal,2005-2006,nation
+Miguel,Portugal,2005-2006,nation
+Nuno Valente,Portugal,2005-2006,nation
+Paulo Ferreira,Portugal,2005-2006,nation
+Ricardo Carvalho,Portugal,2005-2006,nation
+Ricardo Costa,Portugal,2005-2006,nation
+Ricardo Rocha,Portugal,2005-2006,nation
+Boa Morte,Portugal,2005-2006,nation
+Carlos Martins,Portugal,2005-2006,nation
+Costinha,Portugal,2005-2006,nation
+Deco,Portugal,2005-2006,nation
+Hugo Viana,Portugal,2005-2006,nation
+Joao Moutinho,Portugal,2005-2006,nation
+Luis Figo,Portugal,2005-2006,nation
+Maniche,Portugal,2005-2006,nation
+Petit,Portugal,2005-2006,nation
+Tiago,Portugal,2005-2006,nation
+Helder Postiga,Portugal,2005-2006,nation
+Hugo Almeida,Portugal,2005-2006,nation
+Nani,Portugal,2005-2006,nation
+Nuno Gomes,Portugal,2005-2006,nation
+Pauleta,Portugal,2005-2006,nation
+Ricardo Quaresma,Portugal,2005-2006,nation
+Simao,Portugal,2005-2006,nation
+Luiz Felipe Scolari,Portugal,2005-2006,nation
+Daniel Fernandes,Portugal,2006-2007,nation
+Quim,Portugal,2006-2007,nation
+Ricardo,Portugal,2006-2007,nation
+Antunes,Portugal,2006-2007,nation
+Bosingwa,Portugal,2006-2007,nation
+Bruno Alves,Portugal,2006-2007,nation
+Fernando Meira,Portugal,2006-2007,nation
+Jorge Andrade,Portugal,2006-2007,nation
+Manuel Da Costa,Portugal,2006-2007,nation
+Marco Caneira,Portugal,2006-2007,nation
+Miguel,Portugal,2006-2007,nation
+Paulo Ferreira,Portugal,2006-2007,nation
+Ricardo Carvalho,Portugal,2006-2007,nation
+Deco,Portugal,2006-2007,nation
+Duda,Portugal,2006-2007,nation
+Hugo Viana,Portugal,2006-2007,nation
+Joao Moutinho,Portugal,2006-2007,nation
+Petit,Portugal,2006-2007,nation
+Raul Meireles,Portugal,2006-2007,nation
+Tiago,Portugal,2006-2007,nation
+Helder Postiga,Portugal,2006-2007,nation
+Joao Tomas,Portugal,2006-2007,nation
+Nani,Portugal,2006-2007,nation
+Nuno Gomes,Portugal,2006-2007,nation
+Ricardo Quaresma,Portugal,2006-2007,nation
+Simao,Portugal,2006-2007,nation
+Luiz Felipe Scolari,Portugal,2006-2007,nation
+Quim,Portugal,2007-2008,nation
+Ricardo,Portugal,2007-2008,nation
+Rui Patricio,Portugal,2007-2008,nation
+Antunes,Portugal,2007-2008,nation
+Bosingwa,Portugal,2007-2008,nation
+Bruno Alves,Portugal,2007-2008,nation
+Fernando Meira,Portugal,2007-2008,nation
+Jorge Ribeiro,Portugal,2007-2008,nation
+Marco Caneira,Portugal,2007-2008,nation
+Miguel,Portugal,2007-2008,nation
+Miguel Veloso,Portugal,2007-2008,nation
+Paulo Ferreira,Portugal,2007-2008,nation
+Pepe,Portugal,2007-2008,nation
+Ricardo Carvalho,Portugal,2007-2008,nation
+Carlos Martins,Portugal,2007-2008,nation
+Cesar Peixoto,Portugal,2007-2008,nation
+Deco,Portugal,2007-2008,nation
+Duda,Portugal,2007-2008,nation
+Joao Moutinho,Portugal,2007-2008,nation
+Maniche,Portugal,2007-2008,nation
+Manuel Fernandes,Portugal,2007-2008,nation
+Petit,Portugal,2007-2008,nation
+Raul Meireles,Portugal,2007-2008,nation
+Tiago,Portugal,2007-2008,nation
+Danny,Portugal,2007-2008,nation
+Helder Postiga,Portugal,2007-2008,nation
+Hugo Almeida,Portugal,2007-2008,nation
+Ariza Makukula,Portugal,2007-2008,nation
+Nani,Portugal,2007-2008,nation
+Nuno Gomes,Portugal,2007-2008,nation
+Ricardo Quaresma,Portugal,2007-2008,nation
+Simao,Portugal,2007-2008,nation
+Carlos Queiroz,Portugal,2007-2008,nation
+Luiz Felipe Scolari,Portugal,2007-2008,nation
+Beto,Portugal,2008-2009,nation
+Daniel Fernandes,Portugal,2008-2009,nation
+Eduardo,Portugal,2008-2009,nation
+Moreira,Portugal,2008-2009,nation
+Bosingwa,Portugal,2008-2009,nation
+Brandao,Portugal,2008-2009,nation
+Bruno Alves,Portugal,2008-2009,nation
+Eliseu,Portugal,2008-2009,nation
+Miguel,Portugal,2008-2009,nation
+Nelson,Portugal,2008-2009,nation
+Paulo Ferreira,Portugal,2008-2009,nation
+Pepe,Portugal,2008-2009,nation
+Ricardo Carvalho,Portugal,2008-2009,nation
+Rolando,Portugal,2008-2009,nation
+Ze Castro,Portugal,2008-2009,nation
+Boa Morte,Portugal,2008-2009,nation
+Deco,Portugal,2008-2009,nation
+Duda,Portugal,2008-2009,nation
+Joao Moutinho,Portugal,2008-2009,nation
+Maniche,Portugal,2008-2009,nation
+Raul Meireles,Portugal,2008-2009,nation
+Tiago,Portugal,2008-2009,nation
+Danny,Portugal,2008-2009,nation
+Edinho,Portugal,2008-2009,nation
+Hugo Almeida,Portugal,2008-2009,nation
+Nani,Portugal,2008-2009,nation
+Orlando Sa,Portugal,2008-2009,nation
+Simao,Portugal,2008-2009,nation
+Carlos Queiroz,Portugal,2008-2009,nation
+Beto,Portugal,2009-2010,nation
+Daniel Fernandes,Portugal,2009-2010,nation
+Eduardo,Portugal,2009-2010,nation
+Hilario,Portugal,2009-2010,nation
+Rui Patricio,Portugal,2009-2010,nation
+Bosingwa,Portugal,2009-2010,nation
+Bruno Alves,Portugal,2009-2010,nation
+Joao Pereira,Portugal,2009-2010,nation
+Miguel,Portugal,2009-2010,nation
+Paulo Ferreira,Portugal,2009-2010,nation
+Pepe,Portugal,2009-2010,nation
+Ricardo Carvalho,Portugal,2009-2010,nation
+Ricardo Costa,Portugal,2009-2010,nation
+Rolando,Portugal,2009-2010,nation
+Tonel,Portugal,2009-2010,nation
+Ze Castro,Portugal,2009-2010,nation
+Carlos Martins,Portugal,2009-2010,nation
+Deco,Portugal,2009-2010,nation
+Duda,Portugal,2009-2010,nation
+Fabio Coentrao,Portugal,2009-2010,nation
+Joao Moutinho,Portugal,2009-2010,nation
+Manuel Fernandes,Portugal,2009-2010,nation
+Miguel Veloso,Portugal,2009-2010,nation
+Paulo Machado,Portugal,2009-2010,nation
+Pedro Mendes,Portugal,2009-2010,nation
+Raul Meireles,Portugal,2009-2010,nation
+Tiago,Portugal,2009-2010,nation
+Danny,Portugal,2009-2010,nation
+Helder Postiga,Portugal,2009-2010,nation
+Hugo Almeida,Portugal,2009-2010,nation
+Liedson,Portugal,2009-2010,nation
+Nani,Portugal,2009-2010,nation
+Simao,Portugal,2009-2010,nation
+Varela,Portugal,2009-2010,nation
+Paulo Bento,Portugal,2009-2010,nation
+Carlos Queiroz,Portugal,2009-2010,nation
+Eduardo,Portugal,2010-2011,nation
+Quim,Portugal,2010-2011,nation
+Rui Patricio,Portugal,2010-2011,nation
+Ventura,Portugal,2010-2011,nation
+Bosingwa,Portugal,2010-2011,nation
+Bruno Alves,Portugal,2010-2011,nation
+Joao Pereira,Portugal,2010-2011,nation
+Nelson,Portugal,2010-2011,nation
+Pepe,Portugal,2010-2011,nation
+Ricardo Carvalho,Portugal,2010-2011,nation
+Rolando,Portugal,2010-2011,nation
+Silvio,Portugal,2010-2011,nation
+Andre Santos,Portugal,2010-2011,nation
+Carlos Martins,Portugal,2010-2011,nation
+Castro,Portugal,2010-2011,nation
+Fabio Coentrao,Portugal,2010-2011,nation
+Joao Moutinho,Portugal,2010-2011,nation
+Miguel Veloso,Portugal,2010-2011,nation
+Paulo Machado,Portugal,2010-2011,nation
+Raul Meireles,Portugal,2010-2011,nation
+Ruben Micael,Portugal,2010-2011,nation
+Danny,Portugal,2010-2011,nation
+Helder Postiga,Portugal,2010-2011,nation
+Hugo Almeida,Portugal,2010-2011,nation
+Nani,Portugal,2010-2011,nation
+Nuno Gomes,Portugal,2010-2011,nation
+Ricardo Quaresma,Portugal,2010-2011,nation
+Varela,Portugal,2010-2011,nation
+Paulo Bento,Portugal,2010-2011,nation
+Beto,Portugal,2011-2012,nation
+Eduardo,Portugal,2011-2012,nation
+Rui Patricio,Portugal,2011-2012,nation
+Bruno Alves,Portugal,2011-2012,nation
+Joao Pereira,Portugal,2011-2012,nation
+Miguel Lopes,Portugal,2011-2012,nation
+Nelson,Portugal,2011-2012,nation
+Pepe,Portugal,2011-2012,nation
+Ricardo Costa,Portugal,2011-2012,nation
+Rolando,Portugal,2011-2012,nation
+Silvio,Portugal,2011-2012,nation
+Carlos Martins,Portugal,2011-2012,nation
+Custodio,Portugal,2011-2012,nation
+Fabio Coentrao,Portugal,2011-2012,nation
+Helder Barbosa,Portugal,2011-2012,nation
+Hugo Viana,Portugal,2011-2012,nation
+Joao Moutinho,Portugal,2011-2012,nation
+Manuel Fernandes,Portugal,2011-2012,nation
+Miguel Veloso,Portugal,2011-2012,nation
+Paulo Machado,Portugal,2011-2012,nation
+Raul Meireles,Portugal,2011-2012,nation
+Ruben Amorim,Portugal,2011-2012,nation
+Ruben Micael,Portugal,2011-2012,nation
+Eder,Portugal,2011-2012,nation
+Helder Postiga,Portugal,2011-2012,nation
+Hugo Almeida,Portugal,2011-2012,nation
+Nani,Portugal,2011-2012,nation
+Nelson Oliveira,Portugal,2011-2012,nation
+Pizzi,Portugal,2011-2012,nation
+Ricardo Quaresma,Portugal,2011-2012,nation
+Varela,Portugal,2011-2012,nation
+Paulo Bento,Portugal,2011-2012,nation
+Anthony Lopes,Portugal,2012-2013,nation
+Beto,Portugal,2012-2013,nation
+Eduardo,Portugal,2012-2013,nation
+Rui Patricio,Portugal,2012-2013,nation
+Antunes,Portugal,2012-2013,nation
+Bruno Alves,Portugal,2012-2013,nation
+Joao Pereira,Portugal,2012-2013,nation
+Neto,Portugal,2012-2013,nation
+Pepe,Portugal,2012-2013,nation
+Ricardo Costa,Portugal,2012-2013,nation
+Sereno,Portugal,2012-2013,nation
+Silvio,Portugal,2012-2013,nation
+Vieirinha,Portugal,2012-2013,nation
+Adrien Silva,Portugal,2012-2013,nation
+Andre Gomes,Portugal,2012-2013,nation
+Andre Martins,Portugal,2012-2013,nation
+Custodio,Portugal,2012-2013,nation
+Fabio Coentrao,Portugal,2012-2013,nation
+Joao Moutinho,Portugal,2012-2013,nation
+Josue,Portugal,2012-2013,nation
+Miguel Veloso,Portugal,2012-2013,nation
+Paulo Machado,Portugal,2012-2013,nation
+Raul Meireles,Portugal,2012-2013,nation
+Ruben Amorim,Portugal,2012-2013,nation
+Ruben Micael,Portugal,2012-2013,nation
+Bruno Gama,Portugal,2012-2013,nation
+Danny,Portugal,2012-2013,nation
+Eder,Portugal,2012-2013,nation
+Helder Postiga,Portugal,2012-2013,nation
+Hugo Almeida,Portugal,2012-2013,nation
+Lica,Portugal,2012-2013,nation
+Nani,Portugal,2012-2013,nation
+Nelson Oliveira,Portugal,2012-2013,nation
+Pizzi,Portugal,2012-2013,nation
+Varela,Portugal,2012-2013,nation
+Paulo Bento,Portugal,2012-2013,nation
+Anthony Lopes,Portugal,2013-2014,nation
+Beto,Portugal,2013-2014,nation
+Eduardo,Portugal,2013-2014,nation
+Rui Patricio,Portugal,2013-2014,nation
+Andre Almeida,Portugal,2013-2014,nation
+Antunes,Portugal,2013-2014,nation
+Bosingwa,Portugal,2013-2014,nation
+Bruno Alves,Portugal,2013-2014,nation
+Cedric Soares,Portugal,2013-2014,nation
+Eliseu,Portugal,2013-2014,nation
+Ivo Pinto,Portugal,2013-2014,nation
+Joao Pereira,Portugal,2013-2014,nation
+Jose Fonte,Portugal,2013-2014,nation
+Miguel Lopes,Portugal,2013-2014,nation
+Neto,Portugal,2013-2014,nation
+Pepe,Portugal,2013-2014,nation
+Raphael Guerreiro,Portugal,2013-2014,nation
+Ricardo Carvalho,Portugal,2013-2014,nation
+Ricardo Costa,Portugal,2013-2014,nation
+Rolando,Portugal,2013-2014,nation
+Tiago,Portugal,2013-2014,nation
+Vieirinha,Portugal,2013-2014,nation
+Adrien Silva,Portugal,2013-2014,nation
+Andre Gomes,Portugal,2013-2014,nation
+Fabio Coentrao,Portugal,2013-2014,nation
+Joao Mario,Portugal,2013-2014,nation
+Joao Moutinho,Portugal,2013-2014,nation
+Josue,Portugal,2013-2014,nation
+Miguel Veloso,Portugal,2013-2014,nation
+Raul Meireles,Portugal,2013-2014,nation
+Ruben Amorim,Portugal,2013-2014,nation
+William Carvalho,Portugal,2013-2014,nation
+Danny,Portugal,2013-2014,nation
+Eder,Portugal,2013-2014,nation
+Edinho,Portugal,2013-2014,nation
+Helder Postiga,Portugal,2013-2014,nation
+Hugo Almeida,Portugal,2013-2014,nation
+Ivan Cavaleiro,Portugal,2013-2014,nation
+Nani,Portugal,2013-2014,nation
+Rafa Silva,Portugal,2013-2014,nation
+Ricardo Quaresma,Portugal,2013-2014,nation
+Varela,Portugal,2013-2014,nation
+Fernando Santos,Portugal,2013-2014,nation
+Paulo Bento,Portugal,2013-2014,nation
+Anthony Lopes,Portugal,2014-2015,nation
+Beto,Portugal,2014-2015,nation
+Eduardo,Portugal,2014-2015,nation
+Marafona,Portugal,2014-2015,nation
+Rui Patricio,Portugal,2014-2015,nation
+Ventura,Portugal,2014-2015,nation
+Andre Almeida,Portugal,2014-2015,nation
+Andre Pinto,Portugal,2014-2015,nation
+Antunes,Portugal,2014-2015,nation
+Bosingwa,Portugal,2014-2015,nation
+Bruno Alves,Portugal,2014-2015,nation
+Cedric Soares,Portugal,2014-2015,nation
+Daniel Carrico,Portugal,2014-2015,nation
+Eliseu,Portugal,2014-2015,nation
+Jose Fonte,Portugal,2014-2015,nation
+Neto,Portugal,2014-2015,nation
+Paulo Oliveira,Portugal,2014-2015,nation
+Pepe,Portugal,2014-2015,nation
+Raphael Guerreiro,Portugal,2014-2015,nation
+Ricardo Carvalho,Portugal,2014-2015,nation
+Tiago Pinto,Portugal,2014-2015,nation
+Vieirinha,Portugal,2014-2015,nation
+Adrien Silva,Portugal,2014-2015,nation
+Andre Andre,Portugal,2014-2015,nation
+Andre Gomes,Portugal,2014-2015,nation
+Bernardo Silva,Portugal,2014-2015,nation
+Danilo,Portugal,2014-2015,nation
+Fabio Coentrao,Portugal,2014-2015,nation
+Joao Mario,Portugal,2014-2015,nation
+Joao Moutinho,Portugal,2014-2015,nation
+Miguel Veloso,Portugal,2014-2015,nation
+Ricardo Pereira,Portugal,2014-2015,nation
+Ruben Neves,Portugal,2014-2015,nation
+Tiago,Portugal,2014-2015,nation
+William Carvalho,Portugal,2014-2015,nation
+Danny,Portugal,2014-2015,nation
+Eder,Portugal,2014-2015,nation
+Goncalo Guedes,Portugal,2014-2015,nation
+Hugo Almeida,Portugal,2014-2015,nation
+Ivan Cavaleiro,Portugal,2014-2015,nation
+Lucas Joao,Portugal,2014-2015,nation
+Nani,Portugal,2014-2015,nation
+Nelson Oliveira,Portugal,2014-2015,nation
+Pizzi,Portugal,2014-2015,nation
+Rafa Silva,Portugal,2014-2015,nation
+Ricardo Quaresma,Portugal,2014-2015,nation
+Rui Fonte,Portugal,2014-2015,nation
+Ukra,Portugal,2014-2015,nation
+Varela,Portugal,2014-2015,nation
+Fernando Santos,Portugal,2014-2015,nation
+Anthony Lopes,Portugal,2015-2016,nation
+Eduardo,Portugal,2015-2016,nation
+Rui Patricio,Portugal,2015-2016,nation
+Bruno Alves,Portugal,2015-2016,nation
+Cedric Soares,Portugal,2015-2016,nation
+Eliseu,Portugal,2015-2016,nation
+Joao Cancelo,Portugal,2015-2016,nation
+Jose Fonte,Portugal,2015-2016,nation
+Neto,Portugal,2015-2016,nation
+Pepe,Portugal,2015-2016,nation
+Raphael Guerreiro,Portugal,2015-2016,nation
+Ricardo Carvalho,Portugal,2015-2016,nation
+Vieirinha,Portugal,2015-2016,nation
+Adrien Silva,Portugal,2015-2016,nation
+Andre Gomes,Portugal,2015-2016,nation
+Bernardo Silva,Portugal,2015-2016,nation
+Danilo,Portugal,2015-2016,nation
+Joao Mario,Portugal,2015-2016,nation
+Joao Moutinho,Portugal,2015-2016,nation
+Renato Sanches,Portugal,2015-2016,nation
+William Carvalho,Portugal,2015-2016,nation
+Andre Silva,Portugal,2015-2016,nation
+Danny,Portugal,2015-2016,nation
+Eder,Portugal,2015-2016,nation
+Nani,Portugal,2015-2016,nation
+Rafa Silva,Portugal,2015-2016,nation
+Ricardo Quaresma,Portugal,2015-2016,nation
+Fernando Santos,Portugal,2015-2016,nation
+Anthony Lopes,Portugal,2016-2017,nation
+Beto,Portugal,2016-2017,nation
+Bruno Varela,Portugal,2016-2017,nation
+Jose Sa,Portugal,2016-2017,nation
+Marafona,Portugal,2016-2017,nation
+Rui Patricio,Portugal,2016-2017,nation
+Antunes,Portugal,2016-2017,nation
+Bruno Alves,Portugal,2016-2017,nation
+Cedric Soares,Portugal,2016-2017,nation
+Edgar Ie,Portugal,2016-2017,nation
+Eliseu,Portugal,2016-2017,nation
+Joao Cancelo,Portugal,2016-2017,nation
+Jose Fonte,Portugal,2016-2017,nation
+Nelson Semedo,Portugal,2016-2017,nation
+Neto,Portugal,2016-2017,nation
+Pepe,Portugal,2016-2017,nation
+Raphael Guerreiro,Portugal,2016-2017,nation
+Ricardo Ferreira,Portugal,2016-2017,nation
+Ricardo Pereira,Portugal,2016-2017,nation
+Adrien Silva,Portugal,2016-2017,nation
+Andre Gomes,Portugal,2016-2017,nation
+Bernardo Silva,Portugal,2016-2017,nation
+Bruma,Portugal,2016-2017,nation
+Bruno Fernandes,Portugal,2016-2017,nation
+Danilo,Portugal,2016-2017,nation
+Joao Mario,Portugal,2016-2017,nation
+Joao Moutinho,Portugal,2016-2017,nation
+Manuel Fernandes,Portugal,2016-2017,nation
+Renato Sanches,Portugal,2016-2017,nation
+Kevin Rodrigues,Portugal,2016-2017,nation
+Rony Lopes,Portugal,2016-2017,nation
+Ruben Neves,Portugal,2016-2017,nation
+William Carvalho,Portugal,2016-2017,nation
+Andre Silva,Portugal,2016-2017,nation
+Eder,Portugal,2016-2017,nation
+Gelson Martins,Portugal,2016-2017,nation
+Goncalo Guedes,Portugal,2016-2017,nation
+Goncalo Paciencia,Portugal,2016-2017,nation
+Nani,Portugal,2016-2017,nation
+Pizzi,Portugal,2016-2017,nation
+Ricardo Quaresma,Portugal,2016-2017,nation
+Fernando Santos,Portugal,2016-2017,nation
+Anthony Lopes,Portugal,2017-2018,nation
+Beto,Portugal,2017-2018,nation
+Claudio Ramos,Portugal,2017-2018,nation
+Rui Patricio,Portugal,2017-2018,nation
+Bruno Alves,Portugal,2017-2018,nation
+Cedric Soares,Portugal,2017-2018,nation
+Joao Cancelo,Portugal,2017-2018,nation
+Jose Fonte,Portugal,2017-2018,nation
+Mario Rui,Portugal,2017-2018,nation
+Neto,Portugal,2017-2018,nation
+Pedro Mendes,Portugal,2017-2018,nation
+Pepe,Portugal,2017-2018,nation
+Raphael Guerreiro,Portugal,2017-2018,nation
+Ricardo Pereira,Portugal,2017-2018,nation
+Rolando,Portugal,2017-2018,nation
+Ruben Dias,Portugal,2017-2018,nation
+Adrien Silva,Portugal,2017-2018,nation
+Andre Gomes,Portugal,2017-2018,nation
+Bernardo Silva,Portugal,2017-2018,nation
+Bruma,Portugal,2017-2018,nation
+Bruno Fernandes,Portugal,2017-2018,nation
+Danilo,Portugal,2017-2018,nation
+Gedson Fernandes,Portugal,2017-2018,nation
+Joao Mario,Portugal,2017-2018,nation
+Joao Moutinho,Portugal,2017-2018,nation
+Manuel Fernandes,Portugal,2017-2018,nation
+Renato Sanches,Portugal,2017-2018,nation
+Kevin Rodrigues,Portugal,2017-2018,nation
+Rony Lopes,Portugal,2017-2018,nation
+Ruben Neves,Portugal,2017-2018,nation
+Sergio Oliveira,Portugal,2017-2018,nation
+William Carvalho,Portugal,2017-2018,nation
+Andre Silva,Portugal,2017-2018,nation
+Eder,Portugal,2017-2018,nation
+Gelson Martins,Portugal,2017-2018,nation
+Goncalo Guedes,Portugal,2017-2018,nation
+Helder Costa,Portugal,2017-2018,nation
+Pizzi,Portugal,2017-2018,nation
+Rafa Silva,Portugal,2017-2018,nation
+Ricardo Quaresma,Portugal,2017-2018,nation
+Fernando Santos,Portugal,2017-2018,nation

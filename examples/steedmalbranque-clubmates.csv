@@ -1,475 +1,1379 @@
-player,team,season
-Gregory Coupet,Olympique Lyon,1997-1998
-Jean-Claude Nadon,Olympique Lyon,1997-1998
-Sebastien Socie,Olympique Lyon,1997-1998
-Ghislain Anselmini,Olympique Lyon,1997-1998
-Jacek Bak,Olympique Lyon,1997-1998
-Olivier Bellisi,Olympique Lyon,1997-1998
-Patrice Carteron,Olympique Lyon,1997-1998
-Johann Charpenet,Olympique Lyon,1997-1998
-Christophe Delmotte,Olympique Lyon,1997-1998
-Jean-Christophe Devaux,Olympique Lyon,1997-1998
-Hubert Fournier,Olympique Lyon,1997-1998
-Florent Laville,Olympique Lyon,1997-1998
-Laurent Morestin,Olympique Lyon,1997-1998
-Cedric Uras,Olympique Lyon,1997-1998
-Christian Bassila,Olympique Lyon,1997-1998
-Daniel Bravo,Olympique Lyon,1997-1998
-Christophe Cocard,Olympique Lyon,1997-1998
-Laurent Courtois,Olympique Lyon,1997-1998
-David Linares,Olympique Lyon,1997-1998
-Steed Malbranque,Olympique Lyon,1997-1998
-Reynald Pedros,Olympique Lyon,1997-1998
-Stephane Roche,Olympique Lyon,1997-1998
-M'Saddek Senoussi,Olympique Lyon,1997-1998
-Philippe Violeau,Olympique Lyon,1997-1998
-Cedric Bardon,Olympique Lyon,1997-1998
-Alain Caveglia,Olympique Lyon,1997-1998
-Frederic Fouret,Olympique Lyon,1997-1998
-Joseph-Desire Job,Olympique Lyon,1997-1998
-Frederic Kanoute,Olympique Lyon,1997-1998
-Bernard Lacombe,Olympique Lyon,1997-1998
-Robert Duverne,Olympique Lyon,1997-1998
-Gregory Coupet,Olympique Lyon,1998-1999
-Sebastien Socie,Olympique Lyon,1998-1999
-Jacek Bak,Olympique Lyon,1998-1999
-Olivier Bernard,Olympique Lyon,1998-1999
-Serge Blanc,Olympique Lyon,1998-1999
-Jeremie Brechet,Olympique Lyon,1998-1999
-Patrice Carteron,Olympique Lyon,1998-1999
-Christophe Delmotte,Olympique Lyon,1998-1999
-Jean-Christophe Devaux,Olympique Lyon,1998-1999
-Hubert Fournier,Olympique Lyon,1998-1999
-Florent Laville,Olympique Lyon,1998-1999
-Frederic Ribeiro,Olympique Lyon,1998-1999
-Cedric Uras,Olympique Lyon,1998-1999
-Christian Bassila,Olympique Lyon,1998-1999
-Anthony Braizat,Olympique Lyon,1998-1999
-Christophe Cocard,Olympique Lyon,1998-1999
-Vikash Dhorasoo,Olympique Lyon,1998-1999
-David Hellebuyck,Olympique Lyon,1998-1999
-David Linares,Olympique Lyon,1998-1999
-Steed Malbranque,Olympique Lyon,1998-1999
-Patrice Ouerdi,Olympique Lyon,1998-1999
-Philippe Violeau,Olympique Lyon,1998-1999
-Alain Caveglia,Olympique Lyon,1998-1999
-Marco Grassi,Olympique Lyon,1998-1999
-Joseph-Desire Job,Olympique Lyon,1998-1999
-Frederic Kanoute,Olympique Lyon,1998-1999
-Bernard Lacombe,Olympique Lyon,1998-1999
-Robert Duverne,Olympique Lyon,1998-1999
-Gregory Coupet,Olympique Lyon,1999-2000
-Angelo Hugues,Olympique Lyon,1999-2000
-Sebastien Socie,Olympique Lyon,1999-2000
-Jacek Bak,Olympique Lyon,1999-2000
-Olivier Bernard,Olympique Lyon,1999-2000
-Serge Blanc,Olympique Lyon,1999-2000
-Jeremie Brechet,Olympique Lyon,1999-2000
-Patrice Carteron,Olympique Lyon,1999-2000
-Christophe Delmotte,Olympique Lyon,1999-2000
-Hubert Fournier,Olympique Lyon,1999-2000
-Florent Laville,Olympique Lyon,1999-2000
-Frederic Ribeiro,Olympique Lyon,1999-2000
-Cedric Uras,Olympique Lyon,1999-2000
-Florent Balmont,Olympique Lyon,1999-2000
-Vikash Dhorasoo,Olympique Lyon,1999-2000
-Pierre Laigle,Olympique Lyon,1999-2000
-David Linares,Olympique Lyon,1999-2000
-Steed Malbranque,Olympique Lyon,1999-2000
-Patrice Ouerdi,Olympique Lyon,1999-2000
-Philippe Violeau,Olympique Lyon,1999-2000
-Sidney Govou,Olympique Lyon,1999-2000
-Sonny Anderson,Olympique Lyon,1999-2000
-Tony Vairelles,Olympique Lyon,1999-2000
-Julien Viale,Olympique Lyon,1999-2000
-Roland Vieira,Olympique Lyon,1999-2000
-Bernard Lacombe,Olympique Lyon,1999-2000
-Robert Duverne,Olympique Lyon,1999-2000
-Gregory Coupet,Olympique Lyon,2000-2001
-Angelo Hugues,Olympique Lyon,2000-2001
-Nicolas Puydebois,Olympique Lyon,2000-2001
-Jacek Bak,Olympique Lyon,2000-2001
-Serge Blanc,Olympique Lyon,2000-2001
-Jeremie Brechet,Olympique Lyon,2000-2001
-Cacapa,Olympique Lyon,2000-2001
-Jean-Marc Chanelet,Olympique Lyon,2000-2001
-Eric Deflandre,Olympique Lyon,2000-2001
-Christophe Delmotte,Olympique Lyon,2000-2001
-Edmilson,Olympique Lyon,2000-2001
-Florent Laville,Olympique Lyon,2000-2001
-Patrick Muller,Olympique Lyon,2000-2001
-Frederic Ribeiro,Olympique Lyon,2000-2001
-Florent Balmont,Olympique Lyon,2000-2001
-Vikash Dhorasoo,Olympique Lyon,2000-2001
-Marc-Vivien Foe,Olympique Lyon,2000-2001
-Guillaume Lacour,Olympique Lyon,2000-2001
-Pierre Laigle,Olympique Lyon,2000-2001
-David Linares,Olympique Lyon,2000-2001
-Steed Malbranque,Olympique Lyon,2000-2001
-Patrice Ouerdi,Olympique Lyon,2000-2001
-Philippe Violeau,Olympique Lyon,2000-2001
-Sidney Govou,Olympique Lyon,2000-2001
-Patrice Loko,Olympique Lyon,2000-2001
-Steve Marlet,Olympique Lyon,2000-2001
-Sonny Anderson,Olympique Lyon,2000-2001
-Julien Viale,Olympique Lyon,2000-2001
-Jacques Santini,Olympique Lyon,2000-2001
-Joel Bats,Olympique Lyon,2000-2001
-Robert Duverne,Olympique Lyon,2000-2001
-Maik Taylor,Fulham FC,2001-2002
-Glyn Thompson,Fulham FC,2001-2002
-Edwin van der Sar,Fulham FC,2001-2002
-Rufus Brevett,Fulham FC,2001-2002
-Chris Coleman,Fulham FC,2001-2002
-Steve Finnan,Fulham FC,2001-2002
-Alain Goma,Fulham FC,2001-2002
-Mark Hudson,Fulham FC,2001-2002
-Thomas Hutchinson,Fulham FC,2001-2002
-Zat Knight,Fulham FC,2001-2002
-Dean Leacock,Fulham FC,2001-2002
-Kieran McAnespie,Fulham FC,2001-2002
-Andy Melville,Fulham FC,2001-2002
-Abdeslam Ouaddou,Fulham FC,2001-2002
-Boa Morte,Fulham FC,2001-2002
-Lee Clark,Fulham FC,2001-2002
-John Collins,Fulham FC,2001-2002
-Sean Davis,Fulham FC,2001-2002
-Bjarne Goldbaek,Fulham FC,2001-2002
-Jon Harley,Fulham FC,2001-2002
-Sylvain Legwinski,Fulham FC,2001-2002
-Eddie Lewis,Fulham FC,2001-2002
-Steed Malbranque,Fulham FC,2001-2002
-Luke Cornwall,Fulham FC,2001-2002
-Barry Hayles,Fulham FC,2001-2002
-Steve Marlet,Fulham FC,2001-2002
-Louis Saha,Fulham FC,2001-2002
-Andrejs Stolcers,Fulham FC,2001-2002
-Callum Willock,Fulham FC,2001-2002
-Jean Tigana,Fulham FC,2001-2002
-Gerry Peyton,Fulham FC,2001-2002
-Martin Herrera,Fulham FC,2002-2003
-Maik Taylor,Fulham FC,2002-2003
-Edwin van der Sar,Fulham FC,2002-2003
-Martin Djetou,Fulham FC,2002-2003
-Steve Finnan,Fulham FC,2002-2003
-Alain Goma,Fulham FC,2002-2003
-Mark Hudson,Fulham FC,2002-2003
-Zat Knight,Fulham FC,2002-2003
-Dean Leacock,Fulham FC,2002-2003
-Andy Melville,Fulham FC,2002-2003
-Abdeslam Ouaddou,Fulham FC,2002-2003
-Pierre Wome,Fulham FC,2002-2003
-Boa Morte,Fulham FC,2002-2003
-Lee Clark,Fulham FC,2002-2003
-John Collins,Fulham FC,2002-2003
-Sean Davis,Fulham FC,2002-2003
-Bjarne Goldbaek,Fulham FC,2002-2003
-Jon Harley,Fulham FC,2002-2003
-Junichi Inamoto,Fulham FC,2002-2003
-Sylvain Legwinski,Fulham FC,2002-2003
-Steed Malbranque,Fulham FC,2002-2003
-Luke Cornwall,Fulham FC,2002-2003
-Elvis Hammond,Fulham FC,2002-2003
-Barry Hayles,Fulham FC,2002-2003
-Steve Marlet,Fulham FC,2002-2003
-Louis Saha,Fulham FC,2002-2003
-Facundo Sava,Fulham FC,2002-2003
-Andrejs Stolcers,Fulham FC,2002-2003
-Callum Willock,Fulham FC,2002-2003
-Chris Coleman,Fulham FC,2002-2003
-Gerry Peyton,Fulham FC,2002-2003
-Dave Beasant,Fulham FC,2003-2004
-Mark Crossley,Fulham FC,2003-2004
-Edwin van der Sar,Fulham FC,2003-2004
-Carlos Bocanegra,Fulham FC,2003-2004
-Jerome Bonnissel,Fulham FC,2003-2004
-Martin Djetou,Fulham FC,2003-2004
-Alain Goma,Fulham FC,2003-2004
-Adam Green,Fulham FC,2003-2004
-Zat Knight,Fulham FC,2003-2004
-Alex Lawless,Fulham FC,2003-2004
-Dean Leacock,Fulham FC,2003-2004
-Ian Pearce,Fulham FC,2003-2004
-Moritz Volz,Fulham FC,2003-2004
-Boa Morte,Fulham FC,2003-2004
-Malik Buari,Fulham FC,2003-2004
-Lee Clark,Fulham FC,2003-2004
-Sean Davis,Fulham FC,2003-2004
-Tom Davis,Fulham FC,2003-2004
-Jon Harley,Fulham FC,2003-2004
-Junichi Inamoto,Fulham FC,2003-2004
-Sylvain Legwinski,Fulham FC,2003-2004
-Steed Malbranque,Fulham FC,2003-2004
-Mark Pembridge,Fulham FC,2003-2004
-Bobby Petta,Fulham FC,2003-2004
-Darren Pratley,Fulham FC,2003-2004
-Zeshan Rehman,Fulham FC,2003-2004
-Elvis Hammond,Fulham FC,2003-2004
-Barry Hayles,Fulham FC,2003-2004
-Collins John,Fulham FC,2003-2004
-Brian McBride,Fulham FC,2003-2004
-Facundo Sava,Fulham FC,2003-2004
-Andrejs Stolcers,Fulham FC,2003-2004
-Chris Coleman,Fulham FC,2003-2004
-Mark Crossley,Fulham FC,2004-2005
-Ross Flitney,Fulham FC,2004-2005
-Edwin van der Sar,Fulham FC,2004-2005
-Carlos Bocanegra,Fulham FC,2004-2005
-Jerome Bonnissel,Fulham FC,2004-2005
-Alain Goma,Fulham FC,2004-2005
-Adam Green,Fulham FC,2004-2005
-Zat Knight,Fulham FC,2004-2005
-Alex Lawless,Fulham FC,2004-2005
-Dean Leacock,Fulham FC,2004-2005
-Ian Pearce,Fulham FC,2004-2005
-Liam Rosenior,Fulham FC,2004-2005
-Moritz Volz,Fulham FC,2004-2005
-Robert Watkins,Fulham FC,2004-2005
-Boa Morte,Fulham FC,2004-2005
-Malik Buari,Fulham FC,2004-2005
-Lee Clark,Fulham FC,2004-2005
-Papa Bouba Diop,Fulham FC,2004-2005
-Sean Doherty,Fulham FC,2004-2005
-Liam Fontaine,Fulham FC,2004-2005
-Claus Jensen,Fulham FC,2004-2005
-Sylvain Legwinski,Fulham FC,2004-2005
-Steed Malbranque,Fulham FC,2004-2005
-Billy McKinlay,Fulham FC,2004-2005
-Mark Pembridge,Fulham FC,2004-2005
-Darren Pratley,Fulham FC,2004-2005
-Zeshan Rehman,Fulham FC,2004-2005
-Michael Timlin,Fulham FC,2004-2005
-Andy Cole,Fulham FC,2004-2005
-Ismael Ehui,Fulham FC,2004-2005
-Collins John,Fulham FC,2004-2005
-Brian McBride,Fulham FC,2004-2005
-Tomasz Radzinski,Fulham FC,2004-2005
-Chris Coleman,Fulham FC,2004-2005
-Mark Crossley,Fulham FC,2005-2006
-Antti Niemi,Fulham FC,2005-2006
-Tony Warner,Fulham FC,2005-2006
-Carlos Bocanegra,Fulham FC,2005-2006
-Philippe Christanval,Fulham FC,2005-2006
-Alain Goma,Fulham FC,2005-2006
-Adam Green,Fulham FC,2005-2006
-Niclas Jensen,Fulham FC,2005-2006
-Zat Knight,Fulham FC,2005-2006
-Dean Leacock,Fulham FC,2005-2006
-Robert Milsom,Fulham FC,2005-2006
-Ian Pearce,Fulham FC,2005-2006
-Liam Rosenior,Fulham FC,2005-2006
-Moritz Volz,Fulham FC,2005-2006
-Boa Morte,Fulham FC,2005-2006
-Michael Brown,Fulham FC,2005-2006
-Jimmy Bullard,Fulham FC,2005-2006
-Papa Bouba Diop,Fulham FC,2005-2006
-Simon Elliott,Fulham FC,2005-2006
-Ahmad Elrich,Fulham FC,2005-2006
-Claus Jensen,Fulham FC,2005-2006
-Sylvain Legwinski,Fulham FC,2005-2006
-Steed Malbranque,Fulham FC,2005-2006
-Neale McDermott,Fulham FC,2005-2006
-Mark Pembridge,Fulham FC,2005-2006
-Zeshan Rehman,Fulham FC,2005-2006
-Heidar Helguson,Fulham FC,2005-2006
-Collins John,Fulham FC,2005-2006
-Brian McBride,Fulham FC,2005-2006
-Tomasz Radzinski,Fulham FC,2005-2006
-Chris Coleman,Fulham FC,2005-2006
-Ben Alnwick,Tottenham Hotspur,2006-2007
-Rob Burch,Tottenham Hotspur,2006-2007
-Radek Cerny,Tottenham Hotspur,2006-2007
-Paul Robinson,Tottenham Hotspur,2006-2007
-Benoit Assou-Ekotto,Tottenham Hotspur,2006-2007
-Pascal Chimbonda,Tottenham Hotspur,2006-2007
-Michael Dawson,Tottenham Hotspur,2006-2007
-Dorian Dervite,Tottenham Hotspur,2006-2007
-Anthony Gardner,Tottenham Hotspur,2006-2007
-Phil Ifil,Tottenham Hotspur,2006-2007
-Ledley King,Tottenham Hotspur,2006-2007
-Charlie Lee,Tottenham Hotspur,2006-2007
-Young-Pyo Lee,Tottenham Hotspur,2006-2007
-Ricardo Rocha,Tottenham Hotspur,2006-2007
-Hossam Ghaly,Tottenham Hotspur,2006-2007
-Tom Huddlestone,Tottenham Hotspur,2006-2007
-Jermaine Jenas,Tottenham Hotspur,2006-2007
-Aaron Lennon,Tottenham Hotspur,2006-2007
-Steed Malbranque,Tottenham Hotspur,2006-2007
-Danny Murphy,Tottenham Hotspur,2006-2007
-Paul Stalteri,Tottenham Hotspur,2006-2007
-Adel Taarabt,Tottenham Hotspur,2006-2007
-Teemu Tainio,Tottenham Hotspur,2006-2007
-Didier Zokora,Tottenham Hotspur,2006-2007
-Andy Barcham,Tottenham Hotspur,2006-2007
-Lee Barnard,Tottenham Hotspur,2006-2007
-Dimitar Berbatov,Tottenham Hotspur,2006-2007
-Jermain Defoe,Tottenham Hotspur,2006-2007
-Robbie Keane,Tottenham Hotspur,2006-2007
-Mido,Tottenham Hotspur,2006-2007
-Mark Yeates,Tottenham Hotspur,2006-2007
-Martin Jol,Tottenham Hotspur,2006-2007
-Ricardo Moniz,Tottenham Hotspur,2006-2007
-Radek Cerny,Tottenham Hotspur,2007-2008
-Tommy Forecast,Tottenham Hotspur,2007-2008
-Paul Robinson,Tottenham Hotspur,2007-2008
-Benoit Assou-Ekotto,Tottenham Hotspur,2007-2008
-Gareth Bale,Tottenham Hotspur,2007-2008
-Pascal Chimbonda,Tottenham Hotspur,2007-2008
-Michael Dawson,Tottenham Hotspur,2007-2008
-Dorian Dervite,Tottenham Hotspur,2007-2008
-Chris Gunter,Tottenham Hotspur,2007-2008
-Alan Hutton,Tottenham Hotspur,2007-2008
-Younes Kaboul,Tottenham Hotspur,2007-2008
-Ledley King,Tottenham Hotspur,2007-2008
-Young-Pyo Lee,Tottenham Hotspur,2007-2008
-Ricardo Rocha,Tottenham Hotspur,2007-2008
-Danny Rose,Tottenham Hotspur,2007-2008
-Jonathan Woodgate,Tottenham Hotspur,2007-2008
-Kevin-Prince Boateng,Tottenham Hotspur,2007-2008
-Gilberto,Tottenham Hotspur,2007-2008
-Tom Huddlestone,Tottenham Hotspur,2007-2008
-David Hutton,Tottenham Hotspur,2007-2008
-Jermaine Jenas,Tottenham Hotspur,2007-2008
-Aaron Lennon,Tottenham Hotspur,2007-2008
-Steed Malbranque,Tottenham Hotspur,2007-2008
-Jamie O'Hara,Tottenham Hotspur,2007-2008
-Adel Taarabt,Tottenham Hotspur,2007-2008
-Teemu Tainio,Tottenham Hotspur,2007-2008
-Didier Zokora,Tottenham Hotspur,2007-2008
-Darren Bent,Tottenham Hotspur,2007-2008
-Dimitar Berbatov,Tottenham Hotspur,2007-2008
-Robbie Keane,Tottenham Hotspur,2007-2008
-Juande Ramos,Tottenham Hotspur,2007-2008
-Ricardo Moniz,Tottenham Hotspur,2007-2008
-Gustavo Poyet,Tottenham Hotspur,2007-2008
-Hans Leitert,Tottenham Hotspur,2007-2008
-Anton McElhone,Tottenham Hotspur,2007-2008
-Trevor Carson,Sunderland AFC,2008-2009
-Nick Colgan,Sunderland AFC,2008-2009
-Marton Fulop,Sunderland AFC,2008-2009
-Craig Gordon,Sunderland AFC,2008-2009
-Phil Bardsley,Sunderland AFC,2008-2009
-Tal Ben Haim,Sunderland AFC,2008-2009
-Danny Collins,Sunderland AFC,2008-2009
-Calum Davenport,Sunderland AFC,2008-2009
-Anton Ferdinand,Sunderland AFC,2008-2009
-Peter Hartley,Sunderland AFC,2008-2009
-Michael Kay,Sunderland AFC,2008-2009
-Michael Liddle,Sunderland AFC,2008-2009
-Jean-Yves M'voto,Sunderland AFC,2008-2009
-George McCartney,Sunderland AFC,2008-2009
-Paul McShane,Sunderland AFC,2008-2009
-Nayron Nosworthy,Sunderland AFC,2008-2009
-Carlos Edwards,Sunderland AFC,2008-2009
-Jordan Henderson,Sunderland AFC,2008-2009
-Grant Leadbitter,Sunderland AFC,2008-2009
-Nathan Luscombe,Sunderland AFC,2008-2009
-Steed Malbranque,Sunderland AFC,2008-2009
-Liam Miller,Sunderland AFC,2008-2009
-Andy Reid,Sunderland AFC,2008-2009
-Kieran Richardson,Sunderland AFC,2008-2009
-Teemu Tainio,Sunderland AFC,2008-2009
-Dean Whitehead,Sunderland AFC,2008-2009
-Djibril Cisse,Sunderland AFC,2008-2009
-Jordan Cook,Sunderland AFC,2008-2009
-David Dowson,Sunderland AFC,2008-2009
-David Healy,Sunderland AFC,2008-2009
-Kenwyne Jones,Sunderland AFC,2008-2009
-Daryl Murphy,Sunderland AFC,2008-2009
-Martyn Waghorn,Sunderland AFC,2008-2009
-Dwight Yorke,Sunderland AFC,2008-2009
-Trevor Carson,Sunderland AFC,2009-2010
-Craig Gordon,Sunderland AFC,2009-2010
-Phil Bardsley,Sunderland AFC,2009-2010
-Paulo da Silva,Sunderland AFC,2009-2010
-Anton Ferdinand,Sunderland AFC,2009-2010
-Alan Hutton,Sunderland AFC,2009-2010
-Matt Kilgallon,Sunderland AFC,2009-2010
-Michael Liddle,Sunderland AFC,2009-2010
-George McCartney,Sunderland AFC,2009-2010
-John Mensah,Sunderland AFC,2009-2010
-Michael Turner,Sunderland AFC,2009-2010
-Lorik Cana,Sunderland AFC,2009-2010
-Lee Cattermole,Sunderland AFC,2009-2010
-Jack Colback,Sunderland AFC,2009-2010
-Jordan Henderson,Sunderland AFC,2009-2010
-Conor Hourihane,Sunderland AFC,2009-2010
-Steed Malbranque,Sunderland AFC,2009-2010
-David Meyler,Sunderland AFC,2009-2010
-Andy Reid,Sunderland AFC,2009-2010
-Kieran Richardson,Sunderland AFC,2009-2010
-Boudewijn Zenden,Sunderland AFC,2009-2010
-Benjani,Sunderland AFC,2009-2010
-Darren Bent,Sunderland AFC,2009-2010
-Fraizer Campbell,Sunderland AFC,2009-2010
-Jordan Cook,Sunderland AFC,2009-2010
-Kenwyne Jones,Sunderland AFC,2009-2010
-Ryan Noble,Sunderland AFC,2009-2010
-Steve Bruce,Sunderland AFC,2009-2010
-Trevor Carson,Sunderland AFC,2010-2011
-Craig Gordon,Sunderland AFC,2010-2011
-Simon Mignolet,Sunderland AFC,2010-2011
-Blair Adams,Sunderland AFC,2010-2011
-Marcos Angeleri,Sunderland AFC,2010-2011
-Phil Bardsley,Sunderland AFC,2010-2011
-Titus Bramble,Sunderland AFC,2010-2011
-Ahmed El Mohamady,Sunderland AFC,2010-2011
-Anton Ferdinand,Sunderland AFC,2010-2011
-Louis Laing,Sunderland AFC,2010-2011
-John Mensah,Sunderland AFC,2010-2011
-Nedum Onuoha,Sunderland AFC,2010-2011
-Michael Turner,Sunderland AFC,2010-2011
-Lee Cattermole,Sunderland AFC,2010-2011
-Jack Colback,Sunderland AFC,2010-2011
-Jordan Henderson,Sunderland AFC,2010-2011
-Billy Knott,Sunderland AFC,2010-2011
-Steed Malbranque,Sunderland AFC,2010-2011
-David Meyler,Sunderland AFC,2010-2011
-Sulley Ali Muntari,Sunderland AFC,2010-2011
-Adam Reed,Sunderland AFC,2010-2011
-Kieran Richardson,Sunderland AFC,2010-2011
-Cristian Riveros,Sunderland AFC,2010-2011
-Stephane Sessegnon,Sunderland AFC,2010-2011
-Boudewijn Zenden,Sunderland AFC,2010-2011
-Fraizer Campbell,Sunderland AFC,2010-2011
-Jordan Cook,Sunderland AFC,2010-2011
-Asamoah Gyan,Sunderland AFC,2010-2011
-Craig Lynch,Sunderland AFC,2010-2011
-Ryan Noble,Sunderland AFC,2010-2011
-Danny Welbeck,Sunderland AFC,2010-2011
-Steve Bruce,Sunderland AFC,2010-2011
-Louis Deschateaux,SM Caen,2016-2017
-Matthieu Dreyer,SM Caen,2016-2017
-Paul Reulet,SM Caen,2016-2017
-Remy Vercoutre,SM Caen,2016-2017
-Chaker Alhadhur,SM Caen,2016-2017
-Syam Ben Youssef,SM Caen,2016-2017
-Damien Da Silva,SM Caen,2016-2017
-Mouhamadou Dabo,SM Caen,2016-2017
-Romain Genevois,SM Caen,2016-2017
-Frederic Guilbert,SM Caen,2016-2017
-Emmanuel Imorou,SM Caen,2016-2017
-Alaeddine Yahia,SM Caen,2016-2017
-Jordan Adeoti,SM Caen,2016-2017
-Durel Avounou,SM Caen,2016-2017
-Vincent Bessat,SM Caen,2016-2017
-Jonathan Delaplace,SM Caen,2016-2017
-Ismael Diomande,SM Caen,2016-2017
-Julien Feret,SM Caen,2016-2017
-Jordan Leborgne,SM Caen,2016-2017
-Jean-Victor Makengo,SM Caen,2016-2017
-Steed Malbranque,SM Caen,2016-2017
-Nicolas Seube,SM Caen,2016-2017
-Valentin Voisin,SM Caen,2016-2017
-Herve Bazile,SM Caen,2016-2017
-Yann Karamoh,SM Caen,2016-2017
-Jeff Louis,SM Caen,2016-2017
-Exauce Ngassaki Ndongo,SM Caen,2016-2017
-Christopher Operi,SM Caen,2016-2017
-Ronny Rodelin,SM Caen,2016-2017
-Pape Sane,SM Caen,2016-2017
-Ivan Santini,SM Caen,2016-2017
-Jordan Tell,SM Caen,2016-2017
-Patrice Garande,SM Caen,2016-2017
-Jean-Marie Huriez,SM Caen,2016-2017
-Frederic Petereyns,SM Caen,2016-2017
+player,team,season,type
+Gregory Coupet,Olympique Lyon,1997-1998,club
+Jean-Claude Nadon,Olympique Lyon,1997-1998,club
+Sebastien Socie,Olympique Lyon,1997-1998,club
+Ghislain Anselmini,Olympique Lyon,1997-1998,club
+Jacek Bak,Olympique Lyon,1997-1998,club
+Olivier Bellisi,Olympique Lyon,1997-1998,club
+Patrice Carteron,Olympique Lyon,1997-1998,club
+Johann Charpenet,Olympique Lyon,1997-1998,club
+Christophe Delmotte,Olympique Lyon,1997-1998,club
+Jean-Christophe Devaux,Olympique Lyon,1997-1998,club
+Hubert Fournier,Olympique Lyon,1997-1998,club
+Florent Laville,Olympique Lyon,1997-1998,club
+Laurent Morestin,Olympique Lyon,1997-1998,club
+Cedric Uras,Olympique Lyon,1997-1998,club
+Christian Bassila,Olympique Lyon,1997-1998,club
+Daniel Bravo,Olympique Lyon,1997-1998,club
+Christophe Cocard,Olympique Lyon,1997-1998,club
+Laurent Courtois,Olympique Lyon,1997-1998,club
+David Linares,Olympique Lyon,1997-1998,club
+Reynald Pedros,Olympique Lyon,1997-1998,club
+Stephane Roche,Olympique Lyon,1997-1998,club
+M'Saddek Senoussi,Olympique Lyon,1997-1998,club
+Philippe Violeau,Olympique Lyon,1997-1998,club
+Cedric Bardon,Olympique Lyon,1997-1998,club
+Alain Caveglia,Olympique Lyon,1997-1998,club
+Frederic Fouret,Olympique Lyon,1997-1998,club
+Joseph-Desire Job,Olympique Lyon,1997-1998,club
+Frederic Kanoute,Olympique Lyon,1997-1998,club
+Bernard Lacombe,Olympique Lyon,1997-1998,club
+Robert Duverne,Olympique Lyon,1997-1998,club
+Gregory Coupet,Olympique Lyon,1998-1999,club
+Sebastien Socie,Olympique Lyon,1998-1999,club
+Jacek Bak,Olympique Lyon,1998-1999,club
+Olivier Bernard,Olympique Lyon,1998-1999,club
+Serge Blanc,Olympique Lyon,1998-1999,club
+Jeremie Brechet,Olympique Lyon,1998-1999,club
+Patrice Carteron,Olympique Lyon,1998-1999,club
+Christophe Delmotte,Olympique Lyon,1998-1999,club
+Jean-Christophe Devaux,Olympique Lyon,1998-1999,club
+Hubert Fournier,Olympique Lyon,1998-1999,club
+Florent Laville,Olympique Lyon,1998-1999,club
+Frederic Ribeiro,Olympique Lyon,1998-1999,club
+Cedric Uras,Olympique Lyon,1998-1999,club
+Christian Bassila,Olympique Lyon,1998-1999,club
+Anthony Braizat,Olympique Lyon,1998-1999,club
+Christophe Cocard,Olympique Lyon,1998-1999,club
+Vikash Dhorasoo,Olympique Lyon,1998-1999,club
+David Hellebuyck,Olympique Lyon,1998-1999,club
+David Linares,Olympique Lyon,1998-1999,club
+Patrice Ouerdi,Olympique Lyon,1998-1999,club
+Philippe Violeau,Olympique Lyon,1998-1999,club
+Alain Caveglia,Olympique Lyon,1998-1999,club
+Marco Grassi,Olympique Lyon,1998-1999,club
+Joseph-Desire Job,Olympique Lyon,1998-1999,club
+Frederic Kanoute,Olympique Lyon,1998-1999,club
+Bernard Lacombe,Olympique Lyon,1998-1999,club
+Robert Duverne,Olympique Lyon,1998-1999,club
+Gregory Coupet,Olympique Lyon,1999-2000,club
+Angelo Hugues,Olympique Lyon,1999-2000,club
+Sebastien Socie,Olympique Lyon,1999-2000,club
+Jacek Bak,Olympique Lyon,1999-2000,club
+Olivier Bernard,Olympique Lyon,1999-2000,club
+Serge Blanc,Olympique Lyon,1999-2000,club
+Jeremie Brechet,Olympique Lyon,1999-2000,club
+Patrice Carteron,Olympique Lyon,1999-2000,club
+Christophe Delmotte,Olympique Lyon,1999-2000,club
+Hubert Fournier,Olympique Lyon,1999-2000,club
+Florent Laville,Olympique Lyon,1999-2000,club
+Frederic Ribeiro,Olympique Lyon,1999-2000,club
+Cedric Uras,Olympique Lyon,1999-2000,club
+Florent Balmont,Olympique Lyon,1999-2000,club
+Vikash Dhorasoo,Olympique Lyon,1999-2000,club
+Pierre Laigle,Olympique Lyon,1999-2000,club
+David Linares,Olympique Lyon,1999-2000,club
+Patrice Ouerdi,Olympique Lyon,1999-2000,club
+Philippe Violeau,Olympique Lyon,1999-2000,club
+Sidney Govou,Olympique Lyon,1999-2000,club
+Sonny Anderson,Olympique Lyon,1999-2000,club
+Tony Vairelles,Olympique Lyon,1999-2000,club
+Julien Viale,Olympique Lyon,1999-2000,club
+Roland Vieira,Olympique Lyon,1999-2000,club
+Bernard Lacombe,Olympique Lyon,1999-2000,club
+Robert Duverne,Olympique Lyon,1999-2000,club
+Gregory Coupet,Olympique Lyon,2000-2001,club
+Angelo Hugues,Olympique Lyon,2000-2001,club
+Nicolas Puydebois,Olympique Lyon,2000-2001,club
+Jacek Bak,Olympique Lyon,2000-2001,club
+Serge Blanc,Olympique Lyon,2000-2001,club
+Jeremie Brechet,Olympique Lyon,2000-2001,club
+Cacapa,Olympique Lyon,2000-2001,club
+Jean-Marc Chanelet,Olympique Lyon,2000-2001,club
+Eric Deflandre,Olympique Lyon,2000-2001,club
+Christophe Delmotte,Olympique Lyon,2000-2001,club
+Edmilson,Olympique Lyon,2000-2001,club
+Florent Laville,Olympique Lyon,2000-2001,club
+Patrick Muller,Olympique Lyon,2000-2001,club
+Frederic Ribeiro,Olympique Lyon,2000-2001,club
+Florent Balmont,Olympique Lyon,2000-2001,club
+Vikash Dhorasoo,Olympique Lyon,2000-2001,club
+Marc-Vivien Foe,Olympique Lyon,2000-2001,club
+Guillaume Lacour,Olympique Lyon,2000-2001,club
+Pierre Laigle,Olympique Lyon,2000-2001,club
+David Linares,Olympique Lyon,2000-2001,club
+Patrice Ouerdi,Olympique Lyon,2000-2001,club
+Philippe Violeau,Olympique Lyon,2000-2001,club
+Sidney Govou,Olympique Lyon,2000-2001,club
+Patrice Loko,Olympique Lyon,2000-2001,club
+Steve Marlet,Olympique Lyon,2000-2001,club
+Sonny Anderson,Olympique Lyon,2000-2001,club
+Julien Viale,Olympique Lyon,2000-2001,club
+Jacques Santini,Olympique Lyon,2000-2001,club
+Joel Bats,Olympique Lyon,2000-2001,club
+Robert Duverne,Olympique Lyon,2000-2001,club
+Maik Taylor,Fulham FC,2001-2002,club
+Glyn Thompson,Fulham FC,2001-2002,club
+Edwin van der Sar,Fulham FC,2001-2002,club
+Rufus Brevett,Fulham FC,2001-2002,club
+Chris Coleman,Fulham FC,2001-2002,club
+Steve Finnan,Fulham FC,2001-2002,club
+Alain Goma,Fulham FC,2001-2002,club
+Mark Hudson,Fulham FC,2001-2002,club
+Thomas Hutchinson,Fulham FC,2001-2002,club
+Zat Knight,Fulham FC,2001-2002,club
+Dean Leacock,Fulham FC,2001-2002,club
+Kieran McAnespie,Fulham FC,2001-2002,club
+Andy Melville,Fulham FC,2001-2002,club
+Abdeslam Ouaddou,Fulham FC,2001-2002,club
+Boa Morte,Fulham FC,2001-2002,club
+Lee Clark,Fulham FC,2001-2002,club
+John Collins,Fulham FC,2001-2002,club
+Sean Davis,Fulham FC,2001-2002,club
+Bjarne Goldbaek,Fulham FC,2001-2002,club
+Jon Harley,Fulham FC,2001-2002,club
+Sylvain Legwinski,Fulham FC,2001-2002,club
+Eddie Lewis,Fulham FC,2001-2002,club
+Luke Cornwall,Fulham FC,2001-2002,club
+Barry Hayles,Fulham FC,2001-2002,club
+Steve Marlet,Fulham FC,2001-2002,club
+Louis Saha,Fulham FC,2001-2002,club
+Andrejs Stolcers,Fulham FC,2001-2002,club
+Callum Willock,Fulham FC,2001-2002,club
+Jean Tigana,Fulham FC,2001-2002,club
+Gerry Peyton,Fulham FC,2001-2002,club
+Martin Herrera,Fulham FC,2002-2003,club
+Maik Taylor,Fulham FC,2002-2003,club
+Edwin van der Sar,Fulham FC,2002-2003,club
+Martin Djetou,Fulham FC,2002-2003,club
+Steve Finnan,Fulham FC,2002-2003,club
+Alain Goma,Fulham FC,2002-2003,club
+Mark Hudson,Fulham FC,2002-2003,club
+Zat Knight,Fulham FC,2002-2003,club
+Dean Leacock,Fulham FC,2002-2003,club
+Andy Melville,Fulham FC,2002-2003,club
+Abdeslam Ouaddou,Fulham FC,2002-2003,club
+Pierre Wome,Fulham FC,2002-2003,club
+Boa Morte,Fulham FC,2002-2003,club
+Lee Clark,Fulham FC,2002-2003,club
+John Collins,Fulham FC,2002-2003,club
+Sean Davis,Fulham FC,2002-2003,club
+Bjarne Goldbaek,Fulham FC,2002-2003,club
+Jon Harley,Fulham FC,2002-2003,club
+Junichi Inamoto,Fulham FC,2002-2003,club
+Sylvain Legwinski,Fulham FC,2002-2003,club
+Luke Cornwall,Fulham FC,2002-2003,club
+Elvis Hammond,Fulham FC,2002-2003,club
+Barry Hayles,Fulham FC,2002-2003,club
+Steve Marlet,Fulham FC,2002-2003,club
+Louis Saha,Fulham FC,2002-2003,club
+Facundo Sava,Fulham FC,2002-2003,club
+Andrejs Stolcers,Fulham FC,2002-2003,club
+Callum Willock,Fulham FC,2002-2003,club
+Chris Coleman,Fulham FC,2002-2003,club
+Gerry Peyton,Fulham FC,2002-2003,club
+Dave Beasant,Fulham FC,2003-2004,club
+Mark Crossley,Fulham FC,2003-2004,club
+Edwin van der Sar,Fulham FC,2003-2004,club
+Carlos Bocanegra,Fulham FC,2003-2004,club
+Jerome Bonnissel,Fulham FC,2003-2004,club
+Martin Djetou,Fulham FC,2003-2004,club
+Alain Goma,Fulham FC,2003-2004,club
+Adam Green,Fulham FC,2003-2004,club
+Zat Knight,Fulham FC,2003-2004,club
+Alex Lawless,Fulham FC,2003-2004,club
+Dean Leacock,Fulham FC,2003-2004,club
+Ian Pearce,Fulham FC,2003-2004,club
+Moritz Volz,Fulham FC,2003-2004,club
+Boa Morte,Fulham FC,2003-2004,club
+Malik Buari,Fulham FC,2003-2004,club
+Lee Clark,Fulham FC,2003-2004,club
+Sean Davis,Fulham FC,2003-2004,club
+Tom Davis,Fulham FC,2003-2004,club
+Jon Harley,Fulham FC,2003-2004,club
+Junichi Inamoto,Fulham FC,2003-2004,club
+Sylvain Legwinski,Fulham FC,2003-2004,club
+Mark Pembridge,Fulham FC,2003-2004,club
+Bobby Petta,Fulham FC,2003-2004,club
+Darren Pratley,Fulham FC,2003-2004,club
+Zeshan Rehman,Fulham FC,2003-2004,club
+Elvis Hammond,Fulham FC,2003-2004,club
+Barry Hayles,Fulham FC,2003-2004,club
+Collins John,Fulham FC,2003-2004,club
+Brian McBride,Fulham FC,2003-2004,club
+Facundo Sava,Fulham FC,2003-2004,club
+Andrejs Stolcers,Fulham FC,2003-2004,club
+Chris Coleman,Fulham FC,2003-2004,club
+Mark Crossley,Fulham FC,2004-2005,club
+Ross Flitney,Fulham FC,2004-2005,club
+Edwin van der Sar,Fulham FC,2004-2005,club
+Carlos Bocanegra,Fulham FC,2004-2005,club
+Jerome Bonnissel,Fulham FC,2004-2005,club
+Alain Goma,Fulham FC,2004-2005,club
+Adam Green,Fulham FC,2004-2005,club
+Zat Knight,Fulham FC,2004-2005,club
+Alex Lawless,Fulham FC,2004-2005,club
+Dean Leacock,Fulham FC,2004-2005,club
+Ian Pearce,Fulham FC,2004-2005,club
+Liam Rosenior,Fulham FC,2004-2005,club
+Moritz Volz,Fulham FC,2004-2005,club
+Robert Watkins,Fulham FC,2004-2005,club
+Boa Morte,Fulham FC,2004-2005,club
+Malik Buari,Fulham FC,2004-2005,club
+Lee Clark,Fulham FC,2004-2005,club
+Papa Bouba Diop,Fulham FC,2004-2005,club
+Sean Doherty,Fulham FC,2004-2005,club
+Liam Fontaine,Fulham FC,2004-2005,club
+Claus Jensen,Fulham FC,2004-2005,club
+Sylvain Legwinski,Fulham FC,2004-2005,club
+Billy McKinlay,Fulham FC,2004-2005,club
+Mark Pembridge,Fulham FC,2004-2005,club
+Darren Pratley,Fulham FC,2004-2005,club
+Zeshan Rehman,Fulham FC,2004-2005,club
+Michael Timlin,Fulham FC,2004-2005,club
+Andy Cole,Fulham FC,2004-2005,club
+Ismael Ehui,Fulham FC,2004-2005,club
+Collins John,Fulham FC,2004-2005,club
+Brian McBride,Fulham FC,2004-2005,club
+Tomasz Radzinski,Fulham FC,2004-2005,club
+Chris Coleman,Fulham FC,2004-2005,club
+Mark Crossley,Fulham FC,2005-2006,club
+Antti Niemi,Fulham FC,2005-2006,club
+Tony Warner,Fulham FC,2005-2006,club
+Carlos Bocanegra,Fulham FC,2005-2006,club
+Philippe Christanval,Fulham FC,2005-2006,club
+Alain Goma,Fulham FC,2005-2006,club
+Adam Green,Fulham FC,2005-2006,club
+Niclas Jensen,Fulham FC,2005-2006,club
+Zat Knight,Fulham FC,2005-2006,club
+Dean Leacock,Fulham FC,2005-2006,club
+Robert Milsom,Fulham FC,2005-2006,club
+Ian Pearce,Fulham FC,2005-2006,club
+Liam Rosenior,Fulham FC,2005-2006,club
+Moritz Volz,Fulham FC,2005-2006,club
+Boa Morte,Fulham FC,2005-2006,club
+Michael Brown,Fulham FC,2005-2006,club
+Jimmy Bullard,Fulham FC,2005-2006,club
+Papa Bouba Diop,Fulham FC,2005-2006,club
+Simon Elliott,Fulham FC,2005-2006,club
+Ahmad Elrich,Fulham FC,2005-2006,club
+Claus Jensen,Fulham FC,2005-2006,club
+Sylvain Legwinski,Fulham FC,2005-2006,club
+Neale McDermott,Fulham FC,2005-2006,club
+Mark Pembridge,Fulham FC,2005-2006,club
+Zeshan Rehman,Fulham FC,2005-2006,club
+Heidar Helguson,Fulham FC,2005-2006,club
+Collins John,Fulham FC,2005-2006,club
+Brian McBride,Fulham FC,2005-2006,club
+Tomasz Radzinski,Fulham FC,2005-2006,club
+Chris Coleman,Fulham FC,2005-2006,club
+Ben Alnwick,Tottenham Hotspur,2006-2007,club
+Rob Burch,Tottenham Hotspur,2006-2007,club
+Radek Cerny,Tottenham Hotspur,2006-2007,club
+Paul Robinson,Tottenham Hotspur,2006-2007,club
+Benoit Assou-Ekotto,Tottenham Hotspur,2006-2007,club
+Pascal Chimbonda,Tottenham Hotspur,2006-2007,club
+Michael Dawson,Tottenham Hotspur,2006-2007,club
+Dorian Dervite,Tottenham Hotspur,2006-2007,club
+Anthony Gardner,Tottenham Hotspur,2006-2007,club
+Phil Ifil,Tottenham Hotspur,2006-2007,club
+Ledley King,Tottenham Hotspur,2006-2007,club
+Charlie Lee,Tottenham Hotspur,2006-2007,club
+Young-Pyo Lee,Tottenham Hotspur,2006-2007,club
+Ricardo Rocha,Tottenham Hotspur,2006-2007,club
+Hossam Ghaly,Tottenham Hotspur,2006-2007,club
+Tom Huddlestone,Tottenham Hotspur,2006-2007,club
+Jermaine Jenas,Tottenham Hotspur,2006-2007,club
+Aaron Lennon,Tottenham Hotspur,2006-2007,club
+Danny Murphy,Tottenham Hotspur,2006-2007,club
+Paul Stalteri,Tottenham Hotspur,2006-2007,club
+Adel Taarabt,Tottenham Hotspur,2006-2007,club
+Teemu Tainio,Tottenham Hotspur,2006-2007,club
+Didier Zokora,Tottenham Hotspur,2006-2007,club
+Andy Barcham,Tottenham Hotspur,2006-2007,club
+Lee Barnard,Tottenham Hotspur,2006-2007,club
+Dimitar Berbatov,Tottenham Hotspur,2006-2007,club
+Jermain Defoe,Tottenham Hotspur,2006-2007,club
+Robbie Keane,Tottenham Hotspur,2006-2007,club
+Mido,Tottenham Hotspur,2006-2007,club
+Mark Yeates,Tottenham Hotspur,2006-2007,club
+Martin Jol,Tottenham Hotspur,2006-2007,club
+Ricardo Moniz,Tottenham Hotspur,2006-2007,club
+Radek Cerny,Tottenham Hotspur,2007-2008,club
+Tommy Forecast,Tottenham Hotspur,2007-2008,club
+Paul Robinson,Tottenham Hotspur,2007-2008,club
+Benoit Assou-Ekotto,Tottenham Hotspur,2007-2008,club
+Gareth Bale,Tottenham Hotspur,2007-2008,club
+Pascal Chimbonda,Tottenham Hotspur,2007-2008,club
+Michael Dawson,Tottenham Hotspur,2007-2008,club
+Dorian Dervite,Tottenham Hotspur,2007-2008,club
+Chris Gunter,Tottenham Hotspur,2007-2008,club
+Alan Hutton,Tottenham Hotspur,2007-2008,club
+Younes Kaboul,Tottenham Hotspur,2007-2008,club
+Ledley King,Tottenham Hotspur,2007-2008,club
+Young-Pyo Lee,Tottenham Hotspur,2007-2008,club
+Ricardo Rocha,Tottenham Hotspur,2007-2008,club
+Danny Rose,Tottenham Hotspur,2007-2008,club
+Jonathan Woodgate,Tottenham Hotspur,2007-2008,club
+Kevin-Prince Boateng,Tottenham Hotspur,2007-2008,club
+Gilberto,Tottenham Hotspur,2007-2008,club
+Tom Huddlestone,Tottenham Hotspur,2007-2008,club
+David Hutton,Tottenham Hotspur,2007-2008,club
+Jermaine Jenas,Tottenham Hotspur,2007-2008,club
+Aaron Lennon,Tottenham Hotspur,2007-2008,club
+Jamie O'Hara,Tottenham Hotspur,2007-2008,club
+Adel Taarabt,Tottenham Hotspur,2007-2008,club
+Teemu Tainio,Tottenham Hotspur,2007-2008,club
+Didier Zokora,Tottenham Hotspur,2007-2008,club
+Darren Bent,Tottenham Hotspur,2007-2008,club
+Dimitar Berbatov,Tottenham Hotspur,2007-2008,club
+Robbie Keane,Tottenham Hotspur,2007-2008,club
+Juande Ramos,Tottenham Hotspur,2007-2008,club
+Ricardo Moniz,Tottenham Hotspur,2007-2008,club
+Gustavo Poyet,Tottenham Hotspur,2007-2008,club
+Hans Leitert,Tottenham Hotspur,2007-2008,club
+Anton McElhone,Tottenham Hotspur,2007-2008,club
+Trevor Carson,Sunderland AFC,2008-2009,club
+Nick Colgan,Sunderland AFC,2008-2009,club
+Marton Fulop,Sunderland AFC,2008-2009,club
+Craig Gordon,Sunderland AFC,2008-2009,club
+Phil Bardsley,Sunderland AFC,2008-2009,club
+Tal Ben Haim,Sunderland AFC,2008-2009,club
+Danny Collins,Sunderland AFC,2008-2009,club
+Calum Davenport,Sunderland AFC,2008-2009,club
+Anton Ferdinand,Sunderland AFC,2008-2009,club
+Peter Hartley,Sunderland AFC,2008-2009,club
+Michael Kay,Sunderland AFC,2008-2009,club
+Michael Liddle,Sunderland AFC,2008-2009,club
+Jean-Yves M'voto,Sunderland AFC,2008-2009,club
+George McCartney,Sunderland AFC,2008-2009,club
+Paul McShane,Sunderland AFC,2008-2009,club
+Nayron Nosworthy,Sunderland AFC,2008-2009,club
+Carlos Edwards,Sunderland AFC,2008-2009,club
+Jordan Henderson,Sunderland AFC,2008-2009,club
+Grant Leadbitter,Sunderland AFC,2008-2009,club
+Nathan Luscombe,Sunderland AFC,2008-2009,club
+Liam Miller,Sunderland AFC,2008-2009,club
+Andy Reid,Sunderland AFC,2008-2009,club
+Kieran Richardson,Sunderland AFC,2008-2009,club
+Teemu Tainio,Sunderland AFC,2008-2009,club
+Dean Whitehead,Sunderland AFC,2008-2009,club
+Djibril Cisse,Sunderland AFC,2008-2009,club
+Jordan Cook,Sunderland AFC,2008-2009,club
+David Dowson,Sunderland AFC,2008-2009,club
+David Healy,Sunderland AFC,2008-2009,club
+Kenwyne Jones,Sunderland AFC,2008-2009,club
+Daryl Murphy,Sunderland AFC,2008-2009,club
+Martyn Waghorn,Sunderland AFC,2008-2009,club
+Dwight Yorke,Sunderland AFC,2008-2009,club
+Trevor Carson,Sunderland AFC,2009-2010,club
+Craig Gordon,Sunderland AFC,2009-2010,club
+Phil Bardsley,Sunderland AFC,2009-2010,club
+Paulo da Silva,Sunderland AFC,2009-2010,club
+Anton Ferdinand,Sunderland AFC,2009-2010,club
+Alan Hutton,Sunderland AFC,2009-2010,club
+Matt Kilgallon,Sunderland AFC,2009-2010,club
+Michael Liddle,Sunderland AFC,2009-2010,club
+George McCartney,Sunderland AFC,2009-2010,club
+John Mensah,Sunderland AFC,2009-2010,club
+Michael Turner,Sunderland AFC,2009-2010,club
+Lorik Cana,Sunderland AFC,2009-2010,club
+Lee Cattermole,Sunderland AFC,2009-2010,club
+Jack Colback,Sunderland AFC,2009-2010,club
+Jordan Henderson,Sunderland AFC,2009-2010,club
+Conor Hourihane,Sunderland AFC,2009-2010,club
+David Meyler,Sunderland AFC,2009-2010,club
+Andy Reid,Sunderland AFC,2009-2010,club
+Kieran Richardson,Sunderland AFC,2009-2010,club
+Boudewijn Zenden,Sunderland AFC,2009-2010,club
+Benjani,Sunderland AFC,2009-2010,club
+Darren Bent,Sunderland AFC,2009-2010,club
+Fraizer Campbell,Sunderland AFC,2009-2010,club
+Jordan Cook,Sunderland AFC,2009-2010,club
+Kenwyne Jones,Sunderland AFC,2009-2010,club
+Ryan Noble,Sunderland AFC,2009-2010,club
+Steve Bruce,Sunderland AFC,2009-2010,club
+Trevor Carson,Sunderland AFC,2010-2011,club
+Craig Gordon,Sunderland AFC,2010-2011,club
+Simon Mignolet,Sunderland AFC,2010-2011,club
+Blair Adams,Sunderland AFC,2010-2011,club
+Marcos Angeleri,Sunderland AFC,2010-2011,club
+Phil Bardsley,Sunderland AFC,2010-2011,club
+Titus Bramble,Sunderland AFC,2010-2011,club
+Ahmed El Mohamady,Sunderland AFC,2010-2011,club
+Anton Ferdinand,Sunderland AFC,2010-2011,club
+Louis Laing,Sunderland AFC,2010-2011,club
+John Mensah,Sunderland AFC,2010-2011,club
+Nedum Onuoha,Sunderland AFC,2010-2011,club
+Michael Turner,Sunderland AFC,2010-2011,club
+Lee Cattermole,Sunderland AFC,2010-2011,club
+Jack Colback,Sunderland AFC,2010-2011,club
+Jordan Henderson,Sunderland AFC,2010-2011,club
+Billy Knott,Sunderland AFC,2010-2011,club
+David Meyler,Sunderland AFC,2010-2011,club
+Sulley Ali Muntari,Sunderland AFC,2010-2011,club
+Adam Reed,Sunderland AFC,2010-2011,club
+Kieran Richardson,Sunderland AFC,2010-2011,club
+Cristian Riveros,Sunderland AFC,2010-2011,club
+Stephane Sessegnon,Sunderland AFC,2010-2011,club
+Boudewijn Zenden,Sunderland AFC,2010-2011,club
+Fraizer Campbell,Sunderland AFC,2010-2011,club
+Jordan Cook,Sunderland AFC,2010-2011,club
+Asamoah Gyan,Sunderland AFC,2010-2011,club
+Craig Lynch,Sunderland AFC,2010-2011,club
+Ryan Noble,Sunderland AFC,2010-2011,club
+Danny Welbeck,Sunderland AFC,2010-2011,club
+Steve Bruce,Sunderland AFC,2010-2011,club
+Anthony Lopes,Olympique Lyon,2012-2013,club
+Jeremy Frick,Olympique Lyon,2012-2013,club
+Mathieu Gorgelin,Olympique Lyon,2012-2013,club
+Remy Vercoutre,Olympique Lyon,2012-2013,club
+Loic Abenzoar,Olympique Lyon,2012-2013,club
+Milan Bisevac,Olympique Lyon,2012-2013,club
+Mouhamadou Dabo,Olympique Lyon,2012-2013,club
+Bakary Kone,Olympique Lyon,2012-2013,club
+Dejan Lovren,Olympique Lyon,2012-2013,club
+Anthony Reveillere,Olympique Lyon,2012-2013,club
+Naby Sarr,Olympique Lyon,2012-2013,club
+Samuel Umtiti,Olympique Lyon,2012-2013,club
+Amos Youga,Olympique Lyon,2012-2013,club
+Mehdi Zeffane,Olympique Lyon,2012-2013,club
+Fares Bahlouli,Olympique Lyon,2012-2013,club
+Jordan Ferri,Olympique Lyon,2012-2013,club
+Gueida Fofana,Olympique Lyon,2012-2013,club
+Maxime Gonalons,Olympique Lyon,2012-2013,club
+Yoann Gourcuff,Olympique Lyon,2012-2013,club
+Clement Grenier,Olympique Lyon,2012-2013,club
+Arnold Mvuemba,Olympique Lyon,2012-2013,club
+Yassine Benzia,Olympique Lyon,2012-2013,club
+Jimmy Briand,Olympique Lyon,2012-2013,club
+Rachid Ghezzal,Olympique Lyon,2012-2013,club
+Bafetimbi Gomis,Olympique Lyon,2012-2013,club
+Zakarie Labidi,Olympique Lyon,2012-2013,club
+Alexandre Lacazette,Olympique Lyon,2012-2013,club
+Lisandro Lopez,Olympique Lyon,2012-2013,club
+Anthony Martial,Olympique Lyon,2012-2013,club
+Clinton N'Jie,Olympique Lyon,2012-2013,club
+Alassane Plea,Olympique Lyon,2012-2013,club
+Remi Garde,Olympique Lyon,2012-2013,club
+Gerald Baticle,Olympique Lyon,2012-2013,club
+Bruno Genesio,Olympique Lyon,2012-2013,club
+Joel Bats,Olympique Lyon,2012-2013,club
+Robert Duverne,Olympique Lyon,2012-2013,club
+Anthony Lopes,Olympique Lyon,2013-2014,club
+Theo Defourny,Olympique Lyon,2013-2014,club
+Jeremy Frick,Olympique Lyon,2013-2014,club
+Mathieu Gorgelin,Olympique Lyon,2013-2014,club
+Remy Vercoutre,Olympique Lyon,2013-2014,club
+Henri Bedimo,Olympique Lyon,2013-2014,club
+Milan Bisevac,Olympique Lyon,2013-2014,club
+Mouhamadou Dabo,Olympique Lyon,2013-2014,club
+Bakary Kone,Olympique Lyon,2013-2014,club
+Miguel Lopes,Olympique Lyon,2013-2014,club
+Romaric N'Gouma,Olympique Lyon,2013-2014,club
+Naby Sarr,Olympique Lyon,2013-2014,club
+Samuel Umtiti,Olympique Lyon,2013-2014,club
+Mehdi Zeffane,Olympique Lyon,2013-2014,club
+Fares Bahlouli,Olympique Lyon,2013-2014,club
+Gael Danic,Olympique Lyon,2013-2014,club
+Jordan Ferri,Olympique Lyon,2013-2014,club
+Gueida Fofana,Olympique Lyon,2013-2014,club
+Maxime Gonalons,Olympique Lyon,2013-2014,club
+Yoann Gourcuff,Olympique Lyon,2013-2014,club
+Clement Grenier,Olympique Lyon,2013-2014,club
+Sidy Kone,Olympique Lyon,2013-2014,club
+Arnold Mvuemba,Olympique Lyon,2013-2014,club
+Corentin Tolisso,Olympique Lyon,2013-2014,club
+Kevin Tsimba,Olympique Lyon,2013-2014,club
+Yassine Benzia,Olympique Lyon,2013-2014,club
+Jimmy Briand,Olympique Lyon,2013-2014,club
+Nabil Fekir,Olympique Lyon,2013-2014,club
+Rachid Ghezzal,Olympique Lyon,2013-2014,club
+Bafetimbi Gomis,Olympique Lyon,2013-2014,club
+Zakarie Labidi,Olympique Lyon,2013-2014,club
+Alexandre Lacazette,Olympique Lyon,2013-2014,club
+Clinton N'Jie,Olympique Lyon,2013-2014,club
+Remi Garde,Olympique Lyon,2013-2014,club
+Gerald Baticle,Olympique Lyon,2013-2014,club
+Bruno Genesio,Olympique Lyon,2013-2014,club
+Joel Bats,Olympique Lyon,2013-2014,club
+Robert Duverne,Olympique Lyon,2013-2014,club
+Anthony Lopes,Olympique Lyon,2014-2015,club
+Mathieu Gorgelin,Olympique Lyon,2014-2015,club
+Henri Bedimo,Olympique Lyon,2014-2015,club
+Milan Bisevac,Olympique Lyon,2014-2015,club
+Mouhamadou Dabo,Olympique Lyon,2014-2015,club
+Christophe Jallet,Olympique Lyon,2014-2015,club
+Bakary Kone,Olympique Lyon,2014-2015,club
+Dylan Mboumbouni,Olympique Lyon,2014-2015,club
+Fahd Moufi,Olympique Lyon,2014-2015,club
+Romaric N'Gouma,Olympique Lyon,2014-2015,club
+Lindsay Rose,Olympique Lyon,2014-2015,club
+Samuel Umtiti,Olympique Lyon,2014-2015,club
+Ulrik Yttergard Jenssen,Olympique Lyon,2014-2015,club
+Mehdi Zeffane,Olympique Lyon,2014-2015,club
+Fares Bahlouli,Olympique Lyon,2014-2015,club
+Jordan Ferri,Olympique Lyon,2014-2015,club
+Gueida Fofana,Olympique Lyon,2014-2015,club
+Maxime Gonalons,Olympique Lyon,2014-2015,club
+Yoann Gourcuff,Olympique Lyon,2014-2015,club
+Clement Grenier,Olympique Lyon,2014-2015,club
+Sidy Kone,Olympique Lyon,2014-2015,club
+Arnold Mvuemba,Olympique Lyon,2014-2015,club
+Corentin Tolisso,Olympique Lyon,2014-2015,club
+Xiuwei Zhang,Olympique Lyon,2014-2015,club
+Yassine Benzia,Olympique Lyon,2014-2015,club
+Maxwel Cornet,Olympique Lyon,2014-2015,club
+Nabil Fekir,Olympique Lyon,2014-2015,club
+Rachid Ghezzal,Olympique Lyon,2014-2015,club
+Zakarie Labidi,Olympique Lyon,2014-2015,club
+Alexandre Lacazette,Olympique Lyon,2014-2015,club
+Clinton N'Jie,Olympique Lyon,2014-2015,club
+Mohamed Yattara,Olympique Lyon,2014-2015,club
+Hubert Fournier,Olympique Lyon,2014-2015,club
+Michel Audrain,Olympique Lyon,2014-2015,club
+Gerald Baticle,Olympique Lyon,2014-2015,club
+Bruno Genesio,Olympique Lyon,2014-2015,club
+Joel Bats,Olympique Lyon,2014-2015,club
+Anthony Lopes,Olympique Lyon,2015-2016,club
+Mathieu Gorgelin,Olympique Lyon,2015-2016,club
+Lucas Mocio,Olympique Lyon,2015-2016,club
+Henri Bedimo,Olympique Lyon,2015-2016,club
+Christophe Jallet,Olympique Lyon,2015-2016,club
+Bakary Kone,Olympique Lyon,2015-2016,club
+Jeremy Morel,Olympique Lyon,2015-2016,club
+Romaric N'Gouma,Olympique Lyon,2015-2016,club
+Rafael,Olympique Lyon,2015-2016,club
+Samuel Umtiti,Olympique Lyon,2015-2016,club
+Mapou Yanga-Mbiwa,Olympique Lyon,2015-2016,club
+Romain Del Castillo,Olympique Lyon,2015-2016,club
+Jordan Ferri,Olympique Lyon,2015-2016,club
+Gueida Fofana,Olympique Lyon,2015-2016,club
+Maxime Gonalons,Olympique Lyon,2015-2016,club
+Clement Grenier,Olympique Lyon,2015-2016,club
+Olivier Kemen,Olympique Lyon,2015-2016,club
+Arnold Mvuemba,Olympique Lyon,2015-2016,club
+Sergi Darder,Olympique Lyon,2015-2016,club
+Corentin Tolisso,Olympique Lyon,2015-2016,club
+Lucas Tousart,Olympique Lyon,2015-2016,club
+Mathieu Valbuena,Olympique Lyon,2015-2016,club
+Maxwel Cornet,Olympique Lyon,2015-2016,club
+Nabil Fekir,Olympique Lyon,2015-2016,club
+Rachid Ghezzal,Olympique Lyon,2015-2016,club
+Aldo Kalulu,Olympique Lyon,2015-2016,club
+Zakarie Labidi,Olympique Lyon,2015-2016,club
+Alexandre Lacazette,Olympique Lyon,2015-2016,club
+Gaetan Perrin,Olympique Lyon,2015-2016,club
+Bruno Genesio,Olympique Lyon,2015-2016,club
+Michel Audrain,Olympique Lyon,2015-2016,club
+Gerald Baticle,Olympique Lyon,2015-2016,club
+Cacapa,Olympique Lyon,2015-2016,club
+Joel Bats,Olympique Lyon,2015-2016,club
+Louis Deschateaux,SM Caen,2016-2017,club
+Matthieu Dreyer,SM Caen,2016-2017,club
+Paul Reulet,SM Caen,2016-2017,club
+Remy Vercoutre,SM Caen,2016-2017,club
+Chaker Alhadhur,SM Caen,2016-2017,club
+Syam Ben Youssef,SM Caen,2016-2017,club
+Damien Da Silva,SM Caen,2016-2017,club
+Mouhamadou Dabo,SM Caen,2016-2017,club
+Romain Genevois,SM Caen,2016-2017,club
+Frederic Guilbert,SM Caen,2016-2017,club
+Emmanuel Imorou,SM Caen,2016-2017,club
+Alaeddine Yahia,SM Caen,2016-2017,club
+Jordan Adeoti,SM Caen,2016-2017,club
+Durel Avounou,SM Caen,2016-2017,club
+Vincent Bessat,SM Caen,2016-2017,club
+Jonathan Delaplace,SM Caen,2016-2017,club
+Ismael Diomande,SM Caen,2016-2017,club
+Julien Feret,SM Caen,2016-2017,club
+Jordan Leborgne,SM Caen,2016-2017,club
+Jean-Victor Makengo,SM Caen,2016-2017,club
+Nicolas Seube,SM Caen,2016-2017,club
+Valentin Voisin,SM Caen,2016-2017,club
+Herve Bazile,SM Caen,2016-2017,club
+Yann Karamoh,SM Caen,2016-2017,club
+Jeff Louis,SM Caen,2016-2017,club
+Exauce Ngassaki Ndongo,SM Caen,2016-2017,club
+Christopher Operi,SM Caen,2016-2017,club
+Ronny Rodelin,SM Caen,2016-2017,club
+Pape Sane,SM Caen,2016-2017,club
+Ivan Santini,SM Caen,2016-2017,club
+Jordan Tell,SM Caen,2016-2017,club
+Patrice Garande,SM Caen,2016-2017,club
+Jean-Marie Huriez,SM Caen,2016-2017,club
+Frederic Petereyns,SM Caen,2016-2017,club
+Fabien Barthez,France,1997-1998,nation
+Bernard Lama,France,1997-1998,nation
+Lionel Letizi,France,1997-1998,nation
+Laurent Blanc,France,1997-1998,nation
+Vincent Candela,France,1997-1998,nation
+Frederic Dehu,France,1997-1998,nation
+Marcel Desailly,France,1997-1998,nation
+Martin Djetou,France,1997-1998,nation
+Alain Goma,France,1997-1998,nation
+Frank Leboeuf,France,1997-1998,nation
+Bixente Lizarazu,France,1997-1998,nation
+Lilian Thuram,France,1997-1998,nation
+Ibrahim Ba,France,1997-1998,nation
+Alain Boghossian,France,1997-1998,nation
+Didier Deschamps,France,1997-1998,nation
+Bernard Diomede,France,1997-1998,nation
+Christian Karembeu,France,1997-1998,nation
+Sabri Lamouchi,France,1997-1998,nation
+Claude Makelele,France,1997-1998,nation
+Emmanuel Petit,France,1997-1998,nation
+Robert Pires,France,1997-1998,nation
+Patrick Vieira,France,1997-1998,nation
+Zinedine Zidane,France,1997-1998,nation
+Nicolas Anelka,France,1997-1998,nation
+Youri Djorkaeff,France,1997-1998,nation
+Christophe Dugarry,France,1997-1998,nation
+Stephane Guivarc'h,France,1997-1998,nation
+Thierry Henry,France,1997-1998,nation
+Marc Keller,France,1997-1998,nation
+Lilian Laslandes,France,1997-1998,nation
+Florian Maurice,France,1997-1998,nation
+David Trezeguet,France,1997-1998,nation
+Tony Vairelles,France,1997-1998,nation
+Roger Lemerre,France,1997-1998,nation
+Aime Jacquet,France,1997-1998,nation
+Fabien Barthez,France,1998-1999,nation
+Stephane Porato,France,1998-1999,nation
+Ulrich Rame,France,1998-1999,nation
+Laurent Blanc,France,1998-1999,nation
+Vincent Candela,France,1998-1999,nation
+Frederic Dehu,France,1998-1999,nation
+Marcel Desailly,France,1998-1999,nation
+Frank Leboeuf,France,1998-1999,nation
+Bixente Lizarazu,France,1998-1999,nation
+Lilian Thuram,France,1998-1999,nation
+Alain Boghossian,France,1998-1999,nation
+Didier Deschamps,France,1998-1999,nation
+Youri Djorkaeff,France,1998-1999,nation
+Johan Micoud,France,1998-1999,nation
+Emmanuel Petit,France,1998-1999,nation
+Robert Pires,France,1998-1999,nation
+Laurent Robert,France,1998-1999,nation
+Patrick Vieira,France,1998-1999,nation
+Zinedine Zidane,France,1998-1999,nation
+Nicolas Anelka,France,1998-1999,nation
+Christophe Dugarry,France,1998-1999,nation
+Stephane Guivarc'h,France,1998-1999,nation
+Lilian Laslandes,France,1998-1999,nation
+Florian Maurice,France,1998-1999,nation
+Tony Vairelles,France,1998-1999,nation
+Sylvain Wiltord,France,1998-1999,nation
+Roger Lemerre,France,1998-1999,nation
+Fabien Barthez,France,1999-2000,nation
+Richard Dutruel,France,1999-2000,nation
+Bernard Lama,France,1999-2000,nation
+Lionel Letizi,France,1999-2000,nation
+Ulrich Rame,France,1999-2000,nation
+Laurent Blanc,France,1999-2000,nation
+Vincent Candela,France,1999-2000,nation
+Philippe Christanval,France,1999-2000,nation
+Frederic Dehu,France,1999-2000,nation
+Marcel Desailly,France,1999-2000,nation
+Martin Djetou,France,1999-2000,nation
+Frank Leboeuf,France,1999-2000,nation
+Bixente Lizarazu,France,1999-2000,nation
+Willy Sagnol,France,1999-2000,nation
+Lilian Thuram,France,1999-2000,nation
+Didier Deschamps,France,1999-2000,nation
+Youri Djorkaeff,France,1999-2000,nation
+Christian Karembeu,France,1999-2000,nation
+Claude Makelele,France,1999-2000,nation
+Johan Micoud,France,1999-2000,nation
+Emmanuel Petit,France,1999-2000,nation
+Robert Pires,France,1999-2000,nation
+Laurent Robert,France,1999-2000,nation
+Patrick Vieira,France,1999-2000,nation
+Zinedine Zidane,France,1999-2000,nation
+Nicolas Anelka,France,1999-2000,nation
+Christophe Dugarry,France,1999-2000,nation
+Ludovic Giuly,France,1999-2000,nation
+Thierry Henry,France,1999-2000,nation
+Steve Marlet,France,1999-2000,nation
+David Trezeguet,France,1999-2000,nation
+Tony Vairelles,France,1999-2000,nation
+Sylvain Wiltord,France,1999-2000,nation
+Roger Lemerre,France,1999-2000,nation
+Fabien Barthez,France,2000-2001,nation
+Lionel Letizi,France,2000-2001,nation
+Ulrich Rame,France,2000-2001,nation
+Vincent Candela,France,2000-2001,nation
+Marcel Desailly,France,2000-2001,nation
+Frank Leboeuf,France,2000-2001,nation
+Bixente Lizarazu,France,2000-2001,nation
+Willy Sagnol,France,2000-2001,nation
+Mikael Silvestre,France,2000-2001,nation
+Lilian Thuram,France,2000-2001,nation
+Alain Boghossian,France,2000-2001,nation
+Eric Carriere,France,2000-2001,nation
+Youri Djorkaeff,France,2000-2001,nation
+Christian Karembeu,France,2000-2001,nation
+Sabri Lamouchi,France,2000-2001,nation
+Claude Makelele,France,2000-2001,nation
+Johan Micoud,France,2000-2001,nation
+Emmanuel Petit,France,2000-2001,nation
+Robert Pires,France,2000-2001,nation
+Patrick Vieira,France,2000-2001,nation
+Zinedine Zidane,France,2000-2001,nation
+Nicolas Anelka,France,2000-2001,nation
+Christophe Dugarry,France,2000-2001,nation
+Thierry Henry,France,2000-2001,nation
+Steve Marlet,France,2000-2001,nation
+David Trezeguet,France,2000-2001,nation
+Sylvain Wiltord,France,2000-2001,nation
+Roger Lemerre,France,2000-2001,nation
+Fabien Barthez,France,2001-2002,nation
+Gregory Coupet,France,2001-2002,nation
+Ulrich Rame,France,2001-2002,nation
+Jeremie Brechet,France,2001-2002,nation
+Vincent Candela,France,2001-2002,nation
+Philippe Christanval,France,2001-2002,nation
+Marcel Desailly,France,2001-2002,nation
+William Gallas,France,2001-2002,nation
+Frank Leboeuf,France,2001-2002,nation
+Bixente Lizarazu,France,2001-2002,nation
+Philippe Mexes,France,2001-2002,nation
+Willy Sagnol,France,2001-2002,nation
+Mikael Silvestre,France,2001-2002,nation
+Lilian Thuram,France,2001-2002,nation
+Alain Boghossian,France,2001-2002,nation
+Eric Carriere,France,2001-2002,nation
+Bruno Cheyrou,France,2001-2002,nation
+Youri Djorkaeff,France,2001-2002,nation
+Olivier Kapo,France,2001-2002,nation
+Christian Karembeu,France,2001-2002,nation
+Claude Makelele,France,2001-2002,nation
+Johan Micoud,France,2001-2002,nation
+Benoit Pedretti,France,2001-2002,nation
+Emmanuel Petit,France,2001-2002,nation
+Robert Pires,France,2001-2002,nation
+Patrick Vieira,France,2001-2002,nation
+Zinedine Zidane,France,2001-2002,nation
+Nicolas Anelka,France,2001-2002,nation
+Djibril Cisse,France,2001-2002,nation
+Christophe Dugarry,France,2001-2002,nation
+Ludovic Giuly,France,2001-2002,nation
+Sidney Govou,France,2001-2002,nation
+Thierry Henry,France,2001-2002,nation
+Steve Marlet,France,2001-2002,nation
+Daniel Moreira,France,2001-2002,nation
+David Trezeguet,France,2001-2002,nation
+Sylvain Wiltord,France,2001-2002,nation
+Jacques Santini,France,2001-2002,nation
+Roger Lemerre,France,2001-2002,nation
+Fabien Barthez,France,2002-2003,nation
+Gregory Coupet,France,2002-2003,nation
+Ulrich Rame,France,2002-2003,nation
+Jean-Alain Boumsong,France,2002-2003,nation
+Marcel Desailly,France,2002-2003,nation
+William Gallas,France,2002-2003,nation
+Bixente Lizarazu,France,2002-2003,nation
+Philippe Mexes,France,2002-2003,nation
+Willy Sagnol,France,2002-2003,nation
+Mikael Silvestre,France,2002-2003,nation
+Lilian Thuram,France,2002-2003,nation
+Ousmane Dabo,France,2002-2003,nation
+Olivier Dacourt,France,2002-2003,nation
+Ludovic Giuly,France,2002-2003,nation
+Olivier Kapo,France,2002-2003,nation
+Claude Makelele,France,2002-2003,nation
+Benoit Pedretti,France,2002-2003,nation
+Emmanuel Petit,France,2002-2003,nation
+Robert Pires,France,2002-2003,nation
+Jerome Rothen,France,2002-2003,nation
+Patrick Vieira,France,2002-2003,nation
+Zinedine Zidane,France,2002-2003,nation
+Djibril Cisse,France,2002-2003,nation
+Thierry Henry,France,2002-2003,nation
+Steve Marlet,France,2002-2003,nation
+Daniel Moreira,France,2002-2003,nation
+David Trezeguet,France,2002-2003,nation
+Sylvain Wiltord,France,2002-2003,nation
+Jacques Santini,France,2002-2003,nation
+Fabien Barthez,France,2003-2004,nation
+Gregory Coupet,France,2003-2004,nation
+Mickael Landreau,France,2003-2004,nation
+Eric Abidal,France,2003-2004,nation
+Jean-Alain Boumsong,France,2003-2004,nation
+Marcel Desailly,France,2003-2004,nation
+Patrice Evra,France,2003-2004,nation
+William Gallas,France,2003-2004,nation
+Gael Givet,France,2003-2004,nation
+Bixente Lizarazu,France,2003-2004,nation
+Bernard Mendy,France,2003-2004,nation
+Philippe Mexes,France,2003-2004,nation
+Willy Sagnol,France,2003-2004,nation
+Mikael Silvestre,France,2003-2004,nation
+Sebastien Squillaci,France,2003-2004,nation
+Lilian Thuram,France,2003-2004,nation
+Bruno Cheyrou,France,2003-2004,nation
+Olivier Dacourt,France,2003-2004,nation
+Ludovic Giuly,France,2003-2004,nation
+Olivier Kapo,France,2003-2004,nation
+Claude Makelele,France,2003-2004,nation
+Florent Malouda,France,2003-2004,nation
+Rio Mavuba,France,2003-2004,nation
+Camel Meriem,France,2003-2004,nation
+Johan Micoud,France,2003-2004,nation
+Benoit Pedretti,France,2003-2004,nation
+Robert Pires,France,2003-2004,nation
+Jerome Rothen,France,2003-2004,nation
+Patrick Vieira,France,2003-2004,nation
+Zinedine Zidane,France,2003-2004,nation
+Djibril Cisse,France,2003-2004,nation
+Sidney Govou,France,2003-2004,nation
+Thierry Henry,France,2003-2004,nation
+Peguy Luyindula,France,2003-2004,nation
+Steve Marlet,France,2003-2004,nation
+Louis Saha,France,2003-2004,nation
+David Trezeguet,France,2003-2004,nation
+Sylvain Wiltord,France,2003-2004,nation
+Raymond Domenech,France,2003-2004,nation
+Jacques Santini,France,2003-2004,nation
+Fabien Barthez,France,2004-2005,nation
+Gregory Coupet,France,2004-2005,nation
+Mickael Landreau,France,2004-2005,nation
+Eric Abidal,France,2004-2005,nation
+Jean-Alain Boumsong,France,2004-2005,nation
+William Gallas,France,2004-2005,nation
+Gael Givet,France,2004-2005,nation
+Franck Jurietti,France,2004-2005,nation
+Anthony Reveillere,France,2004-2005,nation
+Willy Sagnol,France,2004-2005,nation
+Sebastien Squillaci,France,2004-2005,nation
+Lilian Thuram,France,2004-2005,nation
+Jonathan Zebina,France,2004-2005,nation
+Vikash Dhorasoo,France,2004-2005,nation
+Alou Diarra,France,2004-2005,nation
+Claude Makelele,France,2004-2005,nation
+Florent Malouda,France,2004-2005,nation
+Rio Mavuba,France,2004-2005,nation
+Camel Meriem,France,2004-2005,nation
+Benoit Pedretti,France,2004-2005,nation
+Jerome Rothen,France,2004-2005,nation
+Patrick Vieira,France,2004-2005,nation
+Zinedine Zidane,France,2004-2005,nation
+Nicolas Anelka,France,2004-2005,nation
+Djibril Cisse,France,2004-2005,nation
+Ludovic Giuly,France,2004-2005,nation
+Sidney Govou,France,2004-2005,nation
+Thierry Henry,France,2004-2005,nation
+David Trezeguet,France,2004-2005,nation
+Sylvain Wiltord,France,2004-2005,nation
+Raymond Domenech,France,2004-2005,nation
+Robert Duverne,France,2004-2005,nation
+Fabien Barthez,France,2005-2006,nation
+Gregory Coupet,France,2005-2006,nation
+Mickael Landreau,France,2005-2006,nation
+Eric Abidal,France,2005-2006,nation
+Jean-Alain Boumsong,France,2005-2006,nation
+Pascal Chimbonda,France,2005-2006,nation
+Francois Clerc,France,2005-2006,nation
+Patrice Evra,France,2005-2006,nation
+William Gallas,France,2005-2006,nation
+Gael Givet,France,2005-2006,nation
+Philippe Mexes,France,2005-2006,nation
+Willy Sagnol,France,2005-2006,nation
+Mikael Silvestre,France,2005-2006,nation
+Lilian Thuram,France,2005-2006,nation
+Vikash Dhorasoo,France,2005-2006,nation
+Alou Diarra,France,2005-2006,nation
+Julien Faubert,France,2005-2006,nation
+Claude Makelele,France,2005-2006,nation
+Florent Malouda,France,2005-2006,nation
+Rio Mavuba,France,2005-2006,nation
+Franck Ribery,France,2005-2006,nation
+Jeremy Toulalan,France,2005-2006,nation
+Patrick Vieira,France,2005-2006,nation
+Zinedine Zidane,France,2005-2006,nation
+Nicolas Anelka,France,2005-2006,nation
+Djibril Cisse,France,2005-2006,nation
+Thierry Henry,France,2005-2006,nation
+Louis Saha,France,2005-2006,nation
+David Trezeguet,France,2005-2006,nation
+Sylvain Wiltord,France,2005-2006,nation
+Raymond Domenech,France,2005-2006,nation
+Robert Duverne,France,2005-2006,nation
+Gregory Coupet,France,2006-2007,nation
+Mickael Landreau,France,2006-2007,nation
+Eric Abidal,France,2006-2007,nation
+Jean-Alain Boumsong,France,2006-2007,nation
+Francois Clerc,France,2006-2007,nation
+Julien Escude,France,2006-2007,nation
+Patrice Evra,France,2006-2007,nation
+William Gallas,France,2006-2007,nation
+Gael Givet,France,2006-2007,nation
+Philippe Mexes,France,2006-2007,nation
+Julien Rodriguez,France,2006-2007,nation
+Bacary Sagna,France,2006-2007,nation
+Willy Sagnol,France,2006-2007,nation
+Sebastien Squillaci,France,2006-2007,nation
+Lilian Thuram,France,2006-2007,nation
+Hatem Ben Arfa,France,2006-2007,nation
+Abou Diaby,France,2006-2007,nation
+Lassana Diarra,France,2006-2007,nation
+Mathieu Flamini,France,2006-2007,nation
+Claude Makelele,France,2006-2007,nation
+Florent Malouda,France,2006-2007,nation
+Rio Mavuba,France,2006-2007,nation
+Samir Nasri,France,2006-2007,nation
+Franck Ribery,France,2006-2007,nation
+Jerome Rothen,France,2006-2007,nation
+Jeremy Toulalan,France,2006-2007,nation
+Patrick Vieira,France,2006-2007,nation
+Nicolas Anelka,France,2006-2007,nation
+Karim Benzema,France,2006-2007,nation
+Djibril Cisse,France,2006-2007,nation
+Sidney Govou,France,2006-2007,nation
+Thierry Henry,France,2006-2007,nation
+Frederic Piquionne,France,2006-2007,nation
+David Trezeguet,France,2006-2007,nation
+Raymond Domenech,France,2006-2007,nation
+Robert Duverne,France,2006-2007,nation
+Gregory Coupet,France,2007-2008,nation
+Sebastien Frey,France,2007-2008,nation
+Mickael Landreau,France,2007-2008,nation
+Hugo Lloris,France,2007-2008,nation
+Steve Mandanda,France,2007-2008,nation
+Eric Abidal,France,2007-2008,nation
+Jean-Alain Boumsong,France,2007-2008,nation
+Francois Clerc,France,2007-2008,nation
+Gael Clichy,France,2007-2008,nation
+Matthieu Delpierre,France,2007-2008,nation
+Julien Escude,France,2007-2008,nation
+Patrice Evra,France,2007-2008,nation
+Rod Fanni,France,2007-2008,nation
+William Gallas,France,2007-2008,nation
+Philippe Mexes,France,2007-2008,nation
+Bacary Sagna,France,2007-2008,nation
+Willy Sagnol,France,2007-2008,nation
+Sebastien Squillaci,France,2007-2008,nation
+Lilian Thuram,France,2007-2008,nation
+Hatem Ben Arfa,France,2007-2008,nation
+Alou Diarra,France,2007-2008,nation
+Lassana Diarra,France,2007-2008,nation
+Mathieu Flamini,France,2007-2008,nation
+Yoann Gourcuff,France,2007-2008,nation
+Claude Makelele,France,2007-2008,nation
+Florent Malouda,France,2007-2008,nation
+Samir Nasri,France,2007-2008,nation
+Franck Ribery,France,2007-2008,nation
+Jeremy Toulalan,France,2007-2008,nation
+Patrick Vieira,France,2007-2008,nation
+Nicolas Anelka,France,2007-2008,nation
+Karim Benzema,France,2007-2008,nation
+Jimmy Briand,France,2007-2008,nation
+Djibril Cisse,France,2007-2008,nation
+Bafetimbi Gomis,France,2007-2008,nation
+Sidney Govou,France,2007-2008,nation
+Thierry Henry,France,2007-2008,nation
+Steve Savidan,France,2007-2008,nation
+Florent Sinama-Pongolle,France,2007-2008,nation
+David Trezeguet,France,2007-2008,nation
+Raymond Domenech,France,2007-2008,nation
+Robert Duverne,France,2007-2008,nation
+Cedric Carrasso,France,2008-2009,nation
+Hugo Lloris,France,2008-2009,nation
+Steve Mandanda,France,2008-2009,nation
+Eric Abidal,France,2008-2009,nation
+Jean-Alain Boumsong,France,2008-2009,nation
+Gael Clichy,France,2008-2009,nation
+Julien Escude,France,2008-2009,nation
+Patrice Evra,France,2008-2009,nation
+Rod Fanni,France,2008-2009,nation
+William Gallas,France,2008-2009,nation
+Philippe Mexes,France,2008-2009,nation
+Bacary Sagna,France,2008-2009,nation
+Sebastien Squillaci,France,2008-2009,nation
+Alou Diarra,France,2008-2009,nation
+Lassana Diarra,France,2008-2009,nation
+Yoann Gourcuff,France,2008-2009,nation
+Florent Malouda,France,2008-2009,nation
+Samir Nasri,France,2008-2009,nation
+Franck Ribery,France,2008-2009,nation
+Jeremy Toulalan,France,2008-2009,nation
+Patrick Vieira,France,2008-2009,nation
+Nicolas Anelka,France,2008-2009,nation
+Karim Benzema,France,2008-2009,nation
+Jimmy Briand,France,2008-2009,nation
+Andre-Pierre Gignac,France,2008-2009,nation
+Sidney Govou,France,2008-2009,nation
+Thierry Henry,France,2008-2009,nation
+Loic Remy,France,2008-2009,nation
+Raymond Domenech,France,2008-2009,nation
+Robert Duverne,France,2008-2009,nation
+Cedric Carrasso,France,2009-2010,nation
+Nicolas Douchez,France,2009-2010,nation
+Hugo Lloris,France,2009-2010,nation
+Steve Mandanda,France,2009-2010,nation
+Stephane Ruffier,France,2009-2010,nation
+Eric Abidal,France,2009-2010,nation
+Jean-Alain Boumsong,France,2009-2010,nation
+Michael Ciani,France,2009-2010,nation
+Aly Cissokho,France,2009-2010,nation
+Gael Clichy,France,2009-2010,nation
+Mathieu Debuchy,France,2009-2010,nation
+Julien Escude,France,2009-2010,nation
+Patrice Evra,France,2009-2010,nation
+Rod Fanni,France,2009-2010,nation
+William Gallas,France,2009-2010,nation
+Younes Kaboul,France,2009-2010,nation
+Philippe Mexes,France,2009-2010,nation
+Marc Planus,France,2009-2010,nation
+Adil Rami,France,2009-2010,nation
+Anthony Reveillere,France,2009-2010,nation
+Bacary Sagna,France,2009-2010,nation
+Mamadou Sakho,France,2009-2010,nation
+Sebastien Squillaci,France,2009-2010,nation
+Benoit Tremoulinas,France,2009-2010,nation
+Hatem Ben Arfa,France,2009-2010,nation
+Yohan Cabaye,France,2009-2010,nation
+Benoit Cheyrou,France,2009-2010,nation
+Abou Diaby,France,2009-2010,nation
+Alou Diarra,France,2009-2010,nation
+Lassana Diarra,France,2009-2010,nation
+Yoann Gourcuff,France,2009-2010,nation
+Yann M'Vila,France,2009-2010,nation
+Florent Malouda,France,2009-2010,nation
+Blaise Matuidi,France,2009-2010,nation
+Charles N'Zogbia,France,2009-2010,nation
+Samir Nasri,France,2009-2010,nation
+Franck Ribery,France,2009-2010,nation
+Moussa Sissoko,France,2009-2010,nation
+Jeremy Toulalan,France,2009-2010,nation
+Mathieu Valbuena,France,2009-2010,nation
+Nicolas Anelka,France,2009-2010,nation
+Karim Benzema,France,2009-2010,nation
+Jimmy Briand,France,2009-2010,nation
+Djibril Cisse,France,2009-2010,nation
+Kevin Gameiro,France,2009-2010,nation
+Andre-Pierre Gignac,France,2009-2010,nation
+Sidney Govou,France,2009-2010,nation
+Thierry Henry,France,2009-2010,nation
+Guillaume Hoarau,France,2009-2010,nation
+Jeremy Menez,France,2009-2010,nation
+Dimitri Payet,France,2009-2010,nation
+Loic Remy,France,2009-2010,nation
+Laurent Blanc,France,2009-2010,nation
+Raymond Domenech,France,2009-2010,nation
+Robert Duverne,France,2009-2010,nation
+Cedric Carrasso,France,2010-2011,nation
+Hugo Lloris,France,2010-2011,nation
+Steve Mandanda,France,2010-2011,nation
+Eric Abidal,France,2010-2011,nation
+Gael Clichy,France,2010-2011,nation
+Mathieu Debuchy,France,2010-2011,nation
+Patrice Evra,France,2010-2011,nation
+Younes Kaboul,France,2010-2011,nation
+Laurent Koscielny,France,2010-2011,nation
+Jeremy Mathieu,France,2010-2011,nation
+Philippe Mexes,France,2010-2011,nation
+Adil Rami,France,2010-2011,nation
+Anthony Reveillere,France,2010-2011,nation
+Bacary Sagna,France,2010-2011,nation
+Mamadou Sakho,France,2010-2011,nation
+Yohan Cabaye,France,2010-2011,nation
+Abou Diaby,France,2010-2011,nation
+Alou Diarra,France,2010-2011,nation
+Maxime Gonalons,France,2010-2011,nation
+Yoann Gourcuff,France,2010-2011,nation
+Yann M'Vila,France,2010-2011,nation
+Florent Malouda,France,2010-2011,nation
+Marvin Martin,France,2010-2011,nation
+Blaise Matuidi,France,2010-2011,nation
+Charles N'Zogbia,France,2010-2011,nation
+Samir Nasri,France,2010-2011,nation
+Franck Ribery,France,2010-2011,nation
+Mathieu Valbuena,France,2010-2011,nation
+Karim Benzema,France,2010-2011,nation
+Kevin Gameiro,France,2010-2011,nation
+Olivier Giroud,France,2010-2011,nation
+Guillaume Hoarau,France,2010-2011,nation
+Jeremy Menez,France,2010-2011,nation
+Loic Remy,France,2010-2011,nation
+Laurent Blanc,France,2010-2011,nation
+Cedric Carrasso,France,2011-2012,nation
+Mickael Landreau,France,2011-2012,nation
+Hugo Lloris,France,2011-2012,nation
+Steve Mandanda,France,2011-2012,nation
+Eric Abidal,France,2011-2012,nation
+Gael Clichy,France,2011-2012,nation
+Mathieu Debuchy,France,2011-2012,nation
+Patrice Evra,France,2011-2012,nation
+Christophe Jallet,France,2011-2012,nation
+Laurent Koscielny,France,2011-2012,nation
+Philippe Mexes,France,2011-2012,nation
+Adil Rami,France,2011-2012,nation
+Anthony Reveillere,France,2011-2012,nation
+Mamadou Sakho,France,2011-2012,nation
+Benoit Tremoulinas,France,2011-2012,nation
+Raphael Varane,France,2011-2012,nation
+Mapou Yanga-Mbiwa,France,2011-2012,nation
+Morgan Amalfitano,France,2011-2012,nation
+Hatem Ben Arfa,France,2011-2012,nation
+Yohan Cabaye,France,2011-2012,nation
+Etienne Capoue,France,2011-2012,nation
+Clement Chantome,France,2011-2012,nation
+Alou Diarra,France,2011-2012,nation
+Maxime Gonalons,France,2011-2012,nation
+Yoann Gourcuff,France,2011-2012,nation
+Yann M'Vila,France,2011-2012,nation
+Florent Malouda,France,2011-2012,nation
+Marvin Martin,France,2011-2012,nation
+Blaise Matuidi,France,2011-2012,nation
+Rio Mavuba,France,2011-2012,nation
+Samir Nasri,France,2011-2012,nation
+Franck Ribery,France,2011-2012,nation
+Moussa Sissoko,France,2011-2012,nation
+Mathieu Valbuena,France,2011-2012,nation
+Karim Benzema,France,2011-2012,nation
+Jimmy Briand,France,2011-2012,nation
+Kevin Gameiro,France,2011-2012,nation
+Olivier Giroud,France,2011-2012,nation
+Bafetimbi Gomis,France,2011-2012,nation
+Jeremy Menez,France,2011-2012,nation
+Dimitri Payet,France,2011-2012,nation
+Loic Remy,France,2011-2012,nation
+Louis Saha,France,2011-2012,nation
+Didier Deschamps,France,2011-2012,nation
+Laurent Blanc,France,2011-2012,nation
+Mickael Landreau,France,2012-2013,nation
+Hugo Lloris,France,2012-2013,nation
+Steve Mandanda,France,2012-2013,nation
+Stephane Ruffier,France,2012-2013,nation
+Eric Abidal,France,2012-2013,nation
+Gael Clichy,France,2012-2013,nation
+Mathieu Debuchy,France,2012-2013,nation
+Patrice Evra,France,2012-2013,nation
+Rod Fanni,France,2012-2013,nation
+Laurent Koscielny,France,2012-2013,nation
+Jeremy Mathieu,France,2012-2013,nation
+Adil Rami,France,2012-2013,nation
+Bacary Sagna,France,2012-2013,nation
+Mamadou Sakho,France,2012-2013,nation
+Benoit Tremoulinas,France,2012-2013,nation
+Raphael Varane,France,2012-2013,nation
+Mapou Yanga-Mbiwa,France,2012-2013,nation
+Kurt Zouma,France,2012-2013,nation
+Romain Alessandrini,France,2012-2013,nation
+Yohan Cabaye,France,2012-2013,nation
+Etienne Capoue,France,2012-2013,nation
+Maxime Gonalons,France,2012-2013,nation
+Yoann Gourcuff,France,2012-2013,nation
+Clement Grenier,France,2012-2013,nation
+Josuha Guilavogui,France,2012-2013,nation
+Geoffrey Kondogbia,France,2012-2013,nation
+Eliaquim Mangala,France,2012-2013,nation
+Blaise Matuidi,France,2012-2013,nation
+Rio Mavuba,France,2012-2013,nation
+Samir Nasri,France,2012-2013,nation
+Paul Pogba,France,2012-2013,nation
+Franck Ribery,France,2012-2013,nation
+Moussa Sissoko,France,2012-2013,nation
+Mathieu Valbuena,France,2012-2013,nation
+Karim Benzema,France,2012-2013,nation
+Olivier Giroud,France,2012-2013,nation
+Bafetimbi Gomis,France,2012-2013,nation
+Alexandre Lacazette,France,2012-2013,nation
+Jeremy Menez,France,2012-2013,nation
+Dimitri Payet,France,2012-2013,nation
+Loic Remy,France,2012-2013,nation
+Didier Deschamps,France,2012-2013,nation
+Benoit Costil,France,2013-2014,nation
+Mickael Landreau,France,2013-2014,nation
+Hugo Lloris,France,2013-2014,nation
+Steve Mandanda,France,2013-2014,nation
+Stephane Ruffier,France,2013-2014,nation
+Mathieu Debuchy,France,2013-2014,nation
+Lucas Digne,France,2013-2014,nation
+Patrice Evra,France,2013-2014,nation
+Christophe Jallet,France,2013-2014,nation
+Laurent Koscielny,France,2013-2014,nation
+Layvin Kurzawa,France,2013-2014,nation
+Eliaquim Mangala,France,2013-2014,nation
+Jeremy Mathieu,France,2013-2014,nation
+Bacary Sagna,France,2013-2014,nation
+Mamadou Sakho,France,2013-2014,nation
+Raphael Varane,France,2013-2014,nation
+Mapou Yanga-Mbiwa,France,2013-2014,nation
+Kurt Zouma,France,2013-2014,nation
+Yohan Cabaye,France,2013-2014,nation
+Remy Cabella,France,2013-2014,nation
+Maxime Gonalons,France,2013-2014,nation
+Clement Grenier,France,2013-2014,nation
+Josuha Guilavogui,France,2013-2014,nation
+Blaise Matuidi,France,2013-2014,nation
+Rio Mavuba,France,2013-2014,nation
+Loic Perrin,France,2013-2014,nation
+Paul Pogba,France,2013-2014,nation
+Franck Ribery,France,2013-2014,nation
+Morgan Schneiderlin,France,2013-2014,nation
+Moussa Sissoko,France,2013-2014,nation
+Mathieu Valbuena,France,2013-2014,nation
+Karim Benzema,France,2013-2014,nation
+Andre-Pierre Gignac,France,2013-2014,nation
+Olivier Giroud,France,2013-2014,nation
+Antoine Griezmann,France,2013-2014,nation
+Alexandre Lacazette,France,2013-2014,nation
+Dimitri Payet,France,2013-2014,nation
+Loic Remy,France,2013-2014,nation
+Didier Deschamps,France,2013-2014,nation
+Alphonse Areola,France,2014-2015,nation
+Benoit Costil,France,2014-2015,nation
+Hugo Lloris,France,2014-2015,nation
+Steve Mandanda,France,2014-2015,nation
+Stephane Ruffier,France,2014-2015,nation
+Mathieu Debuchy,France,2014-2015,nation
+Lucas Digne,France,2014-2015,nation
+Patrice Evra,France,2014-2015,nation
+Christophe Jallet,France,2014-2015,nation
+Laurent Koscielny,France,2014-2015,nation
+Eliaquim Mangala,France,2014-2015,nation
+Bacary Sagna,France,2014-2015,nation
+Mamadou Sakho,France,2014-2015,nation
+Benoit Tremoulinas,France,2014-2015,nation
+Raphael Varane,France,2014-2015,nation
+Kurt Zouma,France,2014-2015,nation
+Hatem Ben Arfa,France,2014-2015,nation
+Yohan Cabaye,France,2014-2015,nation
+Kingsley Coman,France,2014-2015,nation
+Lassana Diarra,France,2014-2015,nation
+Nabil Fekir,France,2014-2015,nation
+Maxime Gonalons,France,2014-2015,nation
+Josuha Guilavogui,France,2014-2015,nation
+Geoffrey Kondogbia,France,2014-2015,nation
+Blaise Matuidi,France,2014-2015,nation
+Paul-Georges Ntep,France,2014-2015,nation
+Loic Perrin,France,2014-2015,nation
+Paul Pogba,France,2014-2015,nation
+Morgan Schneiderlin,France,2014-2015,nation
+Moussa Sissoko,France,2014-2015,nation
+Mathieu Valbuena,France,2014-2015,nation
+Karim Benzema,France,2014-2015,nation
+Andre-Pierre Gignac,France,2014-2015,nation
+Olivier Giroud,France,2014-2015,nation
+Antoine Griezmann,France,2014-2015,nation
+Alexandre Lacazette,France,2014-2015,nation
+Anthony Martial,France,2014-2015,nation
+Dimitri Payet,France,2014-2015,nation
+Didier Deschamps,France,2014-2015,nation
+Alphonse Areola,France,2015-2016,nation
+Benoit Costil,France,2015-2016,nation
+Hugo Lloris,France,2015-2016,nation
+Steve Mandanda,France,2015-2016,nation
+Sebastien Corchia,France,2015-2016,nation
+Lucas Digne,France,2015-2016,nation
+Patrice Evra,France,2015-2016,nation
+Christophe Jallet,France,2015-2016,nation
+Laurent Koscielny,France,2015-2016,nation
+Layvin Kurzawa,France,2015-2016,nation
+Eliaquim Mangala,France,2015-2016,nation
+Jeremy Mathieu,France,2015-2016,nation
+Adil Rami,France,2015-2016,nation
+Bacary Sagna,France,2015-2016,nation
+Mamadou Sakho,France,2015-2016,nation
+Djibril Sidibe,France,2015-2016,nation
+Samuel Umtiti,France,2015-2016,nation
+Raphael Varane,France,2015-2016,nation
+Yohan Cabaye,France,2015-2016,nation
+Ousmane Dembele,France,2015-2016,nation
+Lassana Diarra,France,2015-2016,nation
+N'Golo Kante,France,2015-2016,nation
+Geoffrey Kondogbia,France,2015-2016,nation
+Blaise Matuidi,France,2015-2016,nation
+Paul Pogba,France,2015-2016,nation
+Adrien Rabiot,France,2015-2016,nation
+Moussa Sissoko,France,2015-2016,nation
+Kingsley Coman,France,2015-2016,nation
+Nabil Fekir,France,2015-2016,nation
+Kevin Gameiro,France,2015-2016,nation
+Andre-Pierre Gignac,France,2015-2016,nation
+Olivier Giroud,France,2015-2016,nation
+Antoine Griezmann,France,2015-2016,nation
+Thomas Lemar,France,2015-2016,nation
+Anthony Martial,France,2015-2016,nation
+Dimitri Payet,France,2015-2016,nation
+Didier Deschamps,France,2015-2016,nation
+Guy Stephan,France,2015-2016,nation
+Franck Raviot,France,2015-2016,nation
+Alphonse Areola,France,2016-2017,nation
+Benoit Costil,France,2016-2017,nation
+Hugo Lloris,France,2016-2017,nation
+Steve Mandanda,France,2016-2017,nation
+Sebastien Corchia,France,2016-2017,nation
+Lucas Digne,France,2016-2017,nation
+Christophe Jallet,France,2016-2017,nation
+Presnel Kimpembe,France,2016-2017,nation
+Laurent Koscielny,France,2016-2017,nation
+Layvin Kurzawa,France,2016-2017,nation
+Aymeric Laporte,France,2016-2017,nation
+Benjamin Mendy,France,2016-2017,nation
+Benjamin Pavard,France,2016-2017,nation
+Adil Rami,France,2016-2017,nation
+Bacary Sagna,France,2016-2017,nation
+Djibril Sidibe,France,2016-2017,nation
+Samuel Umtiti,France,2016-2017,nation
+Raphael Varane,France,2016-2017,nation
+Kurt Zouma,France,2016-2017,nation
+Tiemoue Bakayoko,France,2016-2017,nation
+Kingsley Coman,France,2016-2017,nation
+Ousmane Dembele,France,2016-2017,nation
+N'Golo Kante,France,2016-2017,nation
+Blaise Matuidi,France,2016-2017,nation
+Steven N'Zonzi,France,2016-2017,nation
+Dimitri Payet,France,2016-2017,nation
+Paul Pogba,France,2016-2017,nation
+Adrien Rabiot,France,2016-2017,nation
+Moussa Sissoko,France,2016-2017,nation
+Corentin Tolisso,France,2016-2017,nation
+Nabil Fekir,France,2016-2017,nation
+Kevin Gameiro,France,2016-2017,nation
+Olivier Giroud,France,2016-2017,nation
+Antoine Griezmann,France,2016-2017,nation
+Alexandre Lacazette,France,2016-2017,nation
+Thomas Lemar,France,2016-2017,nation
+Anthony Martial,France,2016-2017,nation
+Kylian Mbappe,France,2016-2017,nation
+Florian Thauvin,France,2016-2017,nation
+Didier Deschamps,France,2016-2017,nation
+Alphonse Areola,France,2017-2018,nation
+Hugo Lloris,France,2017-2018,nation
+Steve Mandanda,France,2017-2018,nation
+Lucas Digne,France,2017-2018,nation
+Lucas Hernandez,France,2017-2018,nation
+Presnel Kimpembe,France,2017-2018,nation
+Laurent Koscielny,France,2017-2018,nation
+Benjamin Mendy,France,2017-2018,nation
+Ferland Mendy,France,2017-2018,nation
+Benjamin Pavard,France,2017-2018,nation
+Adil Rami,France,2017-2018,nation
+Mamadou Sakho,France,2017-2018,nation
+Djibril Sidibe,France,2017-2018,nation
+Samuel Umtiti,France,2017-2018,nation
+Raphael Varane,France,2017-2018,nation
+Kurt Zouma,France,2017-2018,nation
+Nabil Fekir,France,2017-2018,nation
+N'Golo Kante,France,2017-2018,nation
+Blaise Matuidi,France,2017-2018,nation
+Steven N'Zonzi,France,2017-2018,nation
+Tanguy NDombele,France,2017-2018,nation
+Dimitri Payet,France,2017-2018,nation
+Paul Pogba,France,2017-2018,nation
+Adrien Rabiot,France,2017-2018,nation
+Moussa Sissoko,France,2017-2018,nation
+Corentin Tolisso,France,2017-2018,nation
+Wissam Ben Yedder,France,2017-2018,nation
+Ousmane Dembele,France,2017-2018,nation
+Olivier Giroud,France,2017-2018,nation
+Antoine Griezmann,France,2017-2018,nation
+Thomas Lemar,France,2017-2018,nation
+Anthony Martial,France,2017-2018,nation
+Kylian Mbappe,France,2017-2018,nation
+Alassane Plea,France,2017-2018,nation
+Florian Thauvin,France,2017-2018,nation
+Didier Deschamps,France,2017-2018,nation
